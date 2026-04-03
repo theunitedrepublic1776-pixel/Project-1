@@ -1,0 +1,2945 @@
+Date,State,Group,Time,Unit,Sales
+2020-10-01,New South Wales,Kids,Morning,129.0,5032.29
+2020-10-01,New South Wales,Women,Morning,194.0,15958.44
+2020-10-01,New South Wales,Men,Evening,127.0,5894.07
+2020-10-01,New South Wales,Seniors,Afternoon,147.0,6375.39
+2020-10-01,Victoria,Kids,Afternoon,85.0,3940.6
+2020-10-01,Victoria,Women,Afternoon,123.0,6301.29
+2020-10-01,Victoria,Men,Morning,129.0,3126.96
+2020-10-01,Victoria,Seniors,Morning,42.0,1285.2
+2020-10-01,Queensland,Kids,Night,56.0,2457.84
+2020-10-01,Queensland,Women,Morning,85.0,3099.95
+2020-10-01,Queensland,Men,Morning,142.0,6605.84
+2020-10-01,Queensland,Seniors,Morning,73.0,1629.36
+2020-10-01,South Australia,Kids,Afternoon,45.0,1876.5
+2020-10-01,South Australia,Women,Afternoon,51.0,3282.36
+2020-10-01,South Australia,Men,Morning,54.0,2465.1
+2020-10-01,South Australia,Seniors,Afternoon,39.0,2097.42
+2020-10-01,Western Australia,Kids,Night,67.0,1948.36
+2020-10-01,Western Australia,Women,Afternoon,121.0,4773.45
+2020-10-01,Western Australia,Men,Night,87.0,2055.81
+2020-10-01,Western Australia,Seniors,Evening,36.0,1364.04
+2020-10-01,Tasmania,Kids,Morning,38.0,1609.3
+2020-10-01,Tasmania,Women,Afternoon,43.0,2313.4
+2020-10-01,Tasmania,Men,Night,21.0,840.0
+2020-10-01,Tasmania,Seniors,Evening,24.0,1107.6
+2020-10-01,Northern Territory,Kids,Evening,29.0,622.34
+2020-10-01,Northern Territory,Women,Afternoon,42.0,2204.58
+2020-10-01,Northern Territory,Men,Afternoon,26.0,1496.82
+2020-10-01,Northern Territory,Seniors,Evening,31.0,1393.14
+2020-10-01,Australian Capital Territory,Kids,Morning,30.0,1114.8
+2020-10-01,Australian Capital Territory,Women,Morning,64.0,4718.08
+2020-10-01,Australian Capital Territory,Men,Night,42.0,1976.1
+2020-10-01,Australian Capital Territory,Seniors,Morning,24.0,588.48
+2020-10-02,New South Wales,Kids,Evening,139.0,7665.85
+2020-10-02,New South Wales,Women,Evening,158.0,11717.28
+2020-10-02,New South Wales,Men,Evening,152.0,6228.96
+2020-10-02,New South Wales,Seniors,Morning,110.0,5584.7
+2020-10-02,Victoria,Kids,Night,97.0,5567.8
+2020-10-02,Victoria,Women,Morning,30.0,2139.6
+2020-10-02,Victoria,Men,Night,124.0,5648.2
+2020-10-02,Victoria,Seniors,Morning,90.0,1522.8
+2020-10-02,Queensland,Kids,Evening,75.0,3327.0
+2020-10-02,Queensland,Women,Evening,168.0,8468.88
+2020-10-02,Queensland,Men,Afternoon,74.0,3173.12
+2020-10-02,Queensland,Seniors,Morning,91.0,3563.56
+2020-10-02,South Australia,Kids,Morning,45.0,2071.8
+2020-10-02,South Australia,Women,Afternoon,80.0,5888.8
+2020-10-02,South Australia,Men,Evening,52.0,2348.84
+2020-10-02,South Australia,Seniors,Morning,42.0,921.9
+2020-10-02,Western Australia,Kids,Afternoon,73.0,3162.36
+2020-10-02,Western Australia,Women,Morning,97.0,5319.48
+2020-10-02,Western Australia,Men,Night,47.0,2065.65
+2020-10-02,Western Australia,Seniors,Evening,53.0,1499.9
+2020-10-02,Tasmania,Kids,Night,29.0,1300.94
+2020-10-02,Tasmania,Women,Evening,71.0,4346.62
+2020-10-02,Tasmania,Men,Afternoon,41.0,1989.32
+2020-10-02,Tasmania,Seniors,Evening,11.0,393.25
+2020-10-02,Northern Territory,Kids,Evening,27.0,1811.7
+2020-10-02,Northern Territory,Women,Afternoon,36.0,2275.2
+2020-10-02,Northern Territory,Men,Evening,32.0,1090.24
+2020-10-02,Northern Territory,Seniors,Morning,32.0,1383.04
+2020-10-02,Australian Capital Territory,Kids,Afternoon,50.0,1534.0
+2020-10-02,Australian Capital Territory,Women,Afternoon,83.0,3040.29
+2020-10-02,Australian Capital Territory,Men,Afternoon,58.0,4547.78
+2020-10-02,Australian Capital Territory,Seniors,Night,25.0,764.0
+2020-10-03,New South Wales,Kids,Night,115.0,4031.9
+2020-10-03,New South Wales,Women,Evening,86.0,5123.02
+2020-10-03,New South Wales,Men,Afternoon,93.0,5184.75
+2020-10-03,New South Wales,Seniors,Evening,72.0,3663.36
+2020-10-03,Victoria,Kids,Morning,75.0,2776.5
+2020-10-03,Victoria,Women,Afternoon,177.0,6956.1
+2020-10-03,Victoria,Men,Morning,129.0,8610.75
+2020-10-03,Victoria,Seniors,Evening,45.0,1699.65
+2020-10-03,Queensland,Kids,Night,87.0,4257.78
+2020-10-03,Queensland,Women,Evening,73.0,2766.7
+2020-10-03,Queensland,Men,Morning,114.0,6089.88
+2020-10-03,Queensland,Seniors,Afternoon,77.0,3028.41
+2020-10-03,South Australia,Kids,Evening,42.0,1806.42
+2020-10-03,South Australia,Women,Afternoon,84.0,3978.24
+2020-10-03,South Australia,Men,Night,102.0,5686.5
+2020-10-03,South Australia,Seniors,Night,30.0,1269.0
+2020-10-03,Western Australia,Kids,Night,47.0,2303.0
+2020-10-03,Western Australia,Women,Afternoon,131.0,5986.7
+2020-10-03,Western Australia,Men,Evening,106.0,5824.7
+2020-10-03,Western Australia,Seniors,Afternoon,74.0,4011.54
+2020-10-03,Tasmania,Kids,Afternoon,29.0,938.44
+2020-10-03,Tasmania,Women,Evening,33.0,1510.41
+2020-10-03,Tasmania,Men,Night,37.0,1998.0
+2020-10-03,Tasmania,Seniors,Night,30.0,1318.2
+2020-10-03,Northern Territory,Kids,Evening,27.0,1517.4
+2020-10-03,Northern Territory,Women,Afternoon,35.0,3532.55
+2020-10-03,Northern Territory,Men,Afternoon,39.0,1489.41
+2020-10-03,Northern Territory,Seniors,Night,16.0,650.08
+2020-10-03,Australian Capital Territory,Kids,Morning,37.0,1783.77
+2020-10-03,Australian Capital Territory,Women,Morning,66.0,3785.76
+2020-10-03,Australian Capital Territory,Men,Morning,36.0,1062.0
+2020-10-03,Australian Capital Territory,Seniors,Afternoon,31.0,1370.82
+2020-10-04,New South Wales,Kids,Afternoon,119.0,3218.95
+2020-10-04,New South Wales,Women,Night,170.0,10966.7
+2020-10-04,New South Wales,Men,Morning,101.0,5204.53
+2020-10-04,New South Wales,Seniors,Night,101.0,2528.03
+2020-10-04,Victoria,Kids,Night,109.0,5075.04
+2020-10-04,Victoria,Women,Night,189.0,14163.66
+2020-10-04,Victoria,Men,Evening,70.0,2598.4
+2020-10-04,Victoria,Seniors,Morning,101.0,4133.93
+2020-10-04,Queensland,Kids,Morning,93.0,7636.23
+2020-10-04,Queensland,Women,Evening,137.0,10440.77
+2020-10-04,Queensland,Men,Evening,127.0,7378.7
+2020-10-04,Queensland,Seniors,Morning,65.0,2813.85
+2020-10-04,South Australia,Kids,Evening,41.0,1555.54
+2020-10-04,South Australia,Women,Night,66.0,3945.48
+2020-10-04,South Australia,Men,Afternoon,111.0,2758.35
+2020-10-04,South Australia,Seniors,Night,57.0,1169.64
+2020-10-04,Western Australia,Kids,Morning,57.0,2978.82
+2020-10-04,Western Australia,Women,Evening,99.0,4127.31
+2020-10-04,Western Australia,Men,Afternoon,64.0,3742.08
+2020-10-04,Western Australia,Seniors,Morning,46.0,1751.68
+2020-10-04,Tasmania,Kids,Evening,31.0,1037.26
+2020-10-04,Tasmania,Women,Afternoon,74.0,5060.86
+2020-10-04,Tasmania,Men,Afternoon,15.0,779.4
+2020-10-04,Tasmania,Seniors,Evening,22.0,971.96
+2020-10-04,Northern Territory,Kids,Afternoon,20.0,785.2
+2020-10-04,Northern Territory,Women,Morning,44.0,3168.44
+2020-10-04,Northern Territory,Men,Evening,21.0,946.68
+2020-10-04,Northern Territory,Seniors,Night,20.0,594.6
+2020-10-04,Australian Capital Territory,Kids,Morning,61.0,2737.07
+2020-10-04,Australian Capital Territory,Women,Morning,36.0,2621.52
+2020-10-04,Australian Capital Territory,Men,Evening,81.0,5113.53
+2020-10-04,Australian Capital Territory,Seniors,Evening,19.0,595.65
+2020-10-05,New South Wales,Kids,Afternoon,155.0,5093.3
+2020-10-05,New South Wales,Women,Morning,184.0,12986.72
+2020-10-05,New South Wales,Men,Afternoon,99.0,4822.29
+2020-10-05,New South Wales,Seniors,Morning,2.0,52.34
+2020-10-05,Victoria,Kids,Morning,91.0,2458.82
+2020-10-05,Victoria,Women,Night,213.0,7708.47
+2020-10-05,Victoria,Men,Morning,105.0,5379.15
+2020-10-05,Victoria,Seniors,Afternoon,126.0,2799.72
+2020-10-05,Queensland,Kids,Afternoon,109.0,4426.49
+2020-10-05,Queensland,Women,Night,82.0,5388.22
+2020-10-05,Queensland,Men,Afternoon,104.0,4324.32
+2020-10-05,Queensland,Seniors,Evening,73.0,2357.9
+2020-10-05,South Australia,Kids,Night,55.0,2620.75
+2020-10-05,South Australia,Women,Afternoon,115.0,4506.85
+2020-10-05,South Australia,Men,Afternoon,108.0,2562.84
+2020-10-05,South Australia,Seniors,Evening,45.0,1874.25
+2020-10-05,Western Australia,Kids,Night,73.0,2465.21
+2020-10-05,Western Australia,Women,Evening,91.0,4623.71
+2020-10-05,Western Australia,Men,Night,67.0,4067.57
+2020-10-05,Western Australia,Seniors,Night,66.0,1937.1
+2020-10-05,Tasmania,Kids,Morning,40.0,1752.8
+2020-10-05,Tasmania,Women,Afternoon,56.0,3825.92
+2020-10-05,Tasmania,Men,Afternoon,28.0,1179.08
+2020-10-05,Tasmania,Seniors,Morning,34.0,1423.24
+2020-10-05,Northern Territory,Kids,Evening,26.0,1086.02
+2020-10-05,Northern Territory,Women,Morning,53.0,2611.31
+2020-10-05,Northern Territory,Men,Afternoon,38.0,1779.54
+2020-10-05,Northern Territory,Seniors,Afternoon,22.0,1024.1
+2020-10-05,Australian Capital Territory,Kids,Morning,50.0,2464.5
+2020-10-05,Australian Capital Territory,Women,Morning,81.0,4765.23
+2020-10-05,Australian Capital Territory,Men,Morning,59.0,2678.6
+2020-10-05,Australian Capital Territory,Seniors,Afternoon,39.0,1355.25
+2020-10-06,New South Wales,Kids,Morning,115.0,5396.95
+2020-10-06,New South Wales,Women,Morning,122.0,11119.08
+2020-10-06,New South Wales,Men,Evening,96.0,3213.12
+2020-10-06,New South Wales,Seniors,Morning,134.0,5842.4
+2020-10-06,Victoria,Kids,Afternoon,117.0,5532.93
+2020-10-06,Victoria,Women,Evening,142.0,6319.0
+2020-10-06,Victoria,Men,Night,123.0,4988.88
+2020-10-06,Victoria,Seniors,Afternoon,113.0,3908.67
+2020-10-06,Queensland,Kids,Afternoon,60.0,2221.8
+2020-10-06,Queensland,Women,Night,131.0,6512.01
+2020-10-06,Queensland,Men,Afternoon,74.0,3901.28
+2020-10-06,Queensland,Seniors,Night,77.0,2397.01
+2020-10-06,South Australia,Kids,Night,46.0,1978.46
+2020-10-06,South Australia,Women,Afternoon,44.0,1607.76
+2020-10-06,South Australia,Men,Morning,51.0,2380.68
+2020-10-06,South Australia,Seniors,Morning,52.0,2608.32
+2020-10-06,Western Australia,Kids,Night,84.0,3256.68
+2020-10-06,Western Australia,Women,Evening,96.0,4114.56
+2020-10-06,Western Australia,Men,Night,82.0,3746.58
+2020-10-06,Western Australia,Seniors,Night,65.0,1823.9
+2020-10-06,Tasmania,Kids,Night,36.0,2053.8
+2020-10-06,Tasmania,Women,Morning,44.0,2849.88
+2020-10-06,Tasmania,Men,Morning,46.0,
+2020-10-06,Tasmania,Seniors,Morning,,1047.48
+2020-10-06,Northern Territory,Kids,Night,27.0,868.05
+2020-10-06,Northern Territory,Women,Evening,39.0,2584.53
+2020-10-06,Northern Territory,Men,Morning,47.0,2921.52
+2020-10-06,Northern Territory,Seniors,Afternoon,39.0,1116.57
+2020-10-06,Australian Capital Territory,Kids,Afternoon,51.0,2166.48
+2020-10-06,Australian Capital Territory,Women,Afternoon,96.0,4405.44
+2020-10-06,Australian Capital Territory,Men,Night,37.0,1538.83
+2020-10-06,Australian Capital Territory,Seniors,Afternoon,13.0,402.35
+2020-10-07,New South Wales,Kids,Night,86.0,3622.32
+2020-10-07,New South Wales,Women,Afternoon,179.0,15710.83
+2020-10-07,New South Wales,Men,Evening,176.0,7370.88
+2020-10-07,New South Wales,Seniors,Night,73.0,2972.56
+2020-10-07,Victoria,Kids,Afternoon,59.0,3556.52
+2020-10-07,Victoria,Women,Morning,193.0,9877.74
+2020-10-07,Victoria,Men,Night,58.0,3907.46
+2020-10-07,Victoria,Seniors,Morning,84.0,4021.92
+2020-10-07,Queensland,Kids,Morning,42.0,1429.26
+2020-10-07,Queensland,Women,Morning,117.0,6929.91
+2020-10-07,Queensland,Men,Morning,85.0,4906.2
+2020-10-07,Queensland,Seniors,Afternoon,48.0,1662.24
+2020-10-07,South Australia,Kids,Afternoon,55.0,2533.3
+2020-10-07,South Australia,Women,Night,94.0,3850.24
+2020-10-07,South Australia,Men,Night,35.0,2322.95
+2020-10-07,South Australia,Seniors,Night,52.0,1498.12
+2020-10-07,Western Australia,Kids,Afternoon,98.0,4091.5
+2020-10-07,Western Australia,Women,Night,131.0,7801.05
+2020-10-07,Western Australia,Men,Morning,133.0,9665.11
+2020-10-07,Western Australia,Seniors,Afternoon,55.0,2493.15
+2020-10-07,Tasmania,Kids,Night,37.0,2045.36
+2020-10-07,Tasmania,Women,Morning,32.0,2214.4
+2020-10-07,Tasmania,Men,Night,50.0,1314.0
+2020-10-07,Tasmania,Seniors,Evening,18.0,295.56
+2020-10-07,Northern Territory,Kids,Night,24.0,1158.0
+2020-10-07,Northern Territory,Women,Evening,56.0,3340.96
+2020-10-07,Northern Territory,Men,Night,49.0,1532.72
+2020-10-07,Northern Territory,Seniors,Night,11.0,390.17
+2020-10-07,Australian Capital Territory,Kids,Afternoon,45.0,1806.75
+2020-10-07,Australian Capital Territory,Women,Afternoon,22.0,1256.42
+2020-10-07,Australian Capital Territory,Men,Evening,30.0,1750.2
+2020-10-07,Australian Capital Territory,Seniors,Afternoon,39.0,1052.22
+2020-10-08,New South Wales,Kids,Morning,95.0,2760.7
+2020-10-08,New South Wales,Women,Morning,159.0,11670.6
+2020-10-08,New South Wales,Men,Evening,96.0,5390.4
+2020-10-08,New South Wales,Seniors,Morning,84.0,2384.76
+2020-10-08,Victoria,Kids,Morning,95.0,2785.4
+2020-10-08,Victoria,Women,Night,119.0,4737.39
+2020-10-08,Victoria,Men,Afternoon,192.0,9594.24
+2020-10-08,Victoria,Seniors,Morning,69.0,2625.45
+2020-10-08,Queensland,Kids,Morning,78.0,2972.58
+2020-10-08,Queensland,Women,Afternoon,138.0,9704.16
+2020-10-08,Queensland,Men,Morning,83.0,3477.7
+2020-10-08,Queensland,Seniors,Morning,66.0,917.4
+2020-10-08,South Australia,Kids,Afternoon,29.0,1602.54
+2020-10-08,South Australia,Women,Night,116.0,6335.92
+2020-10-08,South Australia,Men,Morning,77.0,4127.97
+2020-10-08,South Australia,Seniors,Afternoon,92.0,4301.0
+2020-10-08,Western Australia,Kids,Morning,64.0,1931.52
+2020-10-08,Western Australia,Women,Morning,50.0,3083.5
+2020-10-08,Western Australia,Men,Night,63.0,1935.99
+2020-10-08,Western Australia,Seniors,Evening,48.0,1229.76
+2020-10-08,Tasmania,Kids,Evening,47.0,2350.94
+2020-10-08,Tasmania,Women,Afternoon,45.0,3671.55
+2020-10-08,Tasmania,Men,Evening,39.0,1487.07
+2020-10-08,Tasmania,Seniors,Afternoon,40.0,1646.8
+2020-10-08,Northern Territory,Kids,Evening,18.0,691.92
+2020-10-08,Northern Territory,Women,Night,28.0,1034.04
+2020-10-08,Northern Territory,Men,Afternoon,42.0,3137.4
+2020-10-08,Northern Territory,Seniors,Evening,13.0,538.2
+2020-10-08,Australian Capital Territory,Kids,Night,32.0,1127.68
+2020-10-08,Australian Capital Territory,Women,Evening,48.0,2160.96
+2020-10-08,Australian Capital Territory,Men,Morning,50.0,1926.5
+2020-10-08,Australian Capital Territory,Seniors,Morning,38.0,1349.76
+2020-10-09,New South Wales,Kids,Night,104.0,3192.8
+2020-10-09,New South Wales,Women,Morning,134.0,9417.52
+2020-10-09,New South Wales,Men,Morning,158.0,5782.8
+2020-10-09,New South Wales,Seniors,Afternoon,102.0,4407.42
+2020-10-09,Victoria,Kids,Evening,49.0,2272.13
+2020-10-09,Victoria,Women,Afternoon,114.0,
+2020-10-09,Victoria,Men,Evening,93.0,2388.24
+2020-10-09,Victoria,Seniors,Morning,45.0,1640.7
+2020-10-09,Queensland,Kids,Afternoon,87.0,2673.51
+2020-10-09,Queensland,Women,Evening,139.0,4528.62
+2020-10-09,Queensland,Men,Evening,97.0,3250.47
+2020-10-09,Queensland,Seniors,Afternoon,57.0,2078.22
+2020-10-09,South Australia,Kids,Night,40.0,1454.0
+2020-10-09,South Australia,Women,Evening,101.0,4999.5
+2020-10-09,South Australia,Men,Morning,82.0,2836.38
+2020-10-09,South Australia,Seniors,Evening,55.0,2741.2
+2020-10-09,Western Australia,Kids,Morning,17.0,542.13
+2020-10-09,Western Australia,Women,Afternoon,114.0,6307.62
+2020-10-09,Western Australia,Men,Evening,91.0,3779.23
+2020-10-09,Western Australia,Seniors,Morning,61.0,2105.11
+2020-10-09,Tasmania,Kids,Morning,42.0,1816.5
+2020-10-09,Tasmania,Women,Afternoon,50.0,2603.5
+2020-10-09,Tasmania,Men,Evening,32.0,1401.28
+2020-10-09,Tasmania,Seniors,Evening,31.0,990.76
+2020-10-09,Northern Territory,Kids,Afternoon,29.0,1824.39
+2020-10-09,Northern Territory,Women,Evening,49.0,2617.09
+2020-10-09,Northern Territory,Men,Afternoon,,1940.84
+2020-10-09,Northern Territory,Seniors,Evening,9.0,236.88
+2020-10-09,Australian Capital Territory,Kids,Night,17.0,623.9
+2020-10-09,Australian Capital Territory,Women,Evening,58.0,4909.7
+2020-10-09,Australian Capital Territory,Men,Morning,54.0,2516.94
+2020-10-09,Australian Capital Territory,Seniors,Morning,44.0,649.88
+2020-10-10,New South Wales,Kids,Night,120.0,5859.6
+2020-10-10,New South Wales,Women,Evening,90.0,6870.6
+2020-10-10,New South Wales,Men,Morning,151.0,6647.02
+2020-10-10,New South Wales,Seniors,Morning,118.0,6820.4
+2020-10-10,Victoria,Kids,Evening,104.0,4490.72
+2020-10-10,Victoria,Women,Afternoon,123.0,5564.52
+2020-10-10,Victoria,Men,Evening,,5768.2
+2020-10-10,Victoria,Seniors,Afternoon,89.0,2795.49
+2020-10-10,Queensland,Kids,Night,92.0,4057.2
+2020-10-10,Queensland,Women,Night,153.0,7732.62
+2020-10-10,Queensland,Men,Morning,90.0,3292.2
+2020-10-10,Queensland,Seniors,Morning,62.0,2456.44
+2020-10-10,South Australia,Kids,Morning,66.0,
+2020-10-10,South Australia,Women,Afternoon,98.0,7805.7
+2020-10-10,South Australia,Men,Morning,74.0,5495.98
+2020-10-10,South Australia,Seniors,Evening,36.0,865.8
+2020-10-10,Western Australia,Kids,Afternoon,31.0,
+2020-10-10,Western Australia,Women,Night,116.0,6685.08
+2020-10-10,Western Australia,Men,Afternoon,89.0,3082.96
+2020-10-10,Western Australia,Seniors,Morning,104.0,3872.96
+2020-10-10,Tasmania,Kids,Evening,32.0,1546.88
+2020-10-10,Tasmania,Women,Evening,52.0,3223.48
+2020-10-10,Tasmania,Men,Morning,29.0,1615.88
+2020-10-10,Tasmania,Seniors,Evening,43.0,2103.56
+2020-10-10,Northern Territory,Kids,Afternoon,39.0,1364.22
+2020-10-10,Northern Territory,Women,Afternoon,27.0,1526.58
+2020-10-10,Northern Territory,Men,Morning,33.0,2110.02
+2020-10-10,Northern Territory,Seniors,Evening,11.0,557.48
+2020-10-10,Australian Capital Territory,Kids,Night,38.0,1363.82
+2020-10-10,Australian Capital Territory,Women,Afternoon,40.0,1307.2
+2020-10-10,Australian Capital Territory,Men,Afternoon,61.0,3078.67
+2020-10-10,Australian Capital Territory,Seniors,Afternoon,22.0,518.54
+2020-10-11,New South Wales,Kids,Afternoon,101.0,5911.53
+2020-10-11,New South Wales,Women,Night,149.0,5222.45
+2020-10-11,New South Wales,Men,Morning,127.0,5829.3
+2020-10-11,New South Wales,Seniors,Afternoon,19.0,674.12
+2020-10-11,Victoria,Kids,Evening,92.0,4417.84
+2020-10-11,Victoria,Women,Night,222.0,16887.54
+2020-10-11,Victoria,Men,Afternoon,111.0,3872.79
+2020-10-11,Victoria,Seniors,Evening,155.0,5668.35
+2020-10-11,Queensland,Kids,Afternoon,81.0,3259.44
+2020-10-11,Queensland,Women,Morning,123.0,6918.75
+2020-10-11,Queensland,Men,Night,81.0,3424.68
+2020-10-11,Queensland,Seniors,Morning,71.0,2185.38
+2020-10-11,South Australia,Kids,Night,42.0,1749.3
+2020-10-11,South Australia,Women,Afternoon,72.0,5901.12
+2020-10-11,South Australia,Men,Afternoon,13.0,830.83
+2020-10-11,South Australia,Seniors,Night,65.0,1046.5
+2020-10-11,Western Australia,Kids,Evening,60.0,2189.4
+2020-10-11,Western Australia,Women,Evening,56.0,
+2020-10-11,Western Australia,Men,Afternoon,55.0,3994.65
+2020-10-11,Western Australia,Seniors,Afternoon,76.0,3663.96
+2020-10-11,Tasmania,Kids,Morning,38.0,1075.78
+2020-10-11,Tasmania,Women,Afternoon,38.0,2512.94
+2020-10-11,Tasmania,Men,Night,24.0,1413.84
+2020-10-11,Tasmania,Seniors,Evening,25.0,810.0
+2020-10-11,Northern Territory,Kids,Evening,,1449.6
+2020-10-11,Northern Territory,Women,Morning,34.0,2604.06
+2020-10-11,Northern Territory,Men,Evening,22.0,1267.86
+2020-10-11,Northern Territory,Seniors,Evening,28.0,924.84
+2020-10-11,Australian Capital Territory,Kids,Night,44.0,1187.56
+2020-10-11,Australian Capital Territory,Women,Evening,74.0,4115.88
+2020-10-11,Australian Capital Territory,Men,Morning,41.0,2597.35
+2020-10-11,Australian Capital Territory,Seniors,Morning,28.0,629.44
+2020-10-12,New South Wales,Kids,Evening,59.0,2775.36
+2020-10-12,New South Wales,Women,Afternoon,100.0,8587.0
+2020-10-12,New South Wales,Men,Evening,51.0,3666.39
+2020-10-12,New South Wales,Seniors,Morning,106.0,3717.42
+2020-10-12,Victoria,Kids,Morning,82.0,3674.42
+2020-10-12,Victoria,Women,Night,141.0,10675.11
+2020-10-12,Victoria,Men,Evening,125.0,6435.0
+2020-10-12,Victoria,Seniors,Evening,78.0,2765.1
+2020-10-12,Queensland,Kids,Night,88.0,1938.64
+2020-10-12,Queensland,Women,Morning,69.0,4836.21
+2020-10-12,Queensland,Men,Night,104.0,4895.28
+2020-10-12,Queensland,Seniors,Afternoon,72.0,2832.48
+2020-10-12,South Australia,Kids,Evening,45.0,1444.05
+2020-10-12,South Australia,Women,Morning,82.0,3545.68
+2020-10-12,South Australia,Men,Night,74.0,2000.22
+2020-10-12,South Australia,Seniors,Morning,62.0,2513.48
+2020-10-12,Western Australia,Kids,Afternoon,72.0,3679.92
+2020-10-12,Western Australia,Women,Evening,146.0,10850.72
+2020-10-12,Western Australia,Men,Night,36.0,1173.96
+2020-10-12,Western Australia,Seniors,Morning,48.0,1740.0
+2020-10-12,Tasmania,Kids,Evening,36.0,1175.76
+2020-10-12,Tasmania,Women,Evening,48.0,2242.56
+2020-10-12,Tasmania,Men,Morning,31.0,958.83
+2020-10-12,Tasmania,Seniors,Evening,20.0,460.4
+2020-10-12,Northern Territory,Kids,Evening,19.0,985.72
+2020-10-12,Northern Territory,Women,Night,27.0,2688.39
+2020-10-12,Northern Territory,Men,Evening,37.0,1921.78
+2020-10-12,Northern Territory,Seniors,Night,17.0,726.24
+2020-10-12,Australian Capital Territory,Kids,Evening,33.0,1380.06
+2020-10-12,Australian Capital Territory,Women,Afternoon,103.0,5871.0
+2020-10-12,Australian Capital Territory,Men,Afternoon,66.0,2654.52
+2020-10-12,Australian Capital Territory,Seniors,Night,35.0,1855.0
+2020-10-13,New South Wales,Kids,Night,91.0,5466.37
+2020-10-13,New South Wales,Women,Afternoon,197.0,9796.81
+2020-10-13,New South Wales,Men,Evening,163.0,10161.42
+2020-10-13,New South Wales,Seniors,Night,118.0,2469.74
+2020-10-13,Victoria,Kids,Morning,77.0,2912.91
+2020-10-13,Victoria,Women,Evening,139.0,9477.02
+2020-10-13,Victoria,Men,Evening,127.0,4047.49
+2020-10-13,Victoria,Seniors,Afternoon,98.0,4102.28
+2020-10-13,Queensland,Kids,Night,94.0,4903.98
+2020-10-13,Queensland,Women,Evening,146.0,9586.36
+2020-10-13,Queensland,Men,Night,96.0,2647.68
+2020-10-13,Queensland,Seniors,Night,81.0,3077.19
+2020-10-13,South Australia,Kids,Night,58.0,1549.18
+2020-10-13,South Australia,Women,Afternoon,52.0,3896.36
+2020-10-13,South Australia,Men,Night,65.0,3802.5
+2020-10-13,South Australia,Seniors,Afternoon,48.0,1741.92
+2020-10-13,Western Australia,Kids,Morning,86.0,3003.98
+2020-10-13,Western Australia,Women,Evening,100.0,5129.0
+2020-10-13,Western Australia,Men,Evening,71.0,3224.82
+2020-10-13,Western Australia,Seniors,Morning,63.0,
+2020-10-13,Tasmania,Kids,Afternoon,43.0,1326.12
+2020-10-13,Tasmania,Women,Evening,42.0,2168.88
+2020-10-13,Tasmania,Men,Afternoon,55.0,2864.95
+2020-10-13,Tasmania,Seniors,Afternoon,36.0,782.64
+2020-10-13,Northern Territory,Kids,Afternoon,29.0,1453.19
+2020-10-13,Northern Territory,Women,Morning,39.0,2929.68
+2020-10-13,Northern Territory,Men,Morning,27.0,1838.7
+2020-10-13,Northern Territory,Seniors,Afternoon,40.0,1300.8
+2020-10-13,Australian Capital Territory,Kids,Night,35.0,1967.0
+2020-10-13,Australian Capital Territory,Women,Morning,86.0,4329.24
+2020-10-13,Australian Capital Territory,Men,Night,43.0,1968.54
+2020-10-13,Australian Capital Territory,Seniors,Night,21.0,570.78
+2020-10-14,New South Wales,Kids,Afternoon,78.0,2512.38
+2020-10-14,New South Wales,Women,Night,160.0,9944.0
+2020-10-14,New South Wales,Men,Night,201.0,7300.32
+2020-10-14,New South Wales,Seniors,Night,129.0,4379.55
+2020-10-14,Victoria,Kids,Afternoon,97.0,4635.63
+2020-10-14,Victoria,Women,Afternoon,94.0,6060.18
+2020-10-14,Victoria,Men,Morning,127.0,7112.0
+2020-10-14,Victoria,Seniors,Morning,95.0,5659.15
+2020-10-14,Queensland,Kids,Night,65.0,2260.05
+2020-10-14,Queensland,Women,Afternoon,95.0,4733.85
+2020-10-14,Queensland,Men,Afternoon,80.0,5216.0
+2020-10-14,Queensland,Seniors,Night,102.0,3113.04
+2020-10-14,South Australia,Kids,Morning,40.0,1823.6
+2020-10-14,South Australia,Women,Afternoon,65.0,4444.05
+2020-10-14,South Australia,Men,Morning,70.0,2064.3
+2020-10-14,South Australia,Seniors,Night,70.0,3726.8
+2020-10-14,Western Australia,Kids,Afternoon,55.0,1997.05
+2020-10-14,Western Australia,Women,Night,105.0,6690.6
+2020-10-14,Western Australia,Men,Evening,98.0,7450.94
+2020-10-14,Western Australia,Seniors,Night,56.0,1587.04
+2020-10-14,Tasmania,Kids,Night,18.0,586.98
+2020-10-14,Tasmania,Women,Night,45.0,3892.5
+2020-10-14,Tasmania,Men,Afternoon,32.0,1678.4
+2020-10-14,Tasmania,Seniors,Night,27.0,1280.07
+2020-10-14,Northern Territory,Kids,Night,47.0,1634.19
+2020-10-14,Northern Territory,Women,Evening,33.0,2468.07
+2020-10-14,Northern Territory,Men,Afternoon,39.0,2881.32
+2020-10-14,Northern Territory,Seniors,Evening,28.0,911.4
+2020-10-14,Australian Capital Territory,Kids,Night,47.0,2466.09
+2020-10-14,Australian Capital Territory,Women,Afternoon,72.0,4781.52
+2020-10-14,Australian Capital Territory,Men,Evening,65.0,4220.45
+2020-10-14,Australian Capital Territory,Seniors,Night,50.0,2111.5
+2020-10-15,New South Wales,Kids,Morning,106.0,4460.48
+2020-10-15,New South Wales,Women,Evening,221.0,10112.96
+2020-10-15,New South Wales,Men,Afternoon,152.0,6735.12
+2020-10-15,New South Wales,Seniors,Evening,100.0,4827.0
+2020-10-15,Victoria,Kids,Evening,104.0,4264.0
+2020-10-15,Victoria,Women,Evening,84.0,5891.76
+2020-10-15,Victoria,Men,Morning,144.0,11239.2
+2020-10-15,Victoria,Seniors,Afternoon,79.0,3009.9
+2020-10-15,Queensland,Kids,Afternoon,87.0,5005.98
+2020-10-15,Queensland,Women,Afternoon,113.0,7102.05
+2020-10-15,Queensland,Men,Night,117.0,6079.32
+2020-10-15,Queensland,Seniors,Afternoon,62.0,2347.32
+2020-10-15,South Australia,Kids,Afternoon,71.0,2088.11
+2020-10-15,South Australia,Women,Morning,81.0,3853.98
+2020-10-15,South Australia,Men,Night,89.0,2615.71
+2020-10-15,South Australia,Seniors,Night,39.0,1545.18
+2020-10-15,Western Australia,Kids,Evening,99.0,3939.21
+2020-10-15,Western Australia,Women,Night,81.0,7115.85
+2020-10-15,Western Australia,Men,Night,46.0,942.08
+2020-10-15,Western Australia,Seniors,Morning,67.0,2089.06
+2020-10-15,Tasmania,Kids,Afternoon,21.0,1011.15
+2020-10-15,Tasmania,Women,Night,48.0,2385.6
+2020-10-15,Tasmania,Men,Night,23.0,1403.46
+2020-10-15,Tasmania,Seniors,Morning,33.0,1156.65
+2020-10-15,Northern Territory,Kids,Night,41.0,1186.54
+2020-10-15,Northern Territory,Women,Night,21.0,1001.91
+2020-10-15,Northern Territory,Men,Morning,32.0,1686.72
+2020-10-15,Northern Territory,Seniors,Evening,22.0,866.36
+2020-10-15,Australian Capital Territory,Kids,Evening,25.0,1402.25
+2020-10-15,Australian Capital Territory,Women,Night,57.0,4328.01
+2020-10-15,Australian Capital Territory,Men,Night,54.0,2998.62
+2020-10-15,Australian Capital Territory,Seniors,Afternoon,42.0,1692.6
+2020-10-16,New South Wales,Kids,Night,134.0,7349.9
+2020-10-16,New South Wales,Women,Afternoon,172.0,11964.32
+2020-10-16,New South Wales,Men,Evening,133.0,9111.83
+2020-10-16,New South Wales,Seniors,Night,79.0,4209.91
+2020-10-16,Victoria,Kids,Night,97.0,2429.85
+2020-10-16,Victoria,Women,Morning,148.0,7086.24
+2020-10-16,Victoria,Men,Night,151.0,6174.39
+2020-10-16,Victoria,Seniors,Evening,76.0,1357.36
+2020-10-16,Queensland,Kids,Night,70.0,1002.4
+2020-10-16,Queensland,Women,Afternoon,61.0,4291.96
+2020-10-16,Queensland,Men,Night,122.0,6724.64
+2020-10-16,Queensland,Seniors,Afternoon,51.0,1812.54
+2020-10-16,South Australia,Kids,Morning,53.0,1483.47
+2020-10-16,South Australia,Women,Night,113.0,8157.47
+2020-10-16,South Australia,Men,Morning,61.0,3040.85
+2020-10-16,South Australia,Seniors,Morning,51.0,836.4
+2020-10-16,Western Australia,Kids,Night,62.0,2054.06
+2020-10-16,Western Australia,Women,Afternoon,68.0,3679.48
+2020-10-16,Western Australia,Men,Night,126.0,7302.96
+2020-10-16,Western Australia,Seniors,Afternoon,49.0,2033.5
+2020-10-16,Tasmania,Kids,Morning,44.0,2221.56
+2020-10-16,Tasmania,Women,Evening,46.0,2226.86
+2020-10-16,Tasmania,Men,Night,46.0,2515.74
+2020-10-16,Tasmania,Seniors,Evening,,1473.5
+2020-10-16,Northern Territory,Kids,Afternoon,35.0,1215.2
+2020-10-16,Northern Territory,Women,Night,54.0,3325.32
+2020-10-16,Northern Territory,Men,Evening,53.0,2141.2
+2020-10-16,Northern Territory,Seniors,Evening,36.0,1364.4
+2020-10-16,Australian Capital Territory,Kids,Night,32.0,1128.64
+2020-10-16,Australian Capital Territory,Women,Evening,52.0,3386.24
+2020-10-16,Australian Capital Territory,Men,Night,57.0,2390.01
+2020-10-16,Australian Capital Territory,Seniors,Evening,35.0,1979.95
+2020-10-17,New South Wales,Kids,Morning,170.0,7685.7
+2020-10-17,New South Wales,Women,Night,164.0,9900.68
+2020-10-17,New South Wales,Men,Morning,162.0,5832.0
+2020-10-17,New South Wales,Seniors,Morning,92.0,1838.16
+2020-10-17,Victoria,Kids,Evening,110.0,5223.9
+2020-10-17,Victoria,Women,Afternoon,122.0,10132.1
+2020-10-17,Victoria,Men,Morning,76.0,2292.92
+2020-10-17,Victoria,Seniors,Morning,93.0,4282.65
+2020-10-17,Queensland,Kids,Morning,121.0,4300.34
+2020-10-17,Queensland,Women,Afternoon,154.0,8916.6
+2020-10-17,Queensland,Men,Afternoon,93.0,5687.88
+2020-10-17,Queensland,Seniors,Morning,86.0,1794.82
+2020-10-17,South Australia,Kids,Afternoon,77.0,4265.8
+2020-10-17,South Australia,Women,Afternoon,63.0,4074.21
+2020-10-17,South Australia,Men,Afternoon,75.0,3970.5
+2020-10-17,South Australia,Seniors,Night,40.0,1182.0
+2020-10-17,Western Australia,Kids,Morning,66.0,3509.22
+2020-10-17,Western Australia,Women,Afternoon,113.0,5957.36
+2020-10-17,Western Australia,Men,Night,101.0,1201.9
+2020-10-17,Western Australia,Seniors,Evening,80.0,1544.0
+2020-10-17,Tasmania,Kids,Evening,28.0,795.48
+2020-10-17,Tasmania,Women,Afternoon,27.0,2068.47
+2020-10-17,Tasmania,Men,Morning,33.0,1784.31
+2020-10-17,Tasmania,Seniors,Afternoon,27.0,1095.66
+2020-10-17,Northern Territory,Kids,Evening,27.0,719.28
+2020-10-17,Northern Territory,Women,Morning,50.0,2540.0
+2020-10-17,Northern Territory,Men,Morning,17.0,745.45
+2020-10-17,Northern Territory,Seniors,Evening,34.0,1501.44
+2020-10-17,Australian Capital Territory,Kids,Night,36.0,1322.28
+2020-10-17,Australian Capital Territory,Women,Night,52.0,4726.8
+2020-10-17,Australian Capital Territory,Men,Afternoon,55.0,3034.9
+2020-10-17,Australian Capital Territory,Seniors,Morning,47.0,1799.63
+2020-10-18,New South Wales,Kids,Afternoon,103.0,3953.14
+2020-10-18,New South Wales,Women,Morning,159.0,9209.28
+2020-10-18,New South Wales,Men,Evening,167.0,8381.73
+2020-10-18,New South Wales,Seniors,Morning,121.0,4262.83
+2020-10-18,Victoria,Kids,Morning,101.0,1910.92
+2020-10-18,Victoria,Women,Evening,182.0,11631.62
+2020-10-18,Victoria,Men,Night,157.0,1769.39
+2020-10-18,Victoria,Seniors,Evening,143.0,4956.38
+2020-10-18,Queensland,Kids,Morning,107.0,3131.89
+2020-10-18,Queensland,Women,Evening,138.0,5805.66
+2020-10-18,Queensland,Men,Morning,80.0,5981.6
+2020-10-18,Queensland,Seniors,Night,67.0,2552.03
+2020-10-18,South Australia,Kids,Night,68.0,3117.8
+2020-10-18,South Australia,Women,Morning,81.0,5199.39
+2020-10-18,South Australia,Men,Night,113.0,5507.62
+2020-10-18,South Australia,Seniors,Evening,50.0,2304.5
+2020-10-18,Western Australia,Kids,Night,89.0,4745.48
+2020-10-18,Western Australia,Women,Afternoon,116.0,4717.72
+2020-10-18,Western Australia,Men,Night,122.0,4193.14
+2020-10-18,Western Australia,Seniors,Afternoon,65.0,1869.4
+2020-10-18,Tasmania,Kids,Evening,30.0,1321.5
+2020-10-18,Tasmania,Women,Night,49.0,3188.92
+2020-10-18,Tasmania,Men,Night,57.0,3162.93
+2020-10-18,Tasmania,Seniors,Night,25.0,1131.5
+2020-10-18,Northern Territory,Kids,Evening,36.0,980.64
+2020-10-18,Northern Territory,Women,Evening,45.0,3124.8
+2020-10-18,Northern Territory,Men,Afternoon,30.0,2029.8
+2020-10-18,Northern Territory,Seniors,Morning,22.0,818.62
+2020-10-18,Australian Capital Territory,Kids,Evening,38.0,1545.46
+2020-10-18,Australian Capital Territory,Women,Night,39.0,1405.56
+2020-10-18,Australian Capital Territory,Men,Afternoon,73.0,2797.36
+2020-10-18,Australian Capital Territory,Seniors,Night,25.0,383.25
+2020-10-19,New South Wales,Kids,Night,90.0,2358.9
+2020-10-19,New South Wales,Women,Evening,242.0,17968.5
+2020-10-19,New South Wales,Men,Morning,109.0,8636.07
+2020-10-19,New South Wales,Seniors,Night,129.0,4241.52
+2020-10-19,Victoria,Kids,Evening,24.0,1565.76
+2020-10-19,Victoria,Women,Afternoon,83.0,2724.89
+2020-10-19,Victoria,Men,Night,158.0,12908.6
+2020-10-19,Victoria,Seniors,Afternoon,124.0,5134.84
+2020-10-19,Queensland,Kids,Evening,95.0,4723.4
+2020-10-19,Queensland,Women,Evening,143.0,8993.27
+2020-10-19,Queensland,Men,Evening,102.0,4964.34
+2020-10-19,Queensland,Seniors,Evening,55.0,1832.05
+2020-10-19,South Australia,Kids,Evening,26.0,1025.44
+2020-10-19,South Australia,Women,Morning,54.0,2229.12
+2020-10-19,South Australia,Men,Afternoon,69.0,4683.03
+2020-10-19,South Australia,Seniors,Morning,61.0,1276.12
+2020-10-19,Western Australia,Kids,Afternoon,47.0,2381.02
+2020-10-19,Western Australia,Women,Night,68.0,3740.0
+2020-10-19,Western Australia,Men,Night,96.0,3525.12
+2020-10-19,Western Australia,Seniors,Afternoon,61.0,1414.59
+2020-10-19,Tasmania,Kids,Night,25.0,1098.75
+2020-10-19,Tasmania,Women,Night,23.0,1503.51
+2020-10-19,Tasmania,Men,Night,38.0,2158.02
+2020-10-19,Tasmania,Seniors,Morning,29.0,1423.9
+2020-10-19,Northern Territory,Kids,Morning,28.0,1004.08
+2020-10-19,Northern Territory,Women,Evening,40.0,2679.2
+2020-10-19,Northern Territory,Men,Afternoon,33.0,1651.32
+2020-10-19,Northern Territory,Seniors,Night,18.0,533.52
+2020-10-19,Australian Capital Territory,Kids,Afternoon,23.0,1366.2
+2020-10-19,Australian Capital Territory,Women,Evening,36.0,1716.84
+2020-10-19,Australian Capital Territory,Men,Evening,38.0,2329.78
+2020-10-19,Australian Capital Territory,Seniors,Night,32.0,1535.36
+2020-10-20,New South Wales,Kids,Evening,89.0,3872.39
+2020-10-20,New South Wales,Women,Night,121.0,11127.16
+2020-10-20,New South Wales,Men,Evening,88.0,4715.92
+2020-10-20,New South Wales,Seniors,Evening,119.0,4756.43
+2020-10-20,Victoria,Kids,Night,93.0,3636.3
+2020-10-20,Victoria,Women,Evening,144.0,8094.24
+2020-10-20,Victoria,Men,Evening,155.0,12195.4
+2020-10-20,Victoria,Seniors,Evening,73.0,1668.05
+2020-10-20,Queensland,Kids,Afternoon,78.0,5332.08
+2020-10-20,Queensland,Women,Morning,88.0,7398.16
+2020-10-20,Queensland,Men,Afternoon,148.0,6244.12
+2020-10-20,Queensland,Seniors,Evening,84.0,4336.92
+2020-10-20,South Australia,Kids,Morning,47.0,1800.1
+2020-10-20,South Australia,Women,Afternoon,64.0,2730.88
+2020-10-20,South Australia,Men,Afternoon,53.0,1767.02
+2020-10-20,South Australia,Seniors,Afternoon,48.0,1373.28
+2020-10-20,Western Australia,Kids,Night,72.0,1706.4
+2020-10-20,Western Australia,Women,Evening,107.0,7650.5
+2020-10-20,Western Australia,Men,Evening,33.0,1796.52
+2020-10-20,Western Australia,Seniors,Morning,82.0,1999.98
+2020-10-20,Tasmania,Kids,Afternoon,,2116.41
+2020-10-20,Tasmania,Women,Evening,35.0,2017.05
+2020-10-20,Tasmania,Men,Afternoon,44.0,2222.0
+2020-10-20,Tasmania,Seniors,Evening,32.0,869.12
+2020-10-20,Northern Territory,Kids,Afternoon,28.0,706.44
+2020-10-20,Northern Territory,Women,Evening,37.0,1642.8
+2020-10-20,Northern Territory,Men,Morning,25.0,1645.5
+2020-10-20,Northern Territory,Seniors,Afternoon,31.0,1297.35
+2020-10-20,Australian Capital Territory,Kids,Evening,27.0,1001.16
+2020-10-20,Australian Capital Territory,Women,Morning,79.0,4796.09
+2020-10-20,Australian Capital Territory,Men,Morning,83.0,
+2020-10-20,Australian Capital Territory,Seniors,Evening,38.0,1255.14
+2020-10-21,New South Wales,Kids,Afternoon,117.0,4545.45
+2020-10-21,New South Wales,Women,Night,197.0,14463.74
+2020-10-21,New South Wales,Men,Morning,105.0,3352.65
+2020-10-21,New South Wales,Seniors,Morning,,1798.72
+2020-10-21,Victoria,Kids,Evening,66.0,1138.5
+2020-10-21,Victoria,Women,Night,159.0,15485.01
+2020-10-21,Victoria,Men,Night,120.0,7268.4
+2020-10-21,Victoria,Seniors,Night,90.0,3154.5
+2020-10-21,Queensland,Kids,Evening,103.0,3849.11
+2020-10-21,Queensland,Women,Afternoon,126.0,8003.52
+2020-10-21,Queensland,Men,Morning,79.0,4944.61
+2020-10-21,Queensland,Seniors,Evening,68.0,1954.32
+2020-10-21,South Australia,Kids,Night,62.0,1909.6
+2020-10-21,South Australia,Women,Morning,78.0,4552.08
+2020-10-21,South Australia,Men,Morning,87.0,4851.99
+2020-10-21,South Australia,Seniors,Night,47.0,2060.95
+2020-10-21,Western Australia,Kids,Night,95.0,4419.4
+2020-10-21,Western Australia,Women,Morning,97.0,3689.88
+2020-10-21,Western Australia,Men,Morning,56.0,2546.32
+2020-10-21,Western Australia,Seniors,Afternoon,49.0,1676.29
+2020-10-21,Tasmania,Kids,Afternoon,32.0,1479.04
+2020-10-21,Tasmania,Women,Evening,44.0,2907.96
+2020-10-21,Tasmania,Men,Morning,39.0,913.38
+2020-10-21,Tasmania,Seniors,Afternoon,20.0,692.4
+2020-10-21,Northern Territory,Kids,Morning,17.0,798.66
+2020-10-21,Northern Territory,Women,Night,56.0,4340.56
+2020-10-21,Northern Territory,Men,Afternoon,30.0,2075.4
+2020-10-21,Northern Territory,Seniors,Night,25.0,819.0
+2020-10-21,Australian Capital Territory,Kids,Night,33.0,1228.59
+2020-10-21,Australian Capital Territory,Women,Night,51.0,3119.16
+2020-10-21,Australian Capital Territory,Men,Evening,51.0,2526.54
+2020-10-21,Australian Capital Territory,Seniors,Night,40.0,1897.2
+2020-10-22,New South Wales,Kids,Evening,144.0,3522.24
+2020-10-22,New South Wales,Women,Morning,37.0,2703.96
+2020-10-22,New South Wales,Men,Morning,,3768.93
+2020-10-22,New South Wales,Seniors,Afternoon,64.0,1196.8
+2020-10-22,Victoria,Kids,Afternoon,115.0,5600.5
+2020-10-22,Victoria,Women,Evening,118.0,2133.44
+2020-10-22,Victoria,Men,Morning,101.0,5521.67
+2020-10-22,Victoria,Seniors,Afternoon,48.0,1812.48
+2020-10-22,Queensland,Kids,Afternoon,80.0,3740.8
+2020-10-22,Queensland,Women,Afternoon,121.0,5241.72
+2020-10-22,Queensland,Men,Morning,134.0,6352.94
+2020-10-22,Queensland,Seniors,Afternoon,71.0,1919.84
+2020-10-22,South Australia,Kids,Morning,46.0,1423.24
+2020-10-22,South Australia,Women,Night,73.0,6219.6
+2020-10-22,South Australia,Men,Night,38.0,1071.6
+2020-10-22,South Australia,Seniors,Night,69.0,2345.31
+2020-10-22,Western Australia,Kids,Evening,53.0,2741.69
+2020-10-22,Western Australia,Women,Morning,79.0,6872.21
+2020-10-22,Western Australia,Men,Afternoon,99.0,4262.94
+2020-10-22,Western Australia,Seniors,Evening,98.0,2958.62
+2020-10-22,Tasmania,Kids,Evening,38.0,
+2020-10-22,Tasmania,Women,Night,63.0,
+2020-10-22,Tasmania,Men,Morning,38.0,1502.9
+2020-10-22,Tasmania,Seniors,Afternoon,31.0,914.19
+2020-10-22,Northern Territory,Kids,Evening,43.0,1804.71
+2020-10-22,Northern Territory,Women,Afternoon,34.0,2086.92
+2020-10-22,Northern Territory,Men,Night,19.0,696.73
+2020-10-22,Northern Territory,Seniors,Morning,32.0,950.08
+2020-10-22,Australian Capital Territory,Kids,Afternoon,27.0,1250.1
+2020-10-22,Australian Capital Territory,Women,Afternoon,79.0,5507.88
+2020-10-22,Australian Capital Territory,Men,Evening,64.0,2528.64
+2020-10-22,Australian Capital Territory,Seniors,Afternoon,20.0,1008.2
+2020-10-23,New South Wales,Kids,Morning,101.0,3816.79
+2020-10-23,New South Wales,Women,Morning,227.0,15249.86
+2020-10-23,New South Wales,Men,Afternoon,156.0,12180.48
+2020-10-23,New South Wales,Seniors,Evening,80.0,3592.8
+2020-10-23,Victoria,Kids,Evening,100.0,4340.0
+2020-10-23,Victoria,Women,Night,208.0,13815.36
+2020-10-23,Victoria,Men,Morning,140.0,8912.4
+2020-10-23,Victoria,Seniors,Night,78.0,2179.32
+2020-10-23,Queensland,Kids,Evening,55.0,1059.3
+2020-10-23,Queensland,Women,Night,189.0,7803.81
+2020-10-23,Queensland,Men,Evening,92.0,4218.2
+2020-10-23,Queensland,Seniors,Night,78.0,3418.74
+2020-10-23,South Australia,Kids,Night,67.0,2291.4
+2020-10-23,South Australia,Women,Morning,74.0,4655.34
+2020-10-23,South Australia,Men,Morning,61.0,4313.92
+2020-10-23,South Australia,Seniors,Night,55.0,2367.75
+2020-10-23,Western Australia,Kids,Evening,80.0,4253.6
+2020-10-23,Western Australia,Women,Evening,102.0,3903.54
+2020-10-23,Western Australia,Men,Morning,92.0,3762.8
+2020-10-23,Western Australia,Seniors,Morning,50.0,2081.5
+2020-10-23,Tasmania,Kids,Afternoon,43.0,1751.39
+2020-10-23,Tasmania,Women,Morning,49.0,4167.45
+2020-10-23,Tasmania,Men,Evening,41.0,3437.44
+2020-10-23,Tasmania,Seniors,Morning,32.0,611.2
+2020-10-23,Northern Territory,Kids,Afternoon,33.0,1472.46
+2020-10-23,Northern Territory,Women,Night,54.0,3726.0
+2020-10-23,Northern Territory,Men,Night,31.0,1033.54
+2020-10-23,Northern Territory,Seniors,Evening,22.0,612.48
+2020-10-23,Australian Capital Territory,Kids,Afternoon,33.0,1546.38
+2020-10-23,Australian Capital Territory,Women,Night,87.0,5625.42
+2020-10-23,Australian Capital Territory,Men,Night,31.0,1716.47
+2020-10-23,Australian Capital Territory,Seniors,Morning,48.0,1447.2
+2020-10-24,New South Wales,Kids,Night,107.0,4350.62
+2020-10-24,New South Wales,Women,Evening,124.0,8507.64
+2020-10-24,New South Wales,Men,Night,132.0,7265.28
+2020-10-24,New South Wales,Seniors,Evening,73.0,2321.4
+2020-10-24,Victoria,Kids,Evening,120.0,4376.4
+2020-10-24,Victoria,Women,Morning,217.0,11342.59
+2020-10-24,Victoria,Men,Afternoon,129.0,7973.49
+2020-10-24,Victoria,Seniors,Evening,50.0,955.0
+2020-10-24,Queensland,Kids,Night,43.0,2328.02
+2020-10-24,Queensland,Women,Night,97.0,9545.77
+2020-10-24,Queensland,Men,Evening,82.0,4259.08
+2020-10-24,Queensland,Seniors,Night,105.0,5802.3
+2020-10-24,South Australia,Kids,Morning,87.0,4658.85
+2020-10-24,South Australia,Women,Night,101.0,6841.74
+2020-10-24,South Australia,Men,Morning,81.0,3419.82
+2020-10-24,South Australia,Seniors,Evening,36.0,1294.92
+2020-10-24,Western Australia,Kids,Evening,64.0,2279.04
+2020-10-24,Western Australia,Women,Evening,117.0,8587.8
+2020-10-24,Western Australia,Men,Morning,84.0,5796.0
+2020-10-24,Western Australia,Seniors,Night,39.0,1331.46
+2020-10-24,Tasmania,Kids,Morning,24.0,488.16
+2020-10-24,Tasmania,Women,Night,44.0,2490.4
+2020-10-24,Tasmania,Men,Night,55.0,3180.65
+2020-10-24,Tasmania,Seniors,Morning,19.0,1022.2
+2020-10-24,Northern Territory,Kids,Afternoon,36.0,1684.44
+2020-10-24,Northern Territory,Women,Evening,36.0,1567.08
+2020-10-24,Northern Territory,Men,Night,29.0,1852.23
+2020-10-24,Northern Territory,Seniors,Night,37.0,1880.34
+2020-10-24,Australian Capital Territory,Kids,Morning,34.0,965.94
+2020-10-24,Australian Capital Territory,Women,Afternoon,60.0,1854.6
+2020-10-24,Australian Capital Territory,Men,Evening,54.0,2567.7
+2020-10-24,Australian Capital Territory,Seniors,Afternoon,30.0,620.7
+2020-10-25,New South Wales,Kids,Evening,129.0,4482.75
+2020-10-25,New South Wales,Women,Night,105.0,1437.45
+2020-10-25,New South Wales,Men,Night,136.0,9913.04
+2020-10-25,New South Wales,Seniors,Morning,149.0,4709.89
+2020-10-25,Victoria,Kids,Morning,81.0,3690.36
+2020-10-25,Victoria,Women,Afternoon,100.0,6321.0
+2020-10-25,Victoria,Men,Afternoon,148.0,9723.6
+2020-10-25,Victoria,Seniors,Evening,85.0,2893.4
+2020-10-25,Queensland,Kids,Morning,59.0,1862.63
+2020-10-25,Queensland,Women,Night,109.0,7001.07
+2020-10-25,Queensland,Men,Morning,126.0,4901.4
+2020-10-25,Queensland,Seniors,Afternoon,104.0,3473.6
+2020-10-25,South Australia,Kids,Morning,53.0,1718.79
+2020-10-25,South Australia,Women,Night,21.0,1518.09
+2020-10-25,South Australia,Men,Morning,80.0,3663.2
+2020-10-25,South Australia,Seniors,Afternoon,48.0,1965.6
+2020-10-25,Western Australia,Kids,Night,35.0,1217.65
+2020-10-25,Western Australia,Women,Evening,120.0,4671.6
+2020-10-25,Western Australia,Men,Evening,89.0,2811.51
+2020-10-25,Western Australia,Seniors,Night,68.0,2424.88
+2020-10-25,Tasmania,Kids,Night,16.0,849.28
+2020-10-25,Tasmania,Women,Night,35.0,1605.1
+2020-10-25,Tasmania,Men,Afternoon,40.0,2586.4
+2020-10-25,Tasmania,Seniors,Night,19.0,695.21
+2020-10-25,Northern Territory,Kids,Afternoon,30.0,1439.7
+2020-10-25,Northern Territory,Women,Night,41.0,2163.57
+2020-10-25,Northern Territory,Men,Afternoon,24.0,1215.36
+2020-10-25,Northern Territory,Seniors,Afternoon,16.0,127.36
+2020-10-25,Australian Capital Territory,Kids,Morning,45.0,2261.7
+2020-10-25,Australian Capital Territory,Women,Evening,17.0,726.75
+2020-10-25,Australian Capital Territory,Men,Night,58.0,4446.28
+2020-10-25,Australian Capital Territory,Seniors,Evening,36.0,1044.36
+2020-10-26,New South Wales,Kids,Evening,106.0,5867.1
+2020-10-26,New South Wales,Women,Morning,131.0,6029.93
+2020-10-26,New South Wales,Men,Evening,117.0,4319.64
+2020-10-26,New South Wales,Seniors,Evening,103.0,
+2020-10-26,Victoria,Kids,Night,108.0,4079.16
+2020-10-26,Victoria,Women,Afternoon,130.0,4434.3
+2020-10-26,Victoria,Men,Night,153.0,7415.91
+2020-10-26,Victoria,Seniors,Night,83.0,5531.95
+2020-10-26,Queensland,Kids,Evening,88.0,2849.44
+2020-10-26,Queensland,Women,Evening,102.0,7794.84
+2020-10-26,Queensland,Men,Night,102.0,3112.02
+2020-10-26,Queensland,Seniors,Night,91.0,2692.69
+2020-10-26,South Australia,Kids,Evening,84.0,4381.44
+2020-10-26,South Australia,Women,Afternoon,67.0,
+2020-10-26,South Australia,Men,Afternoon,67.0,4070.92
+2020-10-26,South Australia,Seniors,Night,54.0,1504.98
+2020-10-26,Western Australia,Kids,Afternoon,54.0,2787.48
+2020-10-26,Western Australia,Women,Night,87.0,4541.4
+2020-10-26,Western Australia,Men,Morning,58.0,3195.22
+2020-10-26,Western Australia,Seniors,Evening,97.0,2497.75
+2020-10-26,Tasmania,Kids,Night,31.0,1728.25
+2020-10-26,Tasmania,Women,Night,44.0,2884.64
+2020-10-26,Tasmania,Men,Night,26.0,1433.9
+2020-10-26,Tasmania,Seniors,Afternoon,26.0,1181.96
+2020-10-26,Northern Territory,Kids,Night,36.0,2464.92
+2020-10-26,Northern Territory,Women,Morning,45.0,2861.1
+2020-10-26,Northern Territory,Men,Afternoon,34.0,1524.56
+2020-10-26,Northern Territory,Seniors,Evening,26.0,862.16
+2020-10-26,Australian Capital Territory,Kids,Morning,42.0,2298.66
+2020-10-26,Australian Capital Territory,Women,Night,40.0,3051.2
+2020-10-26,Australian Capital Territory,Men,Morning,69.0,3307.86
+2020-10-26,Australian Capital Territory,Seniors,Night,13.0,392.08
+2020-10-27,New South Wales,Kids,Morning,156.0,6279.0
+2020-10-27,New South Wales,Women,Afternoon,113.0,5721.19
+2020-10-27,New South Wales,Men,Night,172.0,9755.84
+2020-10-27,New South Wales,Seniors,Afternoon,92.0,2988.16
+2020-10-27,Victoria,Kids,Morning,87.0,2656.98
+2020-10-27,Victoria,Women,Night,212.0,11335.64
+2020-10-27,Victoria,Men,Evening,165.0,11480.7
+2020-10-27,Victoria,Seniors,Evening,114.0,3632.04
+2020-10-27,Queensland,Kids,Night,90.0,3621.6
+2020-10-27,Queensland,Women,Morning,85.0,5402.6
+2020-10-27,Queensland,Men,Evening,63.0,4106.34
+2020-10-27,Queensland,Seniors,Night,61.0,2313.73
+2020-10-27,South Australia,Kids,Evening,58.0,2186.6
+2020-10-27,South Australia,Women,Night,91.0,4649.19
+2020-10-27,South Australia,Men,Morning,83.0,2633.59
+2020-10-27,South Australia,Seniors,Morning,49.0,2675.89
+2020-10-27,Western Australia,Kids,Afternoon,47.0,1559.46
+2020-10-27,Western Australia,Women,Evening,112.0,6865.6
+2020-10-27,Western Australia,Men,Afternoon,91.0,5092.36
+2020-10-27,Western Australia,Seniors,Morning,71.0,
+2020-10-27,Tasmania,Kids,Night,35.0,1326.15
+2020-10-27,Tasmania,Women,Morning,54.0,4759.56
+2020-10-27,Tasmania,Men,Morning,36.0,1319.04
+2020-10-27,Tasmania,Seniors,Night,37.0,1289.08
+2020-10-27,Northern Territory,Kids,Afternoon,9.0,446.85
+2020-10-27,Northern Territory,Women,Evening,32.0,1826.88
+2020-10-27,Northern Territory,Men,Morning,36.0,1872.36
+2020-10-27,Northern Territory,Seniors,Morning,29.0,922.78
+2020-10-27,Australian Capital Territory,Kids,Evening,46.0,1734.2
+2020-10-27,Australian Capital Territory,Women,Morning,71.0,4835.1
+2020-10-27,Australian Capital Territory,Men,Evening,35.0,2234.05
+2020-10-27,Australian Capital Territory,Seniors,Evening,30.0,1312.8
+2020-10-28,New South Wales,Kids,Evening,124.0,7483.4
+2020-10-28,New South Wales,Women,Night,151.0,8010.55
+2020-10-28,New South Wales,Men,Afternoon,136.0,6188.0
+2020-10-28,New South Wales,Seniors,Afternoon,123.0,2519.04
+2020-10-28,Victoria,Kids,Night,67.0,1940.99
+2020-10-28,Victoria,Women,Afternoon,183.0,15589.77
+2020-10-28,Victoria,Men,Afternoon,117.0,5530.59
+2020-10-28,Victoria,Seniors,Afternoon,89.0,4196.35
+2020-10-28,Queensland,Kids,Morning,58.0,2498.06
+2020-10-28,Queensland,Women,Night,151.0,10014.32
+2020-10-28,Queensland,Men,Afternoon,104.0,6521.84
+2020-10-28,Queensland,Seniors,Night,13.0,552.63
+2020-10-28,South Australia,Kids,Afternoon,43.0,891.39
+2020-10-28,South Australia,Women,Afternoon,89.0,
+2020-10-28,South Australia,Men,Night,63.0,3911.04
+2020-10-28,South Australia,Seniors,Evening,71.0,3452.02
+2020-10-28,Western Australia,Kids,Night,100.0,4851.0
+2020-10-28,Western Australia,Women,Evening,99.0,3317.49
+2020-10-28,Western Australia,Men,Morning,76.0,2916.12
+2020-10-28,Western Australia,Seniors,Night,99.0,3396.69
+2020-10-28,Tasmania,Kids,Evening,32.0,1486.72
+2020-10-28,Tasmania,Women,Afternoon,46.0,3907.24
+2020-10-28,Tasmania,Men,Morning,31.0,1614.17
+2020-10-28,Tasmania,Seniors,Night,21.0,489.93
+2020-10-28,Northern Territory,Kids,Evening,22.0,882.2
+2020-10-28,Northern Territory,Women,Evening,33.0,1574.1
+2020-10-28,Northern Territory,Men,Night,19.0,919.6
+2020-10-28,Northern Territory,Seniors,Evening,13.0,562.9
+2020-10-28,Australian Capital Territory,Kids,Night,41.0,1015.16
+2020-10-28,Australian Capital Territory,Women,Evening,53.0,2478.81
+2020-10-28,Australian Capital Territory,Men,Afternoon,54.0,3628.26
+2020-10-28,Australian Capital Territory,Seniors,Night,15.0,556.5
+2020-10-29,New South Wales,Kids,Night,107.0,5109.25
+2020-10-29,New South Wales,Women,Morning,172.0,8044.44
+2020-10-29,New South Wales,Men,Afternoon,124.0,4834.76
+2020-10-29,New South Wales,Seniors,Night,132.0,4778.4
+2020-10-29,Victoria,Kids,Evening,155.0,6175.2
+2020-10-29,Victoria,Women,Evening,112.0,3907.68
+2020-10-29,Victoria,Men,Evening,55.0,
+2020-10-29,Victoria,Seniors,Morning,95.0,3883.6
+2020-10-29,Queensland,Kids,Night,42.0,2107.14
+2020-10-29,Queensland,Women,Evening,100.0,6079.0
+2020-10-29,Queensland,Men,Morning,146.0,8955.64
+2020-10-29,Queensland,Seniors,Morning,66.0,1811.04
+2020-10-29,South Australia,Kids,Night,19.0,621.87
+2020-10-29,South Australia,Women,Evening,73.0,3146.3
+2020-10-29,South Australia,Men,Afternoon,63.0,3182.13
+2020-10-29,South Australia,Seniors,Evening,44.0,1309.44
+2020-10-29,Western Australia,Kids,Afternoon,70.0,3168.9
+2020-10-29,Western Australia,Women,Afternoon,65.0,5233.15
+2020-10-29,Western Australia,Men,Evening,80.0,3980.0
+2020-10-29,Western Australia,Seniors,Afternoon,72.0,2753.28
+2020-10-29,Tasmania,Kids,Morning,40.0,1744.0
+2020-10-29,Tasmania,Women,Morning,37.0,2373.18
+2020-10-29,Tasmania,Men,Evening,25.0,1273.25
+2020-10-29,Tasmania,Seniors,Night,27.0,918.0
+2020-10-29,Northern Territory,Kids,Morning,25.0,504.5
+2020-10-29,Northern Territory,Women,Evening,32.0,1918.4
+2020-10-29,Northern Territory,Men,Afternoon,34.0,1221.62
+2020-10-29,Northern Territory,Seniors,Morning,33.0,913.44
+2020-10-29,Australian Capital Territory,Kids,Evening,52.0,2345.72
+2020-10-29,Australian Capital Territory,Women,Evening,47.0,4050.93
+2020-10-29,Australian Capital Territory,Men,Night,31.0,1910.53
+2020-10-29,Australian Capital Territory,Seniors,Afternoon,46.0,
+2020-10-30,New South Wales,Kids,Afternoon,159.0,6010.2
+2020-10-30,New South Wales,Women,Afternoon,176.0,11010.56
+2020-10-30,New South Wales,Men,Evening,131.0,7886.2
+2020-10-30,New South Wales,Seniors,Evening,123.0,2362.83
+2020-10-30,Victoria,Kids,Afternoon,137.0,3089.35
+2020-10-30,Victoria,Women,Evening,187.0,14226.96
+2020-10-30,Victoria,Men,Night,81.0,3570.48
+2020-10-30,Victoria,Seniors,Evening,58.0,1968.52
+2020-10-30,Queensland,Kids,Evening,73.0,3571.16
+2020-10-30,Queensland,Women,Morning,,13003.74
+2020-10-30,Queensland,Men,Night,82.0,3832.68
+2020-10-30,Queensland,Seniors,Morning,35.0,989.1
+2020-10-30,South Australia,Kids,Afternoon,69.0,3998.55
+2020-10-30,South Australia,Women,Afternoon,49.0,2413.74
+2020-10-30,South Australia,Men,Night,65.0,3458.0
+2020-10-30,South Australia,Seniors,Evening,36.0,1442.52
+2020-10-30,Western Australia,Kids,Morning,57.0,2299.38
+2020-10-30,Western Australia,Women,Night,113.0,6621.8
+2020-10-30,Western Australia,Men,Morning,71.0,3411.55
+2020-10-30,Western Australia,Seniors,Evening,58.0,1882.1
+2020-10-30,Tasmania,Kids,Morning,29.0,1675.33
+2020-10-30,Tasmania,Women,Night,53.0,2856.17
+2020-10-30,Tasmania,Men,Evening,46.0,2074.14
+2020-10-30,Tasmania,Seniors,Evening,37.0,1463.35
+2020-10-30,Northern Territory,Kids,Night,26.0,1178.84
+2020-10-30,Northern Territory,Women,Evening,20.0,818.4
+2020-10-30,Northern Territory,Men,Morning,21.0,1079.19
+2020-10-30,Northern Territory,Seniors,Afternoon,36.0,2067.12
+2020-10-30,Australian Capital Territory,Kids,Night,48.0,2203.68
+2020-10-30,Australian Capital Territory,Women,Morning,26.0,1300.78
+2020-10-30,Australian Capital Territory,Men,Evening,37.0,1528.1
+2020-10-30,Australian Capital Territory,Seniors,Afternoon,34.0,1069.98
+2020-10-31,New South Wales,Kids,Morning,45.0,2186.1
+2020-10-31,New South Wales,Women,Night,110.0,6845.3
+2020-10-31,New South Wales,Men,Evening,223.0,8331.28
+2020-10-31,New South Wales,Seniors,Night,24.0,798.0
+2020-10-31,Victoria,Kids,Morning,131.0,8076.15
+2020-10-31,Victoria,Women,Afternoon,90.0,5962.5
+2020-10-31,Victoria,Men,Morning,104.0,5002.4
+2020-10-31,Victoria,Seniors,Morning,157.0,3386.49
+2020-10-31,Queensland,Kids,Evening,87.0,3962.85
+2020-10-31,Queensland,Women,Night,155.0,9304.65
+2020-10-31,Queensland,Men,Morning,108.0,4787.64
+2020-10-31,Queensland,Seniors,Morning,77.0,2518.67
+2020-10-31,South Australia,Kids,Afternoon,64.0,2336.64
+2020-10-31,South Australia,Women,Afternoon,86.0,4991.44
+2020-10-31,South Australia,Men,Night,88.0,4296.16
+2020-10-31,South Australia,Seniors,Night,22.0,1058.42
+2020-10-31,Western Australia,Kids,Evening,49.0,1638.56
+2020-10-31,Western Australia,Women,Night,80.0,6395.2
+2020-10-31,Western Australia,Men,Afternoon,29.0,2636.68
+2020-10-31,Western Australia,Seniors,Night,79.0,3013.06
+2020-10-31,Tasmania,Kids,Morning,30.0,1307.4
+2020-10-31,Tasmania,Women,Night,52.0,3565.64
+2020-10-31,Tasmania,Men,Night,44.0,2229.92
+2020-10-31,Tasmania,Seniors,Evening,26.0,898.3
+2020-10-31,Northern Territory,Kids,Morning,25.0,1318.5
+2020-10-31,Northern Territory,Women,Evening,45.0,568.35
+2020-10-31,Northern Territory,Men,Afternoon,39.0,2030.73
+2020-10-31,Northern Territory,Seniors,Night,23.0,742.21
+2020-10-31,Australian Capital Territory,Kids,Night,54.0,2739.42
+2020-10-31,Australian Capital Territory,Women,Afternoon,44.0,2853.4
+2020-10-31,Australian Capital Territory,Men,Evening,35.0,1095.15
+2020-10-31,Australian Capital Territory,Seniors,Morning,29.0,1284.12
+2020-11-01,New South Wales,Kids,Evening,144.0,6629.76
+2020-11-01,New South Wales,Women,Evening,197.0,13110.35
+2020-11-01,New South Wales,Men,Morning,111.0,6127.2
+2020-11-01,New South Wales,Seniors,Night,124.0,5361.76
+2020-11-01,Victoria,Kids,Evening,134.0,6452.1
+2020-11-01,Victoria,Women,Afternoon,158.0,11880.02
+2020-11-01,Victoria,Men,Morning,120.0,4543.2
+2020-11-01,Victoria,Seniors,Night,83.0,2394.55
+2020-11-01,Queensland,Kids,Morning,64.0,2492.16
+2020-11-01,Queensland,Women,Afternoon,89.0,4779.3
+2020-11-01,Queensland,Men,Morning,42.0,2197.44
+2020-11-01,Queensland,Seniors,Morning,72.0,2027.52
+2020-11-01,South Australia,Kids,Evening,64.0,3240.32
+2020-11-01,South Australia,Women,Afternoon,40.0,1864.0
+2020-11-01,South Australia,Men,Afternoon,50.0,1854.5
+2020-11-01,South Australia,Seniors,Afternoon,59.0,2014.26
+2020-11-01,Western Australia,Kids,Morning,62.0,1169.32
+2020-11-01,Western Australia,Women,Afternoon,116.0,4543.72
+2020-11-01,Western Australia,Men,Afternoon,83.0,4412.28
+2020-11-01,Western Australia,Seniors,Afternoon,,1968.96
+2020-11-01,Tasmania,Kids,Evening,2.0,84.98
+2020-11-01,Tasmania,Women,Afternoon,70.0,5448.1
+2020-11-01,Tasmania,Men,Morning,40.0,1720.4
+2020-11-01,Tasmania,Seniors,Evening,34.0,906.1
+2020-11-01,Northern Territory,Kids,Afternoon,30.0,1378.8
+2020-11-01,Northern Territory,Women,Afternoon,51.0,5179.05
+2020-11-01,Northern Territory,Men,Evening,36.0,1540.08
+2020-11-01,Northern Territory,Seniors,Afternoon,23.0,437.46
+2020-11-01,Australian Capital Territory,Kids,Morning,32.0,1154.56
+2020-11-01,Australian Capital Territory,Women,Morning,49.0,2983.12
+2020-11-01,Australian Capital Territory,Men,Afternoon,37.0,2379.1
+2020-11-01,Australian Capital Territory,Seniors,Morning,36.0,1292.76
+2020-11-02,New South Wales,Kids,Evening,101.0,4260.18
+2020-11-02,New South Wales,Women,Afternoon,202.0,9083.94
+2020-11-02,New South Wales,Men,Evening,110.0,5003.9
+2020-11-02,New South Wales,Seniors,Morning,59.0,1660.26
+2020-11-02,Victoria,Kids,Afternoon,84.0,4194.96
+2020-11-02,Victoria,Women,Evening,154.0,9474.08
+2020-11-02,Victoria,Men,Morning,151.0,7201.19
+2020-11-02,Victoria,Seniors,Afternoon,98.0,3430.98
+2020-11-02,Queensland,Kids,Night,87.0,2976.27
+2020-11-02,Queensland,Women,Morning,31.0,1748.71
+2020-11-02,Queensland,Men,Morning,141.0,8703.93
+2020-11-02,Queensland,Seniors,Night,92.0,4404.04
+2020-11-02,South Australia,Kids,Night,55.0,2344.65
+2020-11-02,South Australia,Women,Evening,63.0,3374.91
+2020-11-02,South Australia,Men,Morning,78.0,5100.42
+2020-11-02,South Australia,Seniors,Night,45.0,1425.6
+2020-11-02,Western Australia,Kids,Afternoon,67.0,3148.33
+2020-11-02,Western Australia,Women,Morning,55.0,1247.4
+2020-11-02,Western Australia,Men,Evening,68.0,2270.52
+2020-11-02,Western Australia,Seniors,Night,50.0,1729.0
+2020-11-02,Tasmania,Kids,Morning,,1517.13
+2020-11-02,Tasmania,Women,Morning,49.0,3096.31
+2020-11-02,Tasmania,Men,Night,45.0,1551.15
+2020-11-02,Tasmania,Seniors,Night,36.0,1269.72
+2020-11-02,Northern Territory,Kids,Night,32.0,925.44
+2020-11-02,Northern Territory,Women,Morning,20.0,1425.2
+2020-11-02,Northern Territory,Men,Night,36.0,1353.24
+2020-11-02,Northern Territory,Seniors,Night,17.0,795.6
+2020-11-02,Australian Capital Territory,Kids,Morning,26.0,1514.24
+2020-11-02,Australian Capital Territory,Women,Morning,42.0,2875.32
+2020-11-02,Australian Capital Territory,Men,Evening,44.0,2528.24
+2020-11-02,Australian Capital Territory,Seniors,Afternoon,30.0,1033.2
+2020-11-03,New South Wales,Kids,Morning,113.0,3353.84
+2020-11-03,New South Wales,Women,Afternoon,198.0,9997.02
+2020-11-03,New South Wales,Men,Evening,128.0,4655.36
+2020-11-03,New South Wales,Seniors,Evening,23.0,785.91
+2020-11-03,Victoria,Kids,Night,170.0,8324.9
+2020-11-03,Victoria,Women,Evening,142.0,7724.8
+2020-11-03,Victoria,Men,Night,121.0,6863.12
+2020-11-03,Victoria,Seniors,Night,56.0,2615.2
+2020-11-03,Queensland,Kids,Morning,98.0,4729.48
+2020-11-03,Queensland,Women,Morning,132.0,7762.92
+2020-11-03,Queensland,Men,Afternoon,118.0,6762.58
+2020-11-03,Queensland,Seniors,Night,64.0,1951.36
+2020-11-03,South Australia,Kids,Night,55.0,3147.65
+2020-11-03,South Australia,Women,Afternoon,49.0,1744.89
+2020-11-03,South Australia,Men,Night,69.0,3461.73
+2020-11-03,South Australia,Seniors,Evening,50.0,1917.0
+2020-11-03,Western Australia,Kids,Night,62.0,3508.58
+2020-11-03,Western Australia,Women,Night,50.0,2279.0
+2020-11-03,Western Australia,Men,Night,79.0,2196.99
+2020-11-03,Western Australia,Seniors,Morning,56.0,2909.2
+2020-11-03,Tasmania,Kids,Evening,31.0,1332.69
+2020-11-03,Tasmania,Women,Night,28.0,1368.64
+2020-11-03,Tasmania,Men,Evening,34.0,1540.54
+2020-11-03,Tasmania,Seniors,Evening,38.0,1571.3
+2020-11-03,Northern Territory,Kids,Evening,17.0,733.72
+2020-11-03,Northern Territory,Women,Afternoon,44.0,3356.76
+2020-11-03,Northern Territory,Men,Night,48.0,1732.8
+2020-11-03,Northern Territory,Seniors,Morning,18.0,430.74
+2020-11-03,Australian Capital Territory,Kids,Morning,37.0,1684.98
+2020-11-03,Australian Capital Territory,Women,Morning,75.0,4299.0
+2020-11-03,Australian Capital Territory,Men,Morning,44.0,2266.0
+2020-11-03,Australian Capital Territory,Seniors,Night,26.0,1457.56
+2020-11-04,New South Wales,Kids,Morning,58.0,2465.0
+2020-11-04,New South Wales,Women,Evening,261.0,15297.21
+2020-11-04,New South Wales,Men,Afternoon,129.0,5776.62
+2020-11-04,New South Wales,Seniors,Morning,94.0,4622.92
+2020-11-04,Victoria,Kids,Evening,33.0,1882.98
+2020-11-04,Victoria,Women,Morning,81.0,4401.54
+2020-11-04,Victoria,Men,Night,105.0,6013.35
+2020-11-04,Victoria,Seniors,Evening,45.0,1819.8
+2020-11-04,Queensland,Kids,Night,130.0,3351.4
+2020-11-04,Queensland,Women,Morning,123.0,5924.91
+2020-11-04,Queensland,Men,Evening,111.0,5522.25
+2020-11-04,Queensland,Seniors,Evening,58.0,2359.44
+2020-11-04,South Australia,Kids,Evening,83.0,3190.52
+2020-11-04,South Australia,Women,Morning,94.0,3602.08
+2020-11-04,South Australia,Men,Afternoon,47.0,2619.78
+2020-11-04,South Australia,Seniors,Afternoon,69.0,2719.29
+2020-11-04,Western Australia,Kids,Night,61.0,2469.89
+2020-11-04,Western Australia,Women,Afternoon,60.0,4075.8
+2020-11-04,Western Australia,Men,Morning,104.0,4527.12
+2020-11-04,Western Australia,Seniors,Evening,51.0,1966.05
+2020-11-04,Tasmania,Kids,Evening,27.0,1074.33
+2020-11-04,Tasmania,Women,Morning,74.0,4044.1
+2020-11-04,Tasmania,Men,Evening,34.0,1392.3
+2020-11-04,Tasmania,Seniors,Afternoon,34.0,1164.84
+2020-11-04,Northern Territory,Kids,Night,21.0,1150.17
+2020-11-04,Northern Territory,Women,Morning,55.0,2702.15
+2020-11-04,Northern Territory,Men,Evening,14.0,879.2
+2020-11-04,Northern Territory,Seniors,Morning,19.0,828.21
+2020-11-04,Australian Capital Territory,Kids,Afternoon,16.0,802.24
+2020-11-04,Australian Capital Territory,Women,Evening,37.0,2586.3
+2020-11-04,Australian Capital Territory,Men,Evening,49.0,1808.59
+2020-11-04,Australian Capital Territory,Seniors,Evening,31.0,1320.29
+2020-11-05,New South Wales,Kids,Evening,116.0,5429.96
+2020-11-05,New South Wales,Women,Morning,258.0,8797.8
+2020-11-05,New South Wales,Men,Afternoon,204.0,10379.52
+2020-11-05,New South Wales,Seniors,Afternoon,73.0,1695.79
+2020-11-05,Victoria,Kids,Night,93.0,4691.85
+2020-11-05,Victoria,Women,Morning,137.0,11243.59
+2020-11-05,Victoria,Men,Afternoon,68.0,3355.12
+2020-11-05,Victoria,Seniors,Morning,54.0,2132.46
+2020-11-05,Queensland,Kids,Morning,102.0,3667.92
+2020-11-05,Queensland,Women,Afternoon,25.0,1540.0
+2020-11-05,Queensland,Men,Night,111.0,6087.24
+2020-11-05,Queensland,Seniors,Night,98.0,2520.56
+2020-11-05,South Australia,Kids,Night,65.0,3469.7
+2020-11-05,South Australia,Women,Evening,36.0,2285.64
+2020-11-05,South Australia,Men,Afternoon,56.0,2711.52
+2020-11-05,South Australia,Seniors,Evening,53.0,1659.96
+2020-11-05,Western Australia,Kids,Evening,53.0,2166.11
+2020-11-05,Western Australia,Women,Evening,65.0,2701.4
+2020-11-05,Western Australia,Men,Morning,99.0,3399.66
+2020-11-05,Western Australia,Seniors,Morning,71.0,2871.24
+2020-11-05,Tasmania,Kids,Afternoon,15.0,497.7
+2020-11-05,Tasmania,Women,Afternoon,61.0,2634.59
+2020-11-05,Tasmania,Men,Morning,33.0,1834.8
+2020-11-05,Tasmania,Seniors,Morning,34.0,1142.06
+2020-11-05,Northern Territory,Kids,Evening,,1228.92
+2020-11-05,Northern Territory,Women,Night,59.0,4352.43
+2020-11-05,Northern Territory,Men,Night,33.0,1281.39
+2020-11-05,Northern Territory,Seniors,Night,18.0,738.36
+2020-11-05,Australian Capital Territory,Kids,Night,45.0,2503.8
+2020-11-05,Australian Capital Territory,Women,Night,69.0,2418.45
+2020-11-05,Australian Capital Territory,Men,Evening,65.0,2361.45
+2020-11-05,Australian Capital Territory,Seniors,Afternoon,31.0,1190.4
+2020-11-06,New South Wales,Kids,Morning,179.0,13262.11
+2020-11-06,New South Wales,Women,Evening,192.0,10682.88
+2020-11-06,New South Wales,Men,Night,159.0,9733.98
+2020-11-06,New South Wales,Seniors,Morning,90.0,4790.7
+2020-11-06,Victoria,Kids,Evening,105.0,4817.4
+2020-11-06,Victoria,Women,Night,171.0,11128.68
+2020-11-06,Victoria,Men,Evening,151.0,6243.85
+2020-11-06,Victoria,Seniors,Morning,73.0,1857.12
+2020-11-06,Queensland,Kids,Afternoon,91.0,4450.81
+2020-11-06,Queensland,Women,Night,133.0,11254.46
+2020-11-06,Queensland,Men,Morning,98.0,5716.34
+2020-11-06,Queensland,Seniors,Morning,48.0,1549.44
+2020-11-06,South Australia,Kids,Afternoon,65.0,3228.55
+2020-11-06,South Australia,Women,Evening,71.0,4073.98
+2020-11-06,South Australia,Men,Afternoon,35.0,1567.65
+2020-11-06,South Australia,Seniors,Afternoon,60.0,2491.2
+2020-11-06,Western Australia,Kids,Evening,77.0,3160.08
+2020-11-06,Western Australia,Women,Evening,97.0,4675.4
+2020-11-06,Western Australia,Men,Evening,99.0,5450.94
+2020-11-06,Western Australia,Seniors,Morning,68.0,2104.6
+2020-11-06,Tasmania,Kids,Morning,11.0,575.85
+2020-11-06,Tasmania,Women,Night,38.0,1711.52
+2020-11-06,Tasmania,Men,Night,46.0,2039.18
+2020-11-06,Tasmania,Seniors,Afternoon,36.0,1509.12
+2020-11-06,Northern Territory,Kids,Afternoon,32.0,824.0
+2020-11-06,Northern Territory,Women,Night,53.0,3316.74
+2020-11-06,Northern Territory,Men,Afternoon,29.0,1490.31
+2020-11-06,Northern Territory,Seniors,Evening,11.0,439.12
+2020-11-06,Australian Capital Territory,Kids,Morning,27.0,699.03
+2020-11-06,Australian Capital Territory,Women,Night,31.0,2351.66
+2020-11-06,Australian Capital Territory,Men,Morning,40.0,2790.0
+2020-11-06,Australian Capital Territory,Seniors,Night,30.0,588.3
+2020-11-07,New South Wales,Kids,Morning,74.0,3984.9
+2020-11-07,New South Wales,Women,Night,154.0,7692.3
+2020-11-07,New South Wales,Men,Morning,144.0,8081.28
+2020-11-07,New South Wales,Seniors,Evening,133.0,6638.03
+2020-11-07,Victoria,Kids,Night,88.0,2303.84
+2020-11-07,Victoria,Women,Night,125.0,7820.0
+2020-11-07,Victoria,Men,Night,86.0,3170.82
+2020-11-07,Victoria,Seniors,Evening,97.0,3446.41
+2020-11-07,Queensland,Kids,Morning,81.0,2617.11
+2020-11-07,Queensland,Women,Night,108.0,4760.64
+2020-11-07,Queensland,Men,Morning,125.0,7896.25
+2020-11-07,Queensland,Seniors,Evening,32.0,866.56
+2020-11-07,South Australia,Kids,Afternoon,29.0,970.92
+2020-11-07,South Australia,Women,Night,76.0,2727.64
+2020-11-07,South Australia,Men,Evening,47.0,1703.75
+2020-11-07,South Australia,Seniors,Morning,50.0,1833.5
+2020-11-07,Western Australia,Kids,Night,52.0,2205.32
+2020-11-07,Western Australia,Women,Morning,81.0,4395.06
+2020-11-07,Western Australia,Men,Afternoon,123.0,8264.37
+2020-11-07,Western Australia,Seniors,Night,36.0,1582.92
+2020-11-07,Tasmania,Kids,Night,39.0,1095.9
+2020-11-07,Tasmania,Women,Morning,56.0,4619.44
+2020-11-07,Tasmania,Men,Night,25.0,934.75
+2020-11-07,Tasmania,Seniors,Evening,36.0,1389.96
+2020-11-07,Northern Territory,Kids,Evening,31.0,1369.58
+2020-11-07,Northern Territory,Women,Afternoon,43.0,1625.83
+2020-11-07,Northern Territory,Men,Evening,43.0,2792.42
+2020-11-07,Northern Territory,Seniors,Afternoon,22.0,782.76
+2020-11-07,Australian Capital Territory,Kids,Morning,21.0,967.05
+2020-11-07,Australian Capital Territory,Women,Morning,68.0,3912.04
+2020-11-07,Australian Capital Territory,Men,Afternoon,66.0,2975.94
+2020-11-07,Australian Capital Territory,Seniors,Evening,42.0,1100.82
+2020-11-08,New South Wales,Kids,Evening,111.0,4286.82
+2020-11-08,New South Wales,Women,Afternoon,,9124.02
+2020-11-08,New South Wales,Men,Afternoon,132.0,7972.8
+2020-11-08,New South Wales,Seniors,Morning,86.0,1769.88
+2020-11-08,Victoria,Kids,Afternoon,150.0,8313.0
+2020-11-08,Victoria,Women,Evening,87.0,6025.62
+2020-11-08,Victoria,Men,Afternoon,102.0,5403.96
+2020-11-08,Victoria,Seniors,Afternoon,95.0,3206.25
+2020-11-08,Queensland,Kids,Afternoon,61.0,2015.44
+2020-11-08,Queensland,Women,Morning,84.0,3823.68
+2020-11-08,Queensland,Men,Afternoon,97.0,3884.85
+2020-11-08,Queensland,Seniors,Night,86.0,4324.08
+2020-11-08,South Australia,Kids,Night,44.0,1895.96
+2020-11-08,South Australia,Women,Night,89.0,5861.54
+2020-11-08,South Australia,Men,Evening,67.0,3973.1
+2020-11-08,South Australia,Seniors,Evening,54.0,1302.48
+2020-11-08,Western Australia,Kids,Afternoon,85.0,4256.8
+2020-11-08,Western Australia,Women,Night,75.0,4431.75
+2020-11-08,Western Australia,Men,Morning,99.0,4627.26
+2020-11-08,Western Australia,Seniors,Night,79.0,
+2020-11-08,Tasmania,Kids,Night,24.0,613.92
+2020-11-08,Tasmania,Women,Evening,49.0,3418.24
+2020-11-08,Tasmania,Men,Evening,35.0,2403.8
+2020-11-08,Tasmania,Seniors,Morning,16.0,682.4
+2020-11-08,Northern Territory,Kids,Evening,22.0,1299.54
+2020-11-08,Northern Territory,Women,Morning,62.0,2885.48
+2020-11-08,Northern Territory,Men,Evening,27.0,1642.95
+2020-11-08,Northern Territory,Seniors,Night,21.0,746.76
+2020-11-08,Australian Capital Territory,Kids,Night,40.0,790.8
+2020-11-08,Australian Capital Territory,Women,Morning,58.0,2768.92
+2020-11-08,Australian Capital Territory,Men,Morning,42.0,2879.52
+2020-11-08,Australian Capital Territory,Seniors,Evening,22.0,963.82
+2020-11-09,New South Wales,Kids,Evening,103.0,3860.44
+2020-11-09,New South Wales,Women,Morning,201.0,12823.8
+2020-11-09,New South Wales,Men,Morning,161.0,10027.08
+2020-11-09,New South Wales,Seniors,Night,90.0,2710.8
+2020-11-09,Victoria,Kids,Night,66.0,2084.94
+2020-11-09,Victoria,Women,Morning,269.0,20960.48
+2020-11-09,Victoria,Men,Night,71.0,2274.84
+2020-11-09,Victoria,Seniors,Afternoon,100.0,4125.0
+2020-11-09,Queensland,Kids,Evening,94.0,3548.5
+2020-11-09,Queensland,Women,Night,112.0,7124.32
+2020-11-09,Queensland,Men,Afternoon,101.0,2041.21
+2020-11-09,Queensland,Seniors,Morning,67.0,1864.61
+2020-11-09,South Australia,Kids,Night,56.0,4073.44
+2020-11-09,South Australia,Women,Morning,86.0,4610.46
+2020-11-09,South Australia,Men,Evening,84.0,4693.08
+2020-11-09,South Australia,Seniors,Morning,54.0,2258.82
+2020-11-09,Western Australia,Kids,Afternoon,109.0,3083.61
+2020-11-09,Western Australia,Women,Morning,111.0,4889.55
+2020-11-09,Western Australia,Men,Afternoon,96.0,3587.52
+2020-11-09,Western Australia,Seniors,Night,52.0,1724.84
+2020-11-09,Tasmania,Kids,Night,40.0,2016.8
+2020-11-09,Tasmania,Women,Afternoon,28.0,1662.08
+2020-11-09,Tasmania,Men,Evening,30.0,986.7
+2020-11-09,Tasmania,Seniors,Evening,26.0,859.04
+2020-11-09,Northern Territory,Kids,Evening,46.0,2078.28
+2020-11-09,Northern Territory,Women,Night,22.0,1093.18
+2020-11-09,Northern Territory,Men,Night,43.0,3314.01
+2020-11-09,Northern Territory,Seniors,Evening,12.0,215.4
+2020-11-09,Australian Capital Territory,Kids,Morning,63.0,2816.73
+2020-11-09,Australian Capital Territory,Women,Evening,43.0,2874.12
+2020-11-09,Australian Capital Territory,Men,Morning,10.0,495.4
+2020-11-09,Australian Capital Territory,Seniors,Evening,39.0,1749.93
+2020-11-10,New South Wales,Kids,Morning,78.0,3231.54
+2020-11-10,New South Wales,Women,Night,117.0,7310.16
+2020-11-10,New South Wales,Men,Evening,100.0,4411.0
+2020-11-10,New South Wales,Seniors,Evening,70.0,2957.5
+2020-11-10,Victoria,Kids,Afternoon,124.0,4708.28
+2020-11-10,Victoria,Women,Evening,144.0,5169.6
+2020-11-10,Victoria,Men,Morning,110.0,5372.4
+2020-11-10,Victoria,Seniors,Afternoon,157.0,3976.81
+2020-11-10,Queensland,Kids,Evening,116.0,5947.32
+2020-11-10,Queensland,Women,Evening,126.0,10827.18
+2020-11-10,Queensland,Men,Night,110.0,6010.4
+2020-11-10,Queensland,Seniors,Afternoon,70.0,3342.5
+2020-11-10,South Australia,Kids,Morning,71.0,2395.54
+2020-11-10,South Australia,Women,Evening,47.0,2600.51
+2020-11-10,South Australia,Men,Night,50.0,2433.0
+2020-11-10,South Australia,Seniors,Evening,65.0,2054.65
+2020-11-10,Western Australia,Kids,Afternoon,66.0,2714.58
+2020-11-10,Western Australia,Women,Morning,122.0,2860.9
+2020-11-10,Western Australia,Men,Night,67.0,3503.43
+2020-11-10,Western Australia,Seniors,Evening,81.0,2533.68
+2020-11-10,Tasmania,Kids,Morning,13.0,613.47
+2020-11-10,Tasmania,Women,Evening,36.0,1437.84
+2020-11-10,Tasmania,Men,Evening,31.0,1458.86
+2020-11-10,Tasmania,Seniors,Afternoon,22.0,326.26
+2020-11-10,Northern Territory,Kids,Afternoon,34.0,1845.18
+2020-11-10,Northern Territory,Women,Evening,46.0,1874.5
+2020-11-10,Northern Territory,Men,Night,31.0,1531.71
+2020-11-10,Northern Territory,Seniors,Afternoon,28.0,1187.76
+2020-11-10,Australian Capital Territory,Kids,Afternoon,31.0,1283.09
+2020-11-10,Australian Capital Territory,Women,Afternoon,66.0,5359.86
+2020-11-10,Australian Capital Territory,Men,Afternoon,59.0,3535.28
+2020-11-10,Australian Capital Territory,Seniors,Morning,36.0,1783.44
+2020-11-11,New South Wales,Kids,Evening,126.0,3931.2
+2020-11-11,New South Wales,Women,Morning,230.0,15959.7
+2020-11-11,New South Wales,Men,Morning,119.0,5137.23
+2020-11-11,New South Wales,Seniors,Evening,108.0,4368.6
+2020-11-11,Victoria,Kids,Afternoon,104.0,4561.44
+2020-11-11,Victoria,Women,Night,215.0,16172.3
+2020-11-11,Victoria,Men,Afternoon,127.0,7865.11
+2020-11-11,Victoria,Seniors,Afternoon,60.0,2389.2
+2020-11-11,Queensland,Kids,Afternoon,124.0,4730.6
+2020-11-11,Queensland,Women,Afternoon,87.0,4204.71
+2020-11-11,Queensland,Men,Night,66.0,2583.24
+2020-11-11,Queensland,Seniors,Morning,63.0,1418.13
+2020-11-11,South Australia,Kids,Night,54.0,
+2020-11-11,South Australia,Women,Evening,56.0,4603.2
+2020-11-11,South Australia,Men,Afternoon,76.0,4795.6
+2020-11-11,South Australia,Seniors,Night,38.0,1679.6
+2020-11-11,Western Australia,Kids,Evening,45.0,2254.95
+2020-11-11,Western Australia,Women,Night,102.0,6847.26
+2020-11-11,Western Australia,Men,Afternoon,53.0,1997.57
+2020-11-11,Western Australia,Seniors,Afternoon,70.0,1883.0
+2020-11-11,Tasmania,Kids,Evening,35.0,900.55
+2020-11-11,Tasmania,Women,Night,57.0,2238.39
+2020-11-11,Tasmania,Men,Afternoon,44.0,2541.44
+2020-11-11,Tasmania,Seniors,Evening,22.0,914.98
+2020-11-11,Northern Territory,Kids,Night,29.0,1005.72
+2020-11-11,Northern Territory,Women,Night,27.0,752.76
+2020-11-11,Northern Territory,Men,Evening,36.0,1038.24
+2020-11-11,Northern Territory,Seniors,Night,24.0,803.28
+2020-11-11,Australian Capital Territory,Kids,Night,48.0,1787.52
+2020-11-11,Australian Capital Territory,Women,Afternoon,52.0,3635.84
+2020-11-11,Australian Capital Territory,Men,Afternoon,54.0,2898.18
+2020-11-11,Australian Capital Territory,Seniors,Afternoon,41.0,871.66
+2020-11-12,New South Wales,Kids,Evening,138.0,6501.18
+2020-11-12,New South Wales,Women,Morning,112.0,6125.28
+2020-11-12,New South Wales,Men,Night,135.0,6442.2
+2020-11-12,New South Wales,Seniors,Evening,110.0,5471.4
+2020-11-12,Victoria,Kids,Morning,131.0,3449.23
+2020-11-12,Victoria,Women,Morning,169.0,13389.87
+2020-11-12,Victoria,Men,Evening,135.0,8626.5
+2020-11-12,Victoria,Seniors,Morning,141.0,6462.03
+2020-11-12,Queensland,Kids,Afternoon,87.0,4505.73
+2020-11-12,Queensland,Women,Evening,122.0,7182.14
+2020-11-12,Queensland,Men,Night,88.0,6172.32
+2020-11-12,Queensland,Seniors,Afternoon,54.0,2738.34
+2020-11-12,South Australia,Kids,Night,62.0,1574.18
+2020-11-12,South Australia,Women,Morning,86.0,2213.64
+2020-11-12,South Australia,Men,Afternoon,78.0,4772.82
+2020-11-12,South Australia,Seniors,Night,39.0,1450.41
+2020-11-12,Western Australia,Kids,Evening,107.0,3749.28
+2020-11-12,Western Australia,Women,Morning,66.0,5386.26
+2020-11-12,Western Australia,Men,Night,131.0,6491.05
+2020-11-12,Western Australia,Seniors,Morning,78.0,3812.64
+2020-11-12,Tasmania,Kids,Night,24.0,846.24
+2020-11-12,Tasmania,Women,Evening,62.0,5256.98
+2020-11-12,Tasmania,Men,Afternoon,45.0,1705.05
+2020-11-12,Tasmania,Seniors,Night,44.0,1359.6
+2020-11-12,Northern Territory,Kids,Morning,24.0,1060.8
+2020-11-12,Northern Territory,Women,Evening,57.0,4093.74
+2020-11-12,Northern Territory,Men,Afternoon,37.0,2057.94
+2020-11-12,Northern Territory,Seniors,Morning,24.0,992.64
+2020-11-12,Australian Capital Territory,Kids,Evening,9.0,335.7
+2020-11-12,Australian Capital Territory,Women,Morning,62.0,2513.48
+2020-11-12,Australian Capital Territory,Men,Evening,55.0,2574.0
+2020-11-12,Australian Capital Territory,Seniors,Afternoon,54.0,
+2020-11-13,New South Wales,Kids,Afternoon,96.0,3731.52
+2020-11-13,New South Wales,Women,Morning,158.0,8129.1
+2020-11-13,New South Wales,Men,Evening,145.0,5726.05
+2020-11-13,New South Wales,Seniors,Night,66.0,2770.68
+2020-11-13,Victoria,Kids,Afternoon,117.0,3721.77
+2020-11-13,Victoria,Women,Night,181.0,8805.65
+2020-11-13,Victoria,Men,Night,130.0,7842.9
+2020-11-13,Victoria,Seniors,Morning,87.0,3512.19
+2020-11-13,Queensland,Kids,Morning,68.0,2609.84
+2020-11-13,Queensland,Women,Morning,109.0,5106.65
+2020-11-13,Queensland,Men,Evening,93.0,2702.58
+2020-11-13,Queensland,Seniors,Afternoon,61.0,2029.47
+2020-11-13,South Australia,Kids,Afternoon,49.0,1856.61
+2020-11-13,South Australia,Women,Night,76.0,5014.48
+2020-11-13,South Australia,Men,Morning,83.0,3396.36
+2020-11-13,South Australia,Seniors,Evening,30.0,780.0
+2020-11-13,Western Australia,Kids,Afternoon,57.0,2091.9
+2020-11-13,Western Australia,Women,Evening,74.0,2832.72
+2020-11-13,Western Australia,Men,Morning,71.0,3684.19
+2020-11-13,Western Australia,Seniors,Morning,70.0,2145.5
+2020-11-13,Tasmania,Kids,Afternoon,27.0,823.23
+2020-11-13,Tasmania,Women,Night,45.0,2036.7
+2020-11-13,Tasmania,Men,Night,45.0,1166.85
+2020-11-13,Tasmania,Seniors,Morning,24.0,933.36
+2020-11-13,Northern Territory,Kids,Morning,28.0,1948.24
+2020-11-13,Northern Territory,Women,Night,43.0,1842.12
+2020-11-13,Northern Territory,Men,Morning,32.0,833.6
+2020-11-13,Northern Territory,Seniors,Afternoon,23.0,644.0
+2020-11-13,Australian Capital Territory,Kids,Afternoon,51.0,1762.56
+2020-11-13,Australian Capital Territory,Women,Evening,56.0,2721.04
+2020-11-13,Australian Capital Territory,Men,Night,75.0,3394.5
+2020-11-13,Australian Capital Territory,Seniors,Morning,55.0,2410.1
+2020-11-14,New South Wales,Kids,Evening,128.0,5693.44
+2020-11-14,New South Wales,Women,Afternoon,181.0,5145.83
+2020-11-14,New South Wales,Men,Night,125.0,7582.5
+2020-11-14,New South Wales,Seniors,Afternoon,98.0,2205.98
+2020-11-14,Victoria,Kids,Morning,97.0,5713.3
+2020-11-14,Victoria,Women,Evening,196.0,11275.88
+2020-11-14,Victoria,Men,Morning,155.0,6922.3
+2020-11-14,Victoria,Seniors,Morning,43.0,1166.59
+2020-11-14,Queensland,Kids,Night,118.0,4429.72
+2020-11-14,Queensland,Women,Night,108.0,5812.56
+2020-11-14,Queensland,Men,Morning,155.0,10998.8
+2020-11-14,Queensland,Seniors,Night,119.0,4101.93
+2020-11-14,South Australia,Kids,Evening,58.0,1398.96
+2020-11-14,South Australia,Women,Evening,112.0,4511.36
+2020-11-14,South Australia,Men,Morning,70.0,2451.4
+2020-11-14,South Australia,Seniors,Evening,39.0,1090.44
+2020-11-14,Western Australia,Kids,Morning,55.0,1907.4
+2020-11-14,Western Australia,Women,Evening,81.0,5791.5
+2020-11-14,Western Australia,Men,Afternoon,55.0,2882.55
+2020-11-14,Western Australia,Seniors,Morning,81.0,2516.67
+2020-11-14,Tasmania,Kids,Evening,24.0,912.24
+2020-11-14,Tasmania,Women,Afternoon,61.0,3753.33
+2020-11-14,Tasmania,Men,Morning,,1788.48
+2020-11-14,Tasmania,Seniors,Evening,18.0,765.72
+2020-11-14,Northern Territory,Kids,Evening,30.0,1115.4
+2020-11-14,Northern Territory,Women,Afternoon,29.0,1295.43
+2020-11-14,Northern Territory,Men,Night,38.0,2497.36
+2020-11-14,Northern Territory,Seniors,Night,19.0,767.6
+2020-11-14,Australian Capital Territory,Kids,Afternoon,15.0,512.85
+2020-11-14,Australian Capital Territory,Women,Afternoon,57.0,2525.67
+2020-11-14,Australian Capital Territory,Men,Morning,35.0,1424.15
+2020-11-14,Australian Capital Territory,Seniors,Night,39.0,1333.8
+2020-11-15,New South Wales,Kids,Morning,36.0,633.6
+2020-11-15,New South Wales,Women,Evening,132.0,8664.48
+2020-11-15,New South Wales,Men,Afternoon,24.0,1029.6
+2020-11-15,New South Wales,Seniors,Morning,84.0,4143.72
+2020-11-15,Victoria,Kids,Afternoon,87.0,3883.68
+2020-11-15,Victoria,Women,Morning,149.0,3763.74
+2020-11-15,Victoria,Men,Evening,148.0,7746.32
+2020-11-15,Victoria,Seniors,Evening,101.0,7442.69
+2020-11-15,Queensland,Kids,Night,30.0,1773.9
+2020-11-15,Queensland,Women,Night,106.0,6675.88
+2020-11-15,Queensland,Men,Evening,97.0,4258.3
+2020-11-15,Queensland,Seniors,Morning,59.0,2310.44
+2020-11-15,South Australia,Kids,Afternoon,29.0,1409.69
+2020-11-15,South Australia,Women,Evening,68.0,2779.16
+2020-11-15,South Australia,Men,Evening,57.0,3767.13
+2020-11-15,South Australia,Seniors,Morning,40.0,
+2020-11-15,Western Australia,Kids,Evening,52.0,2531.88
+2020-11-15,Western Australia,Women,Evening,117.0,10218.78
+2020-11-15,Western Australia,Men,Morning,78.0,4549.74
+2020-11-15,Western Australia,Seniors,Evening,61.0,2954.84
+2020-11-15,Tasmania,Kids,Night,24.0,1165.2
+2020-11-15,Tasmania,Women,Night,42.0,2415.0
+2020-11-15,Tasmania,Men,Night,39.0,2060.37
+2020-11-15,Tasmania,Seniors,Night,27.0,1027.62
+2020-11-15,Northern Territory,Kids,Evening,39.0,1994.46
+2020-11-15,Northern Territory,Women,Afternoon,49.0,2518.11
+2020-11-15,Northern Territory,Men,Night,24.0,1490.64
+2020-11-15,Northern Territory,Seniors,Night,30.0,1504.2
+2020-11-15,Australian Capital Territory,Kids,Evening,33.0,1254.66
+2020-11-15,Australian Capital Territory,Women,Evening,29.0,1519.02
+2020-11-15,Australian Capital Territory,Men,Morning,64.0,2773.76
+2020-11-15,Australian Capital Territory,Seniors,Night,42.0,1435.14
+2020-11-16,New South Wales,Kids,Morning,123.0,3456.3
+2020-11-16,New South Wales,Women,Night,166.0,1965.44
+2020-11-16,New South Wales,Men,Afternoon,129.0,3609.42
+2020-11-16,New South Wales,Seniors,Evening,136.0,5910.56
+2020-11-16,Victoria,Kids,Evening,112.0,6376.16
+2020-11-16,Victoria,Women,Morning,102.0,8747.52
+2020-11-16,Victoria,Men,Morning,154.0,
+2020-11-16,Victoria,Seniors,Evening,117.0,2969.46
+2020-11-16,Queensland,Kids,Evening,60.0,2035.8
+2020-11-16,Queensland,Women,Evening,98.0,4117.96
+2020-11-16,Queensland,Men,Night,135.0,6220.8
+2020-11-16,Queensland,Seniors,Night,79.0,2411.08
+2020-11-16,South Australia,Kids,Afternoon,24.0,1042.08
+2020-11-16,South Australia,Women,Night,33.0,1895.19
+2020-11-16,South Australia,Men,Evening,38.0,2877.74
+2020-11-16,South Australia,Seniors,Night,61.0,2258.22
+2020-11-16,Western Australia,Kids,Morning,93.0,2916.48
+2020-11-16,Western Australia,Women,Evening,113.0,6963.06
+2020-11-16,Western Australia,Men,Night,89.0,5900.7
+2020-11-16,Western Australia,Seniors,Evening,73.0,2830.21
+2020-11-16,Tasmania,Kids,Morning,15.0,451.95
+2020-11-16,Tasmania,Women,Morning,43.0,2578.28
+2020-11-16,Tasmania,Men,Night,25.0,2033.25
+2020-11-16,Tasmania,Seniors,Evening,40.0,1671.2
+2020-11-16,Northern Territory,Kids,Afternoon,27.0,1031.67
+2020-11-16,Northern Territory,Women,Morning,27.0,1612.17
+2020-11-16,Northern Territory,Men,Afternoon,35.0,1158.85
+2020-11-16,Northern Territory,Seniors,Night,26.0,897.26
+2020-11-16,Australian Capital Territory,Kids,Morning,17.0,530.57
+2020-11-16,Australian Capital Territory,Women,Afternoon,51.0,4485.45
+2020-11-16,Australian Capital Territory,Men,Morning,57.0,1816.59
+2020-11-16,Australian Capital Territory,Seniors,Afternoon,41.0,867.15
+2020-11-17,New South Wales,Kids,Evening,149.0,5276.09
+2020-11-17,New South Wales,Women,Evening,157.0,12431.26
+2020-11-17,New South Wales,Men,Night,84.0,2609.04
+2020-11-17,New South Wales,Seniors,Morning,82.0,3769.54
+2020-11-17,Victoria,Kids,Afternoon,53.0,525.23
+2020-11-17,Victoria,Women,Night,123.0,8254.53
+2020-11-17,Victoria,Men,Evening,164.0,7115.96
+2020-11-17,Victoria,Seniors,Evening,77.0,3625.16
+2020-11-17,Queensland,Kids,Night,35.0,1270.5
+2020-11-17,Queensland,Women,Morning,123.0,8057.73
+2020-11-17,Queensland,Men,Afternoon,83.0,4145.85
+2020-11-17,Queensland,Seniors,Evening,18.0,534.24
+2020-11-17,South Australia,Kids,Night,61.0,1823.29
+2020-11-17,South Australia,Women,Evening,79.0,5172.13
+2020-11-17,South Australia,Men,Evening,59.0,3053.25
+2020-11-17,South Australia,Seniors,Afternoon,34.0,1156.68
+2020-11-17,Western Australia,Kids,Morning,79.0,3333.8
+2020-11-17,Western Australia,Women,Morning,80.0,4960.0
+2020-11-17,Western Australia,Men,Afternoon,100.0,2244.0
+2020-11-17,Western Australia,Seniors,Night,80.0,2621.6
+2020-11-17,Tasmania,Kids,Night,35.0,1870.05
+2020-11-17,Tasmania,Women,Morning,26.0,1233.18
+2020-11-17,Tasmania,Men,Evening,35.0,1370.25
+2020-11-17,Tasmania,Seniors,Evening,42.0,1166.34
+2020-11-17,Northern Territory,Kids,Night,22.0,939.62
+2020-11-17,Northern Territory,Women,Afternoon,24.0,1255.92
+2020-11-17,Northern Territory,Men,Evening,36.0,1623.96
+2020-11-17,Northern Territory,Seniors,Night,23.0,711.16
+2020-11-17,Australian Capital Territory,Kids,Afternoon,22.0,967.34
+2020-11-17,Australian Capital Territory,Women,Morning,89.0,5232.31
+2020-11-17,Australian Capital Territory,Men,Afternoon,52.0,3049.28
+2020-11-17,Australian Capital Territory,Seniors,Morning,22.0,1151.48
+2020-11-18,New South Wales,Kids,Night,119.0,6916.28
+2020-11-18,New South Wales,Women,Afternoon,126.0,10944.36
+2020-11-18,New South Wales,Men,Night,169.0,9599.2
+2020-11-18,New South Wales,Seniors,Morning,107.0,3596.27
+2020-11-18,Victoria,Kids,Evening,134.0,5630.68
+2020-11-18,Victoria,Women,Evening,58.0,2382.06
+2020-11-18,Victoria,Men,Morning,114.0,6109.26
+2020-11-18,Victoria,Seniors,Evening,86.0,4102.2
+2020-11-18,Queensland,Kids,Evening,33.0,1387.65
+2020-11-18,Queensland,Women,Afternoon,53.0,3728.55
+2020-11-18,Queensland,Men,Afternoon,96.0,5283.84
+2020-11-18,Queensland,Seniors,Evening,53.0,2558.84
+2020-11-18,South Australia,Kids,Afternoon,70.0,3276.0
+2020-11-18,South Australia,Women,Morning,74.0,4998.7
+2020-11-18,South Australia,Men,Afternoon,52.0,3161.08
+2020-11-18,South Australia,Seniors,Afternoon,71.0,3285.88
+2020-11-18,Western Australia,Kids,Afternoon,52.0,2308.8
+2020-11-18,Western Australia,Women,Night,59.0,3978.37
+2020-11-18,Western Australia,Men,Morning,93.0,2308.26
+2020-11-18,Western Australia,Seniors,Evening,39.0,1297.92
+2020-11-18,Tasmania,Kids,Evening,28.0,768.32
+2020-11-18,Tasmania,Women,Night,50.0,3121.0
+2020-11-18,Tasmania,Men,Afternoon,36.0,1422.72
+2020-11-18,Tasmania,Seniors,Morning,36.0,1868.04
+2020-11-18,Northern Territory,Kids,Morning,23.0,779.47
+2020-11-18,Northern Territory,Women,Evening,44.0,2328.04
+2020-11-18,Northern Territory,Men,Night,31.0,1837.06
+2020-11-18,Northern Territory,Seniors,Night,10.0,486.6
+2020-11-18,Australian Capital Territory,Kids,Night,41.0,1478.46
+2020-11-18,Australian Capital Territory,Women,Night,56.0,3242.96
+2020-11-18,Australian Capital Territory,Men,Morning,23.0,1592.29
+2020-11-18,Australian Capital Territory,Seniors,Afternoon,36.0,1449.0
+2020-11-19,New South Wales,Kids,Evening,144.0,4243.68
+2020-11-19,New South Wales,Women,Morning,185.0,10049.2
+2020-11-19,New South Wales,Men,Night,172.0,3684.24
+2020-11-19,New South Wales,Seniors,Night,97.0,2930.37
+2020-11-19,Victoria,Kids,Evening,111.0,5059.38
+2020-11-19,Victoria,Women,Afternoon,112.0,5307.68
+2020-11-19,Victoria,Men,Afternoon,116.0,4368.56
+2020-11-19,Victoria,Seniors,Afternoon,110.0,3570.6
+2020-11-19,Queensland,Kids,Night,10.0,364.5
+2020-11-19,Queensland,Women,Morning,80.0,2644.0
+2020-11-19,Queensland,Men,Morning,62.0,3158.28
+2020-11-19,Queensland,Seniors,Afternoon,100.0,3901.0
+2020-11-19,South Australia,Kids,Evening,44.0,1998.48
+2020-11-19,South Australia,Women,Afternoon,67.0,3193.22
+2020-11-19,South Australia,Men,Afternoon,43.0,1134.34
+2020-11-19,South Australia,Seniors,Evening,42.0,1575.84
+2020-11-19,Western Australia,Kids,Afternoon,65.0,2340.65
+2020-11-19,Western Australia,Women,Evening,69.0,4691.31
+2020-11-19,Western Australia,Men,Evening,49.0,2927.26
+2020-11-19,Western Australia,Seniors,Morning,41.0,1179.98
+2020-11-19,Tasmania,Kids,Evening,17.0,596.36
+2020-11-19,Tasmania,Women,Afternoon,58.0,3859.32
+2020-11-19,Tasmania,Men,Evening,49.0,2763.11
+2020-11-19,Tasmania,Seniors,Afternoon,18.0,590.76
+2020-11-19,Northern Territory,Kids,Evening,20.0,1097.4
+2020-11-19,Northern Territory,Women,Morning,24.0,1738.56
+2020-11-19,Northern Territory,Men,Afternoon,41.0,3019.65
+2020-11-19,Northern Territory,Seniors,Afternoon,21.0,899.64
+2020-11-19,Australian Capital Territory,Kids,Afternoon,68.0,2300.44
+2020-11-19,Australian Capital Territory,Women,Evening,31.0,904.27
+2020-11-19,Australian Capital Territory,Men,Morning,60.0,1478.4
+2020-11-19,Australian Capital Territory,Seniors,Morning,31.0,1246.2
+2020-11-20,New South Wales,Kids,Morning,118.0,5320.62
+2020-11-20,New South Wales,Women,Morning,173.0,13571.85
+2020-11-20,New South Wales,Men,Evening,98.0,3974.88
+2020-11-20,New South Wales,Seniors,Afternoon,76.0,3341.72
+2020-11-20,Victoria,Kids,Night,125.0,5671.25
+2020-11-20,Victoria,Women,Morning,193.0,7743.16
+2020-11-20,Victoria,Men,Night,181.0,12599.41
+2020-11-20,Victoria,Seniors,Evening,107.0,5682.77
+2020-11-20,Queensland,Kids,Evening,40.0,1393.6
+2020-11-20,Queensland,Women,Night,91.0,6348.16
+2020-11-20,Queensland,Men,Afternoon,67.0,3986.5
+2020-11-20,Queensland,Seniors,Night,101.0,4309.67
+2020-11-20,South Australia,Kids,Evening,58.0,1730.14
+2020-11-20,South Australia,Women,Night,58.0,4523.42
+2020-11-20,South Australia,Men,Morning,81.0,3967.38
+2020-11-20,South Australia,Seniors,Morning,41.0,678.55
+2020-11-20,Western Australia,Kids,Afternoon,45.0,2751.3
+2020-11-20,Western Australia,Women,Night,60.0,3687.6
+2020-11-20,Western Australia,Men,Night,107.0,3524.58
+2020-11-20,Western Australia,Seniors,Night,63.0,2835.0
+2020-11-20,Tasmania,Kids,Night,31.0,2215.88
+2020-11-20,Tasmania,Women,Afternoon,22.0,1650.44
+2020-11-20,Tasmania,Men,Evening,36.0,2148.84
+2020-11-20,Tasmania,Seniors,Afternoon,31.0,897.76
+2020-11-20,Northern Territory,Kids,Evening,28.0,572.04
+2020-11-20,Northern Territory,Women,Evening,46.0,2904.9
+2020-11-20,Northern Territory,Men,Evening,39.0,2475.33
+2020-11-20,Northern Territory,Seniors,Night,26.0,972.92
+2020-11-20,Australian Capital Territory,Kids,Afternoon,29.0,951.49
+2020-11-20,Australian Capital Territory,Women,Evening,79.0,6391.89
+2020-11-20,Australian Capital Territory,Men,Morning,45.0,2254.95
+2020-11-20,Australian Capital Territory,Seniors,Evening,26.0,1228.76
+2020-11-21,New South Wales,Kids,Afternoon,134.0,8236.98
+2020-11-21,New South Wales,Women,Night,119.0,6259.4
+2020-11-21,New South Wales,Men,Morning,147.0,8530.41
+2020-11-21,New South Wales,Seniors,Evening,93.0,2568.66
+2020-11-21,Victoria,Kids,Night,125.0,6036.25
+2020-11-21,Victoria,Women,Afternoon,103.0,8202.92
+2020-11-21,Victoria,Men,Afternoon,163.0,8357.01
+2020-11-21,Victoria,Seniors,Morning,90.0,3718.8
+2020-11-21,Queensland,Kids,Morning,60.0,2449.2
+2020-11-21,Queensland,Women,Evening,41.0,2958.97
+2020-11-21,Queensland,Men,Night,52.0,3606.2
+2020-11-21,Queensland,Seniors,Night,64.0,2174.08
+2020-11-21,South Australia,Kids,Afternoon,43.0,1607.77
+2020-11-21,South Australia,Women,Afternoon,111.0,2185.59
+2020-11-21,South Australia,Men,Evening,91.0,4910.36
+2020-11-21,South Australia,Seniors,Evening,30.0,770.4
+2020-11-21,Western Australia,Kids,Afternoon,101.0,3059.29
+2020-11-21,Western Australia,Women,Afternoon,63.0,4803.12
+2020-11-21,Western Australia,Men,Night,90.0,3340.8
+2020-11-21,Western Australia,Seniors,Night,63.0,1647.45
+2020-11-21,Tasmania,Kids,Night,41.0,2130.36
+2020-11-21,Tasmania,Women,Evening,52.0,3335.28
+2020-11-21,Tasmania,Men,Night,58.0,2871.0
+2020-11-21,Tasmania,Seniors,Morning,18.0,725.58
+2020-11-21,Northern Territory,Kids,Morning,43.0,1270.22
+2020-11-21,Northern Territory,Women,Night,34.0,2210.0
+2020-11-21,Northern Territory,Men,Night,32.0,1168.96
+2020-11-21,Northern Territory,Seniors,Afternoon,32.0,1864.64
+2020-11-21,Australian Capital Territory,Kids,Afternoon,42.0,1291.08
+2020-11-21,Australian Capital Territory,Women,Evening,31.0,1938.12
+2020-11-21,Australian Capital Territory,Men,Morning,65.0,3625.05
+2020-11-21,Australian Capital Territory,Seniors,Morning,35.0,1061.9
+2020-11-22,New South Wales,Kids,Evening,75.0,3714.0
+2020-11-22,New South Wales,Women,Night,207.0,7118.73
+2020-11-22,New South Wales,Men,Night,203.0,11587.24
+2020-11-22,New South Wales,Seniors,Evening,141.0,3259.92
+2020-11-22,Victoria,Kids,Morning,58.0,2255.62
+2020-11-22,Victoria,Women,Morning,164.0,14189.28
+2020-11-22,Victoria,Men,Night,146.0,6759.8
+2020-11-22,Victoria,Seniors,Afternoon,60.0,2868.6
+2020-11-22,Queensland,Kids,Evening,57.0,3311.13
+2020-11-22,Queensland,Women,Evening,107.0,8914.17
+2020-11-22,Queensland,Men,Night,119.0,5675.11
+2020-11-22,Queensland,Seniors,Evening,60.0,1963.8
+2020-11-22,South Australia,Kids,Morning,60.0,2479.8
+2020-11-22,South Australia,Women,Night,64.0,3578.88
+2020-11-22,South Australia,Men,Morning,67.0,1433.8
+2020-11-22,South Australia,Seniors,Afternoon,54.0,1435.86
+2020-11-22,Western Australia,Kids,Evening,44.0,980.32
+2020-11-22,Western Australia,Women,Evening,45.0,1681.2
+2020-11-22,Western Australia,Men,Morning,64.0,4817.92
+2020-11-22,Western Australia,Seniors,Night,50.0,1885.5
+2020-11-22,Tasmania,Kids,Night,35.0,1467.2
+2020-11-22,Tasmania,Women,Evening,44.0,1753.4
+2020-11-22,Tasmania,Men,Morning,55.0,4034.25
+2020-11-22,Tasmania,Seniors,Afternoon,13.0,340.21
+2020-11-22,Northern Territory,Kids,Morning,24.0,721.92
+2020-11-22,Northern Territory,Women,Night,44.0,2074.16
+2020-11-22,Northern Territory,Men,Evening,54.0,3521.88
+2020-11-22,Northern Territory,Seniors,Evening,25.0,1146.5
+2020-11-22,Australian Capital Territory,Kids,Evening,53.0,1823.73
+2020-11-22,Australian Capital Territory,Women,Afternoon,44.0,2627.68
+2020-11-22,Australian Capital Territory,Men,Afternoon,62.0,3183.08
+2020-11-22,Australian Capital Territory,Seniors,Night,18.0,509.22
+2020-11-23,New South Wales,Kids,Morning,110.0,4364.8
+2020-11-23,New South Wales,Women,Morning,258.0,9515.04
+2020-11-23,New South Wales,Men,Morning,158.0,10927.28
+2020-11-23,New South Wales,Seniors,Afternoon,168.0,5396.16
+2020-11-23,Victoria,Kids,Evening,113.0,5271.45
+2020-11-23,Victoria,Women,Night,151.0,8600.96
+2020-11-23,Victoria,Men,Night,136.0,2185.52
+2020-11-23,Victoria,Seniors,Afternoon,106.0,3944.26
+2020-11-23,Queensland,Kids,Afternoon,75.0,4695.75
+2020-11-23,Queensland,Women,Evening,93.0,4855.53
+2020-11-23,Queensland,Men,Evening,158.0,6086.16
+2020-11-23,Queensland,Seniors,Afternoon,60.0,2075.4
+2020-11-23,South Australia,Kids,Night,67.0,2863.58
+2020-11-23,South Australia,Women,Evening,47.0,2359.4
+2020-11-23,South Australia,Men,Evening,53.0,2569.44
+2020-11-23,South Australia,Seniors,Night,54.0,2160.54
+2020-11-23,Western Australia,Kids,Evening,31.0,1611.69
+2020-11-23,Western Australia,Women,Night,104.0,8330.4
+2020-11-23,Western Australia,Men,Morning,,5955.72
+2020-11-23,Western Australia,Seniors,Evening,68.0,3326.56
+2020-11-23,Tasmania,Kids,Evening,36.0,1419.84
+2020-11-23,Tasmania,Women,Morning,76.0,5500.12
+2020-11-23,Tasmania,Men,Night,45.0,1469.25
+2020-11-23,Tasmania,Seniors,Evening,17.0,659.77
+2020-11-23,Northern Territory,Kids,Morning,28.0,948.36
+2020-11-23,Northern Territory,Women,Night,40.0,3331.2
+2020-11-23,Northern Territory,Men,Evening,39.0,1343.16
+2020-11-23,Northern Territory,Seniors,Afternoon,23.0,650.21
+2020-11-23,Australian Capital Territory,Kids,Morning,35.0,1261.05
+2020-11-23,Australian Capital Territory,Women,Night,50.0,1946.0
+2020-11-23,Australian Capital Territory,Men,Afternoon,47.0,1978.7
+2020-11-23,Australian Capital Territory,Seniors,Night,4.0,222.84
+2020-11-24,New South Wales,Kids,Afternoon,149.0,5429.56
+2020-11-24,New South Wales,Women,Afternoon,163.0,6555.86
+2020-11-24,New South Wales,Men,Morning,207.0,15429.78
+2020-11-24,New South Wales,Seniors,Morning,104.0,4766.32
+2020-11-24,Victoria,Kids,Afternoon,104.0,2710.24
+2020-11-24,Victoria,Women,Morning,125.0,7570.0
+2020-11-24,Victoria,Men,Night,104.0,4847.44
+2020-11-24,Victoria,Seniors,Evening,85.0,2993.7
+2020-11-24,Queensland,Kids,Night,,2382.1
+2020-11-24,Queensland,Women,Afternoon,91.0,3499.86
+2020-11-24,Queensland,Men,Night,128.0,2778.88
+2020-11-24,Queensland,Seniors,Afternoon,96.0,
+2020-11-24,South Australia,Kids,Night,49.0,607.11
+2020-11-24,South Australia,Women,Night,69.0,3967.5
+2020-11-24,South Australia,Men,Morning,45.0,1921.5
+2020-11-24,South Australia,Seniors,Afternoon,70.0,2966.6
+2020-11-24,Western Australia,Kids,Afternoon,48.0,1116.0
+2020-11-24,Western Australia,Women,Evening,87.0,4799.79
+2020-11-24,Western Australia,Men,Night,94.0,3988.42
+2020-11-24,Western Australia,Seniors,Night,69.0,3766.02
+2020-11-24,Tasmania,Kids,Evening,39.0,1559.22
+2020-11-24,Tasmania,Women,Afternoon,42.0,2223.48
+2020-11-24,Tasmania,Men,Night,52.0,2143.44
+2020-11-24,Tasmania,Seniors,Evening,28.0,1021.72
+2020-11-24,Northern Territory,Kids,Evening,22.0,564.96
+2020-11-24,Northern Territory,Women,Evening,42.0,2417.1
+2020-11-24,Northern Territory,Men,Night,37.0,1571.02
+2020-11-24,Northern Territory,Seniors,Afternoon,32.0,882.56
+2020-11-24,Australian Capital Territory,Kids,Afternoon,61.0,1319.43
+2020-11-24,Australian Capital Territory,Women,Evening,66.0,4350.72
+2020-11-24,Australian Capital Territory,Men,Evening,37.0,2038.7
+2020-11-24,Australian Capital Territory,Seniors,Afternoon,49.0,721.28
+2020-11-25,New South Wales,Kids,Evening,129.0,1750.53
+2020-11-25,New South Wales,Women,Evening,115.0,9649.65
+2020-11-25,New South Wales,Men,Afternoon,113.0,3842.0
+2020-11-25,New South Wales,Seniors,Night,94.0,5249.9
+2020-11-25,Victoria,Kids,Evening,44.0,1282.6
+2020-11-25,Victoria,Women,Night,207.0,18108.36
+2020-11-25,Victoria,Men,Evening,117.0,3877.38
+2020-11-25,Victoria,Seniors,Evening,143.0,7337.33
+2020-11-25,Queensland,Kids,Evening,97.0,3077.81
+2020-11-25,Queensland,Women,Morning,115.0,6440.0
+2020-11-25,Queensland,Men,Night,108.0,7414.2
+2020-11-25,Queensland,Seniors,Night,90.0,2309.4
+2020-11-25,South Australia,Kids,Evening,76.0,3334.88
+2020-11-25,South Australia,Women,Afternoon,94.0,7649.72
+2020-11-25,South Australia,Men,Evening,43.0,2108.29
+2020-11-25,South Australia,Seniors,Morning,40.0,838.0
+2020-11-25,Western Australia,Kids,Evening,74.0,5003.88
+2020-11-25,Western Australia,Women,Morning,43.0,2494.0
+2020-11-25,Western Australia,Men,Evening,98.0,5009.76
+2020-11-25,Western Australia,Seniors,Night,57.0,1341.21
+2020-11-25,Tasmania,Kids,Evening,33.0,1066.89
+2020-11-25,Tasmania,Women,Night,,1157.1
+2020-11-25,Tasmania,Men,Afternoon,49.0,2458.82
+2020-11-25,Tasmania,Seniors,Afternoon,29.0,1342.99
+2020-11-25,Northern Territory,Kids,Evening,28.0,1407.28
+2020-11-25,Northern Territory,Women,Evening,35.0,2763.95
+2020-11-25,Northern Territory,Men,Afternoon,36.0,1874.16
+2020-11-25,Northern Territory,Seniors,Morning,14.0,542.5
+2020-11-25,Australian Capital Territory,Kids,Afternoon,30.0,1008.3
+2020-11-25,Australian Capital Territory,Women,Afternoon,44.0,1842.28
+2020-11-25,Australian Capital Territory,Men,Morning,81.0,5432.67
+2020-11-25,Australian Capital Territory,Seniors,Afternoon,56.0,1358.56
+2020-11-26,New South Wales,Kids,Afternoon,114.0,3024.42
+2020-11-26,New South Wales,Women,Morning,128.0,5655.04
+2020-11-26,New South Wales,Men,Morning,188.0,8322.76
+2020-11-26,New South Wales,Seniors,Night,132.0,5517.6
+2020-11-26,Victoria,Kids,Evening,167.0,4094.84
+2020-11-26,Victoria,Women,Night,197.0,15046.86
+2020-11-26,Victoria,Men,Morning,85.0,5337.15
+2020-11-26,Victoria,Seniors,Afternoon,96.0,3246.72
+2020-11-26,Queensland,Kids,Morning,60.0,1963.8
+2020-11-26,Queensland,Women,Afternoon,188.0,10999.88
+2020-11-26,Queensland,Men,Night,122.0,4765.32
+2020-11-26,Queensland,Seniors,Night,55.0,2551.45
+2020-11-26,South Australia,Kids,Night,32.0,1152.64
+2020-11-26,South Australia,Women,Afternoon,78.0,4698.72
+2020-11-26,South Australia,Men,Evening,62.0,3392.64
+2020-11-26,South Australia,Seniors,Evening,57.0,2453.85
+2020-11-26,Western Australia,Kids,Evening,47.0,1759.21
+2020-11-26,Western Australia,Women,Morning,132.0,9564.72
+2020-11-26,Western Australia,Men,Morning,48.0,2598.72
+2020-11-26,Western Australia,Seniors,Afternoon,24.0,874.8
+2020-11-26,Tasmania,Kids,Morning,49.0,1482.74
+2020-11-26,Tasmania,Women,Afternoon,34.0,2394.28
+2020-11-26,Tasmania,Men,Night,20.0,823.0
+2020-11-26,Tasmania,Seniors,Afternoon,33.0,987.03
+2020-11-26,Northern Territory,Kids,Morning,25.0,1213.5
+2020-11-26,Northern Territory,Women,Night,43.0,2694.38
+2020-11-26,Northern Territory,Men,Night,29.0,1577.02
+2020-11-26,Northern Territory,Seniors,Afternoon,23.0,928.97
+2020-11-26,Australian Capital Territory,Kids,Evening,34.0,1310.02
+2020-11-26,Australian Capital Territory,Women,Morning,41.0,2375.95
+2020-11-26,Australian Capital Territory,Men,Morning,37.0,1287.23
+2020-11-26,Australian Capital Territory,Seniors,Evening,38.0,1445.52
+2020-11-27,New South Wales,Kids,Morning,138.0,4945.92
+2020-11-27,New South Wales,Women,Evening,182.0,12210.38
+2020-11-27,New South Wales,Men,Evening,155.0,5983.0
+2020-11-27,New South Wales,Seniors,Night,104.0,4108.0
+2020-11-27,Victoria,Kids,Night,99.0,1779.03
+2020-11-27,Victoria,Women,Afternoon,149.0,13859.98
+2020-11-27,Victoria,Men,Night,107.0,4268.23
+2020-11-27,Victoria,Seniors,Evening,97.0,3783.0
+2020-11-27,Queensland,Kids,Afternoon,109.0,2934.28
+2020-11-27,Queensland,Women,Morning,142.0,9614.82
+2020-11-27,Queensland,Men,Evening,94.0,5073.18
+2020-11-27,Queensland,Seniors,Afternoon,94.0,4170.78
+2020-11-27,South Australia,Kids,Night,35.0,1727.6
+2020-11-27,South Australia,Women,Evening,76.0,4532.64
+2020-11-27,South Australia,Men,Afternoon,67.0,3183.84
+2020-11-27,South Australia,Seniors,Morning,65.0,2288.0
+2020-11-27,Western Australia,Kids,Evening,44.0,1595.0
+2020-11-27,Western Australia,Women,Evening,102.0,7923.36
+2020-11-27,Western Australia,Men,Afternoon,97.0,3712.19
+2020-11-27,Western Australia,Seniors,Afternoon,104.0,4008.16
+2020-11-27,Tasmania,Kids,Night,,1670.98
+2020-11-27,Tasmania,Women,Night,52.0,3723.2
+2020-11-27,Tasmania,Men,Evening,52.0,3299.92
+2020-11-27,Tasmania,Seniors,Morning,35.0,1154.3
+2020-11-27,Northern Territory,Kids,Night,22.0,969.98
+2020-11-27,Northern Territory,Women,Morning,49.0,2696.47
+2020-11-27,Northern Territory,Men,Afternoon,43.0,2952.81
+2020-11-27,Northern Territory,Seniors,Afternoon,17.0,475.49
+2020-11-27,Australian Capital Territory,Kids,Night,38.0,1665.16
+2020-11-27,Australian Capital Territory,Women,Evening,49.0,3899.91
+2020-11-27,Australian Capital Territory,Men,Afternoon,55.0,2751.1
+2020-11-27,Australian Capital Territory,Seniors,Morning,20.0,467.4
+2020-11-28,New South Wales,Kids,Evening,121.0,2113.87
+2020-11-28,New South Wales,Women,Night,211.0,11822.33
+2020-11-28,New South Wales,Men,Afternoon,271.0,21669.16
+2020-11-28,New South Wales,Seniors,Night,94.0,3288.12
+2020-11-28,Victoria,Kids,Evening,128.0,7537.92
+2020-11-28,Victoria,Women,Evening,72.0,2205.36
+2020-11-28,Victoria,Men,Evening,98.0,5604.62
+2020-11-28,Victoria,Seniors,Morning,101.0,4673.27
+2020-11-28,Queensland,Kids,Evening,51.0,789.99
+2020-11-28,Queensland,Women,Evening,147.0,6700.26
+2020-11-28,Queensland,Men,Afternoon,39.0,2004.99
+2020-11-28,Queensland,Seniors,Morning,89.0,3099.87
+2020-11-28,South Australia,Kids,Morning,46.0,1783.88
+2020-11-28,South Australia,Women,Night,69.0,2585.43
+2020-11-28,South Australia,Men,Evening,51.0,2875.38
+2020-11-28,South Australia,Seniors,Afternoon,52.0,1955.72
+2020-11-28,Western Australia,Kids,Night,47.0,1811.38
+2020-11-28,Western Australia,Women,Evening,33.0,2022.24
+2020-11-28,Western Australia,Men,Morning,117.0,3514.68
+2020-11-28,Western Australia,Seniors,Evening,49.0,1918.84
+2020-11-28,Tasmania,Kids,Evening,43.0,1533.38
+2020-11-28,Tasmania,Women,Afternoon,36.0,1000.08
+2020-11-28,Tasmania,Men,Afternoon,39.0,2981.94
+2020-11-28,Tasmania,Seniors,Afternoon,30.0,1073.7
+2020-11-28,Northern Territory,Kids,Night,29.0,1171.02
+2020-11-28,Northern Territory,Women,Afternoon,29.0,2068.86
+2020-11-28,Northern Territory,Men,Night,35.0,1740.55
+2020-11-28,Northern Territory,Seniors,Evening,16.0,776.16
+2020-11-28,Australian Capital Territory,Kids,Night,48.0,1657.44
+2020-11-28,Australian Capital Territory,Women,Night,76.0,3856.24
+2020-11-28,Australian Capital Territory,Men,Afternoon,37.0,1460.39
+2020-11-28,Australian Capital Territory,Seniors,Afternoon,,648.48
+2020-11-29,New South Wales,Kids,Morning,50.0,1361.5
+2020-11-29,New South Wales,Women,Night,61.0,3486.76
+2020-11-29,New South Wales,Men,Evening,131.0,5919.89
+2020-11-29,New South Wales,Seniors,Morning,68.0,1683.0
+2020-11-29,Victoria,Kids,Morning,112.0,3869.6
+2020-11-29,Victoria,Women,Morning,156.0,6971.64
+2020-11-29,Victoria,Men,Afternoon,127.0,8470.9
+2020-11-29,Victoria,Seniors,Afternoon,103.0,3300.12
+2020-11-29,Queensland,Kids,Afternoon,87.0,3297.3
+2020-11-29,Queensland,Women,Evening,117.0,6250.14
+2020-11-29,Queensland,Men,Night,94.0,4916.2
+2020-11-29,Queensland,Seniors,Morning,50.0,1312.5
+2020-11-29,South Australia,Kids,Afternoon,31.0,719.82
+2020-11-29,South Australia,Women,Night,49.0,2988.51
+2020-11-29,South Australia,Men,Morning,48.0,2701.44
+2020-11-29,South Australia,Seniors,Night,,820.8
+2020-11-29,Western Australia,Kids,Morning,80.0,3940.8
+2020-11-29,Western Australia,Women,Night,68.0,4423.4
+2020-11-29,Western Australia,Men,Afternoon,61.0,3098.19
+2020-11-29,Western Australia,Seniors,Night,37.0,695.23
+2020-11-29,Tasmania,Kids,Night,27.0,1057.32
+2020-11-29,Tasmania,Women,Morning,40.0,1601.2
+2020-11-29,Tasmania,Men,Night,33.0,1750.65
+2020-11-29,Tasmania,Seniors,Evening,27.0,1019.25
+2020-11-29,Northern Territory,Kids,Morning,21.0,1116.15
+2020-11-29,Northern Territory,Women,Night,25.0,1652.75
+2020-11-29,Northern Territory,Men,Evening,44.0,2457.4
+2020-11-29,Northern Territory,Seniors,Morning,22.0,680.46
+2020-11-29,Australian Capital Territory,Kids,Afternoon,53.0,1331.89
+2020-11-29,Australian Capital Territory,Women,Morning,41.0,2144.3
+2020-11-29,Australian Capital Territory,Men,Morning,67.0,3652.17
+2020-11-29,Australian Capital Territory,Seniors,Night,25.0,825.5
+2020-11-30,New South Wales,Kids,Evening,91.0,2987.53
+2020-11-30,New South Wales,Women,Morning,210.0,7791.0
+2020-11-30,New South Wales,Men,Morning,203.0,12267.29
+2020-11-30,New South Wales,Seniors,Morning,132.0,4165.92
+2020-11-30,Victoria,Kids,Night,94.0,2351.88
+2020-11-30,Victoria,Women,Morning,120.0,7944.0
+2020-11-30,Victoria,Men,Evening,168.0,5861.52
+2020-11-30,Victoria,Seniors,Night,78.0,2694.9
+2020-11-30,Queensland,Kids,Afternoon,,2203.83
+2020-11-30,Queensland,Women,Afternoon,91.0,5045.95
+2020-11-30,Queensland,Men,Night,85.0,3321.8
+2020-11-30,Queensland,Seniors,Evening,71.0,2409.03
+2020-11-30,South Australia,Kids,Night,47.0,1533.61
+2020-11-30,South Australia,Women,Night,85.0,7165.5
+2020-11-30,South Australia,Men,Night,68.0,4260.2
+2020-11-30,South Australia,Seniors,Night,27.0,1012.77
+2020-11-30,Western Australia,Kids,Morning,45.0,1104.75
+2020-11-30,Western Australia,Women,Afternoon,75.0,5781.75
+2020-11-30,Western Australia,Men,Evening,106.0,5587.26
+2020-11-30,Western Australia,Seniors,Morning,32.0,1091.84
+2020-11-30,Tasmania,Kids,Afternoon,34.0,1441.6
+2020-11-30,Tasmania,Women,Night,20.0,892.2
+2020-11-30,Tasmania,Men,Afternoon,37.0,2093.46
+2020-11-30,Tasmania,Seniors,Afternoon,9.0,309.96
+2020-11-30,Northern Territory,Kids,Morning,28.0,1391.04
+2020-11-30,Northern Territory,Women,Morning,47.0,3176.73
+2020-11-30,Northern Territory,Men,Evening,25.0,607.75
+2020-11-30,Northern Territory,Seniors,Night,21.0,958.02
+2020-11-30,Australian Capital Territory,Kids,Night,57.0,2745.69
+2020-11-30,Australian Capital Territory,Women,Night,66.0,4251.72
+2020-11-30,Australian Capital Territory,Men,Afternoon,41.0,1958.98
+2020-11-30,Australian Capital Territory,Seniors,Afternoon,54.0,1455.3
+2020-12-01,New South Wales,Kids,Night,166.0,6145.32
+2020-12-01,New South Wales,Women,Evening,227.0,8296.85
+2020-12-01,New South Wales,Men,Afternoon,161.0,6402.97
+2020-12-01,New South Wales,Seniors,Evening,57.0,2171.7
+2020-12-01,Victoria,Kids,Afternoon,128.0,4015.36
+2020-12-01,Victoria,Women,Morning,78.0,4451.46
+2020-12-01,Victoria,Men,Morning,117.0,6638.58
+2020-12-01,Victoria,Seniors,Night,113.0,4003.59
+2020-12-01,Queensland,Kids,Morning,126.0,5407.92
+2020-12-01,Queensland,Women,Afternoon,104.0,3469.44
+2020-12-01,Queensland,Men,Afternoon,91.0,4100.46
+2020-12-01,Queensland,Seniors,Morning,92.0,3720.48
+2020-12-01,South Australia,Kids,Morning,34.0,1440.24
+2020-12-01,South Australia,Women,Morning,93.0,7657.62
+2020-12-01,South Australia,Men,Night,83.0,4941.82
+2020-12-01,South Australia,Seniors,Morning,48.0,1907.04
+2020-12-01,Western Australia,Kids,Afternoon,92.0,
+2020-12-01,Western Australia,Women,Morning,87.0,4041.15
+2020-12-01,Western Australia,Men,Night,91.0,5982.34
+2020-12-01,Western Australia,Seniors,Night,49.0,639.45
+2020-12-01,Tasmania,Kids,Afternoon,27.0,1359.99
+2020-12-01,Tasmania,Women,Afternoon,52.0,
+2020-12-01,Tasmania,Men,Morning,35.0,1141.7
+2020-12-01,Tasmania,Seniors,Afternoon,32.0,895.68
+2020-12-01,Northern Territory,Kids,Evening,44.0,2053.04
+2020-12-01,Northern Territory,Women,Afternoon,32.0,1566.72
+2020-12-01,Northern Territory,Men,Evening,32.0,1482.88
+2020-12-01,Northern Territory,Seniors,Evening,32.0,1209.28
+2020-12-01,Australian Capital Territory,Kids,Afternoon,31.0,1888.52
+2020-12-01,Australian Capital Territory,Women,Evening,59.0,4158.91
+2020-12-01,Australian Capital Territory,Men,Afternoon,40.0,2171.6
+2020-12-01,Australian Capital Territory,Seniors,Afternoon,39.0,696.54
+2020-12-02,New South Wales,Kids,Night,180.0,9799.2
+2020-12-02,New South Wales,Women,Evening,143.0,5905.9
+2020-12-02,New South Wales,Men,Evening,151.0,7646.64
+2020-12-02,New South Wales,Seniors,Morning,110.0,4162.4
+2020-12-02,Victoria,Kids,Afternoon,114.0,6398.82
+2020-12-02,Victoria,Women,Night,167.0,7035.71
+2020-12-02,Victoria,Men,Night,170.0,12097.2
+2020-12-02,Victoria,Seniors,Morning,171.0,4310.91
+2020-12-02,Queensland,Kids,Evening,86.0,1548.86
+2020-12-02,Queensland,Women,Night,136.0,6793.2
+2020-12-02,Queensland,Men,Evening,156.0,6127.68
+2020-12-02,Queensland,Seniors,Night,35.0,1101.8
+2020-12-02,South Australia,Kids,Night,21.0,1020.81
+2020-12-02,South Australia,Women,Afternoon,29.0,1709.26
+2020-12-02,South Australia,Men,Evening,,1086.48
+2020-12-02,South Australia,Seniors,Night,71.0,2801.66
+2020-12-02,Western Australia,Kids,Afternoon,50.0,2008.0
+2020-12-02,Western Australia,Women,Night,98.0,6455.26
+2020-12-02,Western Australia,Men,Afternoon,48.0,2751.36
+2020-12-02,Western Australia,Seniors,Afternoon,11.0,329.45
+2020-12-02,Tasmania,Kids,Evening,26.0,1230.84
+2020-12-02,Tasmania,Women,Afternoon,45.0,1645.65
+2020-12-02,Tasmania,Men,Night,27.0,1407.24
+2020-12-02,Tasmania,Seniors,Morning,27.0,821.88
+2020-12-02,Northern Territory,Kids,Night,23.0,1104.46
+2020-12-02,Northern Territory,Women,Night,32.0,1828.16
+2020-12-02,Northern Territory,Men,Afternoon,54.0,1658.34
+2020-12-02,Northern Territory,Seniors,Night,10.0,435.2
+2020-12-02,Australian Capital Territory,Kids,Afternoon,32.0,1185.92
+2020-12-02,Australian Capital Territory,Women,Evening,44.0,2395.8
+2020-12-02,Australian Capital Territory,Men,Afternoon,73.0,4386.57
+2020-12-02,Australian Capital Territory,Seniors,Evening,45.0,1008.0
+2020-12-03,New South Wales,Kids,Morning,73.0,718.32
+2020-12-03,New South Wales,Women,Night,123.0,9030.66
+2020-12-03,New South Wales,Men,Evening,158.0,7359.64
+2020-12-03,New South Wales,Seniors,Morning,99.0,2909.61
+2020-12-03,Victoria,Kids,Afternoon,105.0,5120.85
+2020-12-03,Victoria,Women,Morning,73.0,4611.41
+2020-12-03,Victoria,Men,Evening,154.0,6779.08
+2020-12-03,Victoria,Seniors,Night,106.0,6680.12
+2020-12-03,Queensland,Kids,Morning,78.0,3490.5
+2020-12-03,Queensland,Women,Morning,91.0,5581.03
+2020-12-03,Queensland,Men,Afternoon,112.0,5831.84
+2020-12-03,Queensland,Seniors,Afternoon,49.0,1861.02
+2020-12-03,South Australia,Kids,Night,77.0,3491.95
+2020-12-03,South Australia,Women,Afternoon,100.0,5480.0
+2020-12-03,South Australia,Men,Evening,80.0,4255.2
+2020-12-03,South Australia,Seniors,Evening,34.0,1328.04
+2020-12-03,Western Australia,Kids,Morning,47.0,1582.02
+2020-12-03,Western Australia,Women,Afternoon,103.0,6503.42
+2020-12-03,Western Australia,Men,Afternoon,53.0,3360.73
+2020-12-03,Western Australia,Seniors,Morning,70.0,2046.1
+2020-12-03,Tasmania,Kids,Night,16.0,623.04
+2020-12-03,Tasmania,Women,Afternoon,39.0,2350.14
+2020-12-03,Tasmania,Men,Afternoon,34.0,782.0
+2020-12-03,Tasmania,Seniors,Night,24.0,793.68
+2020-12-03,Northern Territory,Kids,Afternoon,32.0,1054.72
+2020-12-03,Northern Territory,Women,Evening,58.0,1663.44
+2020-12-03,Northern Territory,Men,Evening,45.0,2094.3
+2020-12-03,Northern Territory,Seniors,Night,30.0,1103.1
+2020-12-03,Australian Capital Territory,Kids,Night,54.0,1961.28
+2020-12-03,Australian Capital Territory,Women,Evening,39.0,3145.74
+2020-12-03,Australian Capital Territory,Men,Evening,47.0,2463.74
+2020-12-03,Australian Capital Territory,Seniors,Evening,49.0,1278.41
+2020-12-04,New South Wales,Kids,Evening,132.0,4505.16
+2020-12-04,New South Wales,Women,Night,156.0,9302.28
+2020-12-04,New South Wales,Men,Night,75.0,2941.5
+2020-12-04,New South Wales,Seniors,Morning,140.0,6231.4
+2020-12-04,Victoria,Kids,Night,97.0,4183.61
+2020-12-04,Victoria,Women,Evening,130.0,10355.8
+2020-12-04,Victoria,Men,Afternoon,113.0,5939.28
+2020-12-04,Victoria,Seniors,Evening,118.0,3367.72
+2020-12-04,Queensland,Kids,Evening,118.0,2828.46
+2020-12-04,Queensland,Women,Night,174.0,9168.06
+2020-12-04,Queensland,Men,Morning,91.0,2234.05
+2020-12-04,Queensland,Seniors,Afternoon,62.0,
+2020-12-04,South Australia,Kids,Afternoon,44.0,1716.88
+2020-12-04,South Australia,Women,Morning,100.0,6174.0
+2020-12-04,South Australia,Men,Evening,72.0,2522.88
+2020-12-04,South Australia,Seniors,Night,,1864.45
+2020-12-04,Western Australia,Kids,Evening,52.0,3036.28
+2020-12-04,Western Australia,Women,Afternoon,90.0,5268.6
+2020-12-04,Western Australia,Men,Afternoon,108.0,7159.32
+2020-12-04,Western Australia,Seniors,Evening,58.0,1871.66
+2020-12-04,Tasmania,Kids,Afternoon,30.0,1324.5
+2020-12-04,Tasmania,Women,Night,57.0,3338.49
+2020-12-04,Tasmania,Men,Afternoon,45.0,3200.85
+2020-12-04,Tasmania,Seniors,Night,31.0,1208.69
+2020-12-04,Northern Territory,Kids,Evening,14.0,169.26
+2020-12-04,Northern Territory,Women,Evening,43.0,2451.86
+2020-12-04,Northern Territory,Men,Night,27.0,1423.17
+2020-12-04,Northern Territory,Seniors,Night,23.0,1077.09
+2020-12-04,Australian Capital Territory,Kids,Night,41.0,1329.63
+2020-12-04,Australian Capital Territory,Women,Afternoon,75.0,4133.25
+2020-12-04,Australian Capital Territory,Men,Evening,57.0,2462.4
+2020-12-04,Australian Capital Territory,Seniors,Afternoon,28.0,1030.68
+2020-12-05,New South Wales,Kids,Afternoon,112.0,5116.16
+2020-12-05,New South Wales,Women,Night,149.0,4447.65
+2020-12-05,New South Wales,Men,Afternoon,119.0,7137.62
+2020-12-05,New South Wales,Seniors,Morning,91.0,3060.33
+2020-12-05,Victoria,Kids,Morning,128.0,4199.68
+2020-12-05,Victoria,Women,Morning,76.0,4255.24
+2020-12-05,Victoria,Men,Morning,103.0,3785.25
+2020-12-05,Victoria,Seniors,Morning,83.0,3379.76
+2020-12-05,Queensland,Kids,Night,80.0,3505.6
+2020-12-05,Queensland,Women,Afternoon,180.0,9567.0
+2020-12-05,Queensland,Men,Afternoon,107.0,4577.46
+2020-12-05,Queensland,Seniors,Morning,53.0,1610.14
+2020-12-05,South Australia,Kids,Afternoon,46.0,2041.48
+2020-12-05,South Australia,Women,Morning,132.0,6247.56
+2020-12-05,South Australia,Men,Afternoon,57.0,2774.19
+2020-12-05,South Australia,Seniors,Night,53.0,2042.09
+2020-12-05,Western Australia,Kids,Evening,93.0,1328.97
+2020-12-05,Western Australia,Women,Morning,27.0,1370.52
+2020-12-05,Western Australia,Men,Night,109.0,3142.47
+2020-12-05,Western Australia,Seniors,Night,5.0,207.4
+2020-12-05,Tasmania,Kids,Morning,33.0,948.09
+2020-12-05,Tasmania,Women,Morning,32.0,1387.84
+2020-12-05,Tasmania,Men,Night,39.0,1607.97
+2020-12-05,Tasmania,Seniors,Morning,32.0,275.2
+2020-12-05,Northern Territory,Kids,Morning,20.0,566.8
+2020-12-05,Northern Territory,Women,Evening,36.0,1803.96
+2020-12-05,Northern Territory,Men,Evening,40.0,998.4
+2020-12-05,Northern Territory,Seniors,Morning,24.0,992.64
+2020-12-05,Australian Capital Territory,Kids,Night,63.0,2223.9
+2020-12-05,Australian Capital Territory,Women,Afternoon,64.0,1943.04
+2020-12-05,Australian Capital Territory,Men,Morning,13.0,788.45
+2020-12-05,Australian Capital Territory,Seniors,Morning,35.0,1655.85
+2020-12-06,New South Wales,Kids,Afternoon,66.0,3043.26
+2020-12-06,New South Wales,Women,Afternoon,253.0,16457.65
+2020-12-06,New South Wales,Men,Afternoon,148.0,7342.28
+2020-12-06,New South Wales,Seniors,Evening,52.0,2548.52
+2020-12-06,Victoria,Kids,Evening,80.0,3676.0
+2020-12-06,Victoria,Women,Evening,75.0,3007.5
+2020-12-06,Victoria,Men,Night,173.0,7771.16
+2020-12-06,Victoria,Seniors,Morning,126.0,4441.5
+2020-12-06,Queensland,Kids,Evening,36.0,1804.68
+2020-12-06,Queensland,Women,Night,96.0,6662.4
+2020-12-06,Queensland,Men,Night,99.0,2883.87
+2020-12-06,Queensland,Seniors,Afternoon,75.0,4281.0
+2020-12-06,South Australia,Kids,Afternoon,61.0,2432.68
+2020-12-06,South Australia,Women,Evening,103.0,
+2020-12-06,South Australia,Men,Morning,70.0,2456.3
+2020-12-06,South Australia,Seniors,Morning,51.0,2342.94
+2020-12-06,Western Australia,Kids,Morning,50.0,2794.0
+2020-12-06,Western Australia,Women,Night,94.0,4197.1
+2020-12-06,Western Australia,Men,Night,107.0,4890.97
+2020-12-06,Western Australia,Seniors,Night,73.0,2423.6
+2020-12-06,Tasmania,Kids,Night,30.0,1374.9
+2020-12-06,Tasmania,Women,Morning,49.0,1341.13
+2020-12-06,Tasmania,Men,Morning,25.0,1544.25
+2020-12-06,Tasmania,Seniors,Afternoon,26.0,805.22
+2020-12-06,Northern Territory,Kids,Morning,15.0,432.6
+2020-12-06,Northern Territory,Women,Night,15.0,853.8
+2020-12-06,Northern Territory,Men,Night,27.0,991.98
+2020-12-06,Northern Territory,Seniors,Evening,23.0,908.27
+2020-12-06,Australian Capital Territory,Kids,Morning,65.0,1571.05
+2020-12-06,Australian Capital Territory,Women,Morning,78.0,
+2020-12-06,Australian Capital Territory,Men,Afternoon,37.0,1930.66
+2020-12-06,Australian Capital Territory,Seniors,Afternoon,31.0,1171.18
+2020-12-07,New South Wales,Kids,Night,163.0,7667.52
+2020-12-07,New South Wales,Women,Evening,187.0,9684.73
+2020-12-07,New South Wales,Men,Morning,76.0,3553.0
+2020-12-07,New South Wales,Seniors,Morning,136.0,2902.24
+2020-12-07,Victoria,Kids,Evening,67.0,2804.62
+2020-12-07,Victoria,Women,Morning,100.0,4614.0
+2020-12-07,Victoria,Men,Afternoon,105.0,3304.35
+2020-12-07,Victoria,Seniors,Evening,62.0,2650.5
+2020-12-07,Queensland,Kids,Morning,49.0,1138.76
+2020-12-07,Queensland,Women,Afternoon,94.0,6572.48
+2020-12-07,Queensland,Men,Afternoon,93.0,4033.41
+2020-12-07,Queensland,Seniors,Night,72.0,1385.28
+2020-12-07,South Australia,Kids,Morning,62.0,2767.68
+2020-12-07,South Australia,Women,Evening,68.0,5044.92
+2020-12-07,South Australia,Men,Afternoon,43.0,2768.77
+2020-12-07,South Australia,Seniors,Afternoon,50.0,1638.5
+2020-12-07,Western Australia,Kids,Night,67.0,2635.78
+2020-12-07,Western Australia,Women,Evening,133.0,5546.1
+2020-12-07,Western Australia,Men,Night,63.0,3980.34
+2020-12-07,Western Australia,Seniors,Afternoon,49.0,2187.85
+2020-12-07,Tasmania,Kids,Morning,47.0,1699.52
+2020-12-07,Tasmania,Women,Evening,54.0,2187.0
+2020-12-07,Tasmania,Men,Morning,47.0,2450.11
+2020-12-07,Tasmania,Seniors,Morning,31.0,923.8
+2020-12-07,Northern Territory,Kids,Night,13.0,597.22
+2020-12-07,Northern Territory,Women,Afternoon,14.0,749.7
+2020-12-07,Northern Territory,Men,Morning,42.0,2185.26
+2020-12-07,Northern Territory,Seniors,Evening,38.0,1741.92
+2020-12-07,Australian Capital Territory,Kids,Night,32.0,1305.28
+2020-12-07,Australian Capital Territory,Women,Evening,57.0,1927.74
+2020-12-07,Australian Capital Territory,Men,Morning,35.0,1473.5
+2020-12-07,Australian Capital Territory,Seniors,Evening,14.0,510.44
+2020-12-08,New South Wales,Kids,Night,104.0,2332.72
+2020-12-08,New South Wales,Women,Night,182.0,12679.94
+2020-12-08,New South Wales,Men,Afternoon,146.0,6602.12
+2020-12-08,New South Wales,Seniors,Evening,,4976.01
+2020-12-08,Victoria,Kids,Night,108.0,3411.72
+2020-12-08,Victoria,Women,Night,154.0,11881.1
+2020-12-08,Victoria,Men,Afternoon,99.0,7641.81
+2020-12-08,Victoria,Seniors,Night,74.0,2686.94
+2020-12-08,Queensland,Kids,Morning,64.0,2746.24
+2020-12-08,Queensland,Women,Evening,55.0,2748.9
+2020-12-08,Queensland,Men,Afternoon,66.0,3385.14
+2020-12-08,Queensland,Seniors,Morning,93.0,3924.6
+2020-12-08,South Australia,Kids,Morning,15.0,938.25
+2020-12-08,South Australia,Women,Evening,84.0,3896.76
+2020-12-08,South Australia,Men,Afternoon,69.0,3576.27
+2020-12-08,South Australia,Seniors,Night,38.0,1440.2
+2020-12-08,Western Australia,Kids,Afternoon,55.0,1987.15
+2020-12-08,Western Australia,Women,Night,77.0,2783.55
+2020-12-08,Western Australia,Men,Evening,86.0,4921.78
+2020-12-08,Western Australia,Seniors,Evening,69.0,3027.03
+2020-12-08,Tasmania,Kids,Morning,34.0,1181.5
+2020-12-08,Tasmania,Women,Morning,56.0,2089.92
+2020-12-08,Tasmania,Men,Morning,28.0,1029.56
+2020-12-08,Tasmania,Seniors,Evening,37.0,1666.85
+2020-12-08,Northern Territory,Kids,Night,30.0,1562.4
+2020-12-08,Northern Territory,Women,Evening,28.0,1790.32
+2020-12-08,Northern Territory,Men,Evening,31.0,1881.08
+2020-12-08,Northern Territory,Seniors,Morning,23.0,742.9
+2020-12-08,Australian Capital Territory,Kids,Afternoon,47.0,2348.12
+2020-12-08,Australian Capital Territory,Women,Morning,46.0,2647.3
+2020-12-08,Australian Capital Territory,Men,Afternoon,33.0,545.49
+2020-12-08,Australian Capital Territory,Seniors,Night,38.0,1590.3
+2020-12-09,New South Wales,Kids,Night,121.0,2352.24
+2020-12-09,New South Wales,Women,Night,145.0,3464.05
+2020-12-09,New South Wales,Men,Morning,194.0,6821.04
+2020-12-09,New South Wales,Seniors,Morning,137.0,6175.96
+2020-12-09,Victoria,Kids,Morning,72.0,2035.44
+2020-12-09,Victoria,Women,Evening,158.0,7162.14
+2020-12-09,Victoria,Men,Morning,124.0,5348.12
+2020-12-09,Victoria,Seniors,Evening,40.0,583.6
+2020-12-09,Queensland,Kids,Night,86.0,2961.84
+2020-12-09,Queensland,Women,Morning,97.0,6727.92
+2020-12-09,Queensland,Men,Evening,133.0,6104.7
+2020-12-09,Queensland,Seniors,Night,64.0,2611.2
+2020-12-09,South Australia,Kids,Night,32.0,1373.12
+2020-12-09,South Australia,Women,Morning,90.0,6219.9
+2020-12-09,South Australia,Men,Afternoon,27.0,1065.15
+2020-12-09,South Australia,Seniors,Afternoon,35.0,1293.6
+2020-12-09,Western Australia,Kids,Night,77.0,4362.82
+2020-12-09,Western Australia,Women,Afternoon,83.0,4211.42
+2020-12-09,Western Australia,Men,Afternoon,110.0,5875.1
+2020-12-09,Western Australia,Seniors,Evening,82.0,3179.14
+2020-12-09,Tasmania,Kids,Evening,20.0,522.0
+2020-12-09,Tasmania,Women,Evening,24.0,1651.92
+2020-12-09,Tasmania,Men,Night,52.0,3843.32
+2020-12-09,Tasmania,Seniors,Afternoon,35.0,1650.6
+2020-12-09,Northern Territory,Kids,Morning,22.0,616.22
+2020-12-09,Northern Territory,Women,Afternoon,48.0,3120.96
+2020-12-09,Northern Territory,Men,Night,34.0,1856.74
+2020-12-09,Northern Territory,Seniors,Evening,26.0,1256.32
+2020-12-09,Australian Capital Territory,Kids,Night,56.0,2597.28
+2020-12-09,Australian Capital Territory,Women,Evening,73.0,4855.96
+2020-12-09,Australian Capital Territory,Men,Night,42.0,2498.58
+2020-12-09,Australian Capital Territory,Seniors,Morning,20.0,922.4
+2020-12-10,New South Wales,Kids,Evening,72.0,3138.48
+2020-12-10,New South Wales,Women,Evening,121.0,8122.73
+2020-12-10,New South Wales,Men,Afternoon,136.0,3869.2
+2020-12-10,New South Wales,Seniors,Night,112.0,3410.4
+2020-12-10,Victoria,Kids,Afternoon,125.0,5063.75
+2020-12-10,Victoria,Women,Night,159.0,6926.04
+2020-12-10,Victoria,Men,Morning,99.0,4301.55
+2020-12-10,Victoria,Seniors,Afternoon,110.0,5731.0
+2020-12-10,Queensland,Kids,Evening,61.0,3179.93
+2020-12-10,Queensland,Women,Morning,40.0,1594.8
+2020-12-10,Queensland,Men,Night,70.0,2215.5
+2020-12-10,Queensland,Seniors,Evening,37.0,1478.52
+2020-12-10,South Australia,Kids,Night,50.0,2230.0
+2020-12-10,South Australia,Women,Evening,94.0,5888.16
+2020-12-10,South Australia,Men,Night,79.0,3837.82
+2020-12-10,South Australia,Seniors,Evening,30.0,1384.8
+2020-12-10,Western Australia,Kids,Night,55.0,1672.0
+2020-12-10,Western Australia,Women,Afternoon,92.0,4071.92
+2020-12-10,Western Australia,Men,Evening,72.0,3890.88
+2020-12-10,Western Australia,Seniors,Evening,66.0,1807.08
+2020-12-10,Tasmania,Kids,Afternoon,26.0,1354.6
+2020-12-10,Tasmania,Women,Night,52.0,4725.24
+2020-12-10,Tasmania,Men,Evening,52.0,3359.2
+2020-12-10,Tasmania,Seniors,Afternoon,16.0,693.28
+2020-12-10,Northern Territory,Kids,Night,26.0,898.3
+2020-12-10,Northern Territory,Women,Evening,40.0,2930.0
+2020-12-10,Northern Territory,Men,Evening,37.0,1402.3
+2020-12-10,Northern Territory,Seniors,Night,29.0,866.52
+2020-12-10,Australian Capital Territory,Kids,Afternoon,43.0,1600.46
+2020-12-10,Australian Capital Territory,Women,Evening,54.0,3804.3
+2020-12-10,Australian Capital Territory,Men,Night,34.0,2556.12
+2020-12-10,Australian Capital Territory,Seniors,Evening,16.0,484.16
+2020-12-11,New South Wales,Kids,Night,124.0,5804.44
+2020-12-11,New South Wales,Women,Evening,157.0,9043.2
+2020-12-11,New South Wales,Men,Morning,154.0,7153.3
+2020-12-11,New South Wales,Seniors,Afternoon,141.0,6212.46
+2020-12-11,Victoria,Kids,Afternoon,124.0,3728.68
+2020-12-11,Victoria,Women,Morning,139.0,7479.59
+2020-12-11,Victoria,Men,Night,84.0,4557.0
+2020-12-11,Victoria,Seniors,Afternoon,73.0,3087.17
+2020-12-11,Queensland,Kids,Night,54.0,3189.78
+2020-12-11,Queensland,Women,Evening,85.0,5263.2
+2020-12-11,Queensland,Men,Morning,122.0,5120.34
+2020-12-11,Queensland,Seniors,Night,90.0,2178.0
+2020-12-11,South Australia,Kids,Night,77.0,3130.05
+2020-12-11,South Australia,Women,Afternoon,64.0,3445.12
+2020-12-11,South Australia,Men,Evening,82.0,3426.78
+2020-12-11,South Australia,Seniors,Afternoon,37.0,1253.19
+2020-12-11,Western Australia,Kids,Evening,43.0,2586.88
+2020-12-11,Western Australia,Women,Afternoon,80.0,5717.6
+2020-12-11,Western Australia,Men,Night,87.0,3175.5
+2020-12-11,Western Australia,Seniors,Night,59.0,2568.27
+2020-12-11,Tasmania,Kids,Morning,29.0,1548.31
+2020-12-11,Tasmania,Women,Night,59.0,4297.56
+2020-12-11,Tasmania,Men,Night,33.0,1163.25
+2020-12-11,Tasmania,Seniors,Night,22.0,833.36
+2020-12-11,Northern Territory,Kids,Night,31.0,528.55
+2020-12-11,Northern Territory,Women,Morning,38.0,2316.86
+2020-12-11,Northern Territory,Men,Evening,30.0,1996.2
+2020-12-11,Northern Territory,Seniors,Morning,27.0,1311.66
+2020-12-11,Australian Capital Territory,Kids,Morning,37.0,1872.94
+2020-12-11,Australian Capital Territory,Women,Afternoon,87.0,6869.52
+2020-12-11,Australian Capital Territory,Men,Evening,33.0,1522.95
+2020-12-11,Australian Capital Territory,Seniors,Afternoon,32.0,1302.4
+2020-12-12,New South Wales,Kids,Morning,135.0,4244.4
+2020-12-12,New South Wales,Women,Night,165.0,4453.35
+2020-12-12,New South Wales,Men,Evening,196.0,8377.04
+2020-12-12,New South Wales,Seniors,Night,101.0,3336.03
+2020-12-12,Victoria,Kids,Morning,133.0,1310.05
+2020-12-12,Victoria,Women,Morning,142.0,8072.7
+2020-12-12,Victoria,Men,Morning,,7518.16
+2020-12-12,Victoria,Seniors,Evening,64.0,2778.24
+2020-12-12,Queensland,Kids,Afternoon,89.0,4816.68
+2020-12-12,Queensland,Women,Afternoon,93.0,4377.51
+2020-12-12,Queensland,Men,Night,131.0,7219.41
+2020-12-12,Queensland,Seniors,Evening,38.0,1171.16
+2020-12-12,South Australia,Kids,Night,60.0,2973.0
+2020-12-12,South Australia,Women,Night,62.0,808.48
+2020-12-12,South Australia,Men,Afternoon,76.0,2537.64
+2020-12-12,South Australia,Seniors,Evening,18.0,158.58
+2020-12-12,Western Australia,Kids,Morning,83.0,3476.87
+2020-12-12,Western Australia,Women,Night,90.0,7215.3
+2020-12-12,Western Australia,Men,Morning,98.0,6942.32
+2020-12-12,Western Australia,Seniors,Evening,34.0,1212.78
+2020-12-12,Tasmania,Kids,Night,16.0,608.32
+2020-12-12,Tasmania,Women,Morning,42.0,2867.76
+2020-12-12,Tasmania,Men,Morning,39.0,2251.47
+2020-12-12,Tasmania,Seniors,Afternoon,33.0,1870.77
+2020-12-12,Northern Territory,Kids,Evening,24.0,728.16
+2020-12-12,Northern Territory,Women,Evening,41.0,1885.18
+2020-12-12,Northern Territory,Men,Evening,47.0,2150.72
+2020-12-12,Northern Territory,Seniors,Night,19.0,598.12
+2020-12-12,Australian Capital Territory,Kids,Afternoon,49.0,1901.2
+2020-12-12,Australian Capital Territory,Women,Night,47.0,3970.56
+2020-12-12,Australian Capital Territory,Men,Evening,36.0,1798.92
+2020-12-12,Australian Capital Territory,Seniors,Night,43.0,874.62
+2020-12-13,New South Wales,Kids,Morning,128.0,3724.8
+2020-12-13,New South Wales,Women,Night,202.0,8782.96
+2020-12-13,New South Wales,Men,Night,166.0,10640.6
+2020-12-13,New South Wales,Seniors,Evening,125.0,4801.25
+2020-12-13,Victoria,Kids,Morning,92.0,3152.84
+2020-12-13,Victoria,Women,Evening,206.0,9803.54
+2020-12-13,Victoria,Men,Morning,83.0,4837.24
+2020-12-13,Victoria,Seniors,Morning,66.0,1774.08
+2020-12-13,Queensland,Kids,Morning,45.0,1587.6
+2020-12-13,Queensland,Women,Evening,114.0,7101.06
+2020-12-13,Queensland,Men,Morning,127.0,7170.42
+2020-12-13,Queensland,Seniors,Afternoon,67.0,2284.7
+2020-12-13,South Australia,Kids,Afternoon,62.0,3362.88
+2020-12-13,South Australia,Women,Afternoon,80.0,4094.4
+2020-12-13,South Australia,Men,Afternoon,46.0,1399.32
+2020-12-13,South Australia,Seniors,Evening,57.0,2368.35
+2020-12-13,Western Australia,Kids,Night,79.0,3089.69
+2020-12-13,Western Australia,Women,Night,138.0,7031.1
+2020-12-13,Western Australia,Men,Afternoon,106.0,5192.94
+2020-12-13,Western Australia,Seniors,Night,49.0,2042.81
+2020-12-13,Tasmania,Kids,Afternoon,35.0,1552.6
+2020-12-13,Tasmania,Women,Afternoon,46.0,2663.86
+2020-12-13,Tasmania,Men,Night,66.0,4298.58
+2020-12-13,Tasmania,Seniors,Night,34.0,1260.38
+2020-12-13,Northern Territory,Kids,Morning,35.0,
+2020-12-13,Northern Territory,Women,Afternoon,39.0,2096.64
+2020-12-13,Northern Territory,Men,Night,32.0,244.8
+2020-12-13,Northern Territory,Seniors,Night,25.0,782.75
+2020-12-13,Australian Capital Territory,Kids,Night,59.0,2401.89
+2020-12-13,Australian Capital Territory,Women,Morning,37.0,2135.64
+2020-12-13,Australian Capital Territory,Men,Afternoon,33.0,1839.75
+2020-12-13,Australian Capital Territory,Seniors,Afternoon,39.0,1762.8
+2020-12-14,New South Wales,Kids,Evening,85.0,3473.95
+2020-12-14,New South Wales,Women,Morning,95.0,6596.8
+2020-12-14,New South Wales,Men,Morning,158.0,8854.32
+2020-12-14,New South Wales,Seniors,Afternoon,100.0,3998.0
+2020-12-14,Victoria,Kids,Evening,146.0,5463.32
+2020-12-14,Victoria,Women,Evening,148.0,6150.88
+2020-12-14,Victoria,Men,Afternoon,89.0,4520.31
+2020-12-14,Victoria,Seniors,Night,117.0,3924.18
+2020-12-14,Queensland,Kids,Morning,75.0,2708.25
+2020-12-14,Queensland,Women,Evening,98.0,6183.8
+2020-12-14,Queensland,Men,Night,54.0,3586.14
+2020-12-14,Queensland,Seniors,Evening,57.0,2447.01
+2020-12-14,South Australia,Kids,Night,33.0,1574.76
+2020-12-14,South Australia,Women,Night,93.0,5997.57
+2020-12-14,South Australia,Men,Morning,46.0,2428.34
+2020-12-14,South Australia,Seniors,Evening,30.0,1007.1
+2020-12-14,Western Australia,Kids,Evening,88.0,4320.8
+2020-12-14,Western Australia,Women,Night,97.0,4199.13
+2020-12-14,Western Australia,Men,Afternoon,98.0,4876.48
+2020-12-14,Western Australia,Seniors,Evening,18.0,783.18
+2020-12-14,Tasmania,Kids,Morning,31.0,1658.19
+2020-12-14,Tasmania,Women,Afternoon,30.0,268.2
+2020-12-14,Tasmania,Men,Evening,41.0,2187.35
+2020-12-14,Tasmania,Seniors,Morning,13.0,345.93
+2020-12-14,Northern Territory,Kids,Afternoon,49.0,1822.8
+2020-12-14,Northern Territory,Women,Evening,47.0,2272.45
+2020-12-14,Northern Territory,Men,Morning,12.0,567.0
+2020-12-14,Northern Territory,Seniors,Afternoon,22.0,707.52
+2020-12-14,Australian Capital Territory,Kids,Evening,39.0,1690.65
+2020-12-14,Australian Capital Territory,Women,Afternoon,55.0,2132.9
+2020-12-14,Australian Capital Territory,Men,Night,56.0,1331.12
+2020-12-14,Australian Capital Territory,Seniors,Night,13.0,560.3
+2020-12-15,New South Wales,Kids,Afternoon,129.0,5144.52
+2020-12-15,New South Wales,Women,Night,94.0,4461.24
+2020-12-15,New South Wales,Men,Night,126.0,3582.18
+2020-12-15,New South Wales,Seniors,Afternoon,77.0,3254.02
+2020-12-15,Victoria,Kids,Night,141.0,
+2020-12-15,Victoria,Women,Afternoon,175.0,5012.0
+2020-12-15,Victoria,Men,Afternoon,144.0,5600.16
+2020-12-15,Victoria,Seniors,Night,96.0,3227.52
+2020-12-15,Queensland,Kids,Evening,113.0,3509.78
+2020-12-15,Queensland,Women,Afternoon,139.0,7525.46
+2020-12-15,Queensland,Men,Afternoon,94.0,4424.58
+2020-12-15,Queensland,Seniors,Evening,53.0,1900.58
+2020-12-15,South Australia,Kids,Night,52.0,2241.72
+2020-12-15,South Australia,Women,Morning,79.0,5605.05
+2020-12-15,South Australia,Men,Evening,84.0,2992.92
+2020-12-15,South Australia,Seniors,Morning,60.0,1476.6
+2020-12-15,Western Australia,Kids,Night,79.0,3728.01
+2020-12-15,Western Australia,Women,Afternoon,41.0,2457.95
+2020-12-15,Western Australia,Men,Afternoon,70.0,2763.6
+2020-12-15,Western Australia,Seniors,Night,84.0,2496.48
+2020-12-15,Tasmania,Kids,Night,,950.36
+2020-12-15,Tasmania,Women,Night,54.0,3039.66
+2020-12-15,Tasmania,Men,Night,51.0,2882.01
+2020-12-15,Tasmania,Seniors,Night,9.0,278.28
+2020-12-15,Northern Territory,Kids,Night,22.0,1004.96
+2020-12-15,Northern Territory,Women,Night,8.0,786.08
+2020-12-15,Northern Territory,Men,Afternoon,38.0,1955.86
+2020-12-15,Northern Territory,Seniors,Morning,32.0,1872.0
+2020-12-15,Australian Capital Territory,Kids,Morning,51.0,2588.25
+2020-12-15,Australian Capital Territory,Women,Afternoon,60.0,3377.4
+2020-12-15,Australian Capital Territory,Men,Evening,42.0,1621.2
+2020-12-15,Australian Capital Territory,Seniors,Morning,28.0,644.84
+2020-12-16,New South Wales,Kids,Evening,109.0,2431.79
+2020-12-16,New South Wales,Women,Afternoon,171.0,9906.03
+2020-12-16,New South Wales,Men,Evening,143.0,6093.23
+2020-12-16,New South Wales,Seniors,Afternoon,192.0,9419.52
+2020-12-16,Victoria,Kids,Night,62.0,2666.62
+2020-12-16,Victoria,Women,Night,116.0,4949.72
+2020-12-16,Victoria,Men,Morning,72.0,3975.12
+2020-12-16,Victoria,Seniors,Morning,70.0,3170.3
+2020-12-16,Queensland,Kids,Evening,105.0,5810.7
+2020-12-16,Queensland,Women,Evening,87.0,5735.04
+2020-12-16,Queensland,Men,Morning,117.0,5059.08
+2020-12-16,Queensland,Seniors,Night,55.0,2829.75
+2020-12-16,South Australia,Kids,Afternoon,57.0,2700.09
+2020-12-16,South Australia,Women,Night,58.0,2289.84
+2020-12-16,South Australia,Men,Morning,54.0,2584.44
+2020-12-16,South Australia,Seniors,Afternoon,32.0,1149.12
+2020-12-16,Western Australia,Kids,Evening,33.0,937.2
+2020-12-16,Western Australia,Women,Morning,117.0,7946.64
+2020-12-16,Western Australia,Men,Night,72.0,2597.04
+2020-12-16,Western Australia,Seniors,Evening,41.0,1329.22
+2020-12-16,Tasmania,Kids,Evening,37.0,1869.61
+2020-12-16,Tasmania,Women,Morning,38.0,1539.38
+2020-12-16,Tasmania,Men,Night,41.0,1583.83
+2020-12-16,Tasmania,Seniors,Morning,23.0,1120.56
+2020-12-16,Northern Territory,Kids,Afternoon,33.0,1392.93
+2020-12-16,Northern Territory,Women,Afternoon,24.0,1483.2
+2020-12-16,Northern Territory,Men,Evening,43.0,1915.22
+2020-12-16,Northern Territory,Seniors,Night,33.0,1597.53
+2020-12-16,Australian Capital Territory,Kids,Afternoon,60.0,2628.0
+2020-12-16,Australian Capital Territory,Women,Afternoon,68.0,5478.08
+2020-12-16,Australian Capital Territory,Men,Afternoon,56.0,2401.28
+2020-12-16,Australian Capital Territory,Seniors,Afternoon,31.0,1186.99
+2020-12-17,New South Wales,Kids,Morning,68.0,2648.6
+2020-12-17,New South Wales,Women,Evening,215.0,5228.8
+2020-12-17,New South Wales,Men,Evening,200.0,12864.0
+2020-12-17,New South Wales,Seniors,Afternoon,86.0,3544.92
+2020-12-17,Victoria,Kids,Evening,99.0,5324.22
+2020-12-17,Victoria,Women,Evening,185.0,6782.1
+2020-12-17,Victoria,Men,Evening,142.0,6644.18
+2020-12-17,Victoria,Seniors,Evening,90.0,2610.9
+2020-12-17,Queensland,Kids,Morning,123.0,6362.79
+2020-12-17,Queensland,Women,Afternoon,91.0,3428.88
+2020-12-17,Queensland,Men,Night,87.0,4805.88
+2020-12-17,Queensland,Seniors,Morning,77.0,3698.31
+2020-12-17,South Australia,Kids,Evening,66.0,3364.02
+2020-12-17,South Australia,Women,Afternoon,85.0,3130.55
+2020-12-17,South Australia,Men,Afternoon,62.0,3936.38
+2020-12-17,South Australia,Seniors,Afternoon,47.0,1919.01
+2020-12-17,Western Australia,Kids,Afternoon,61.0,1792.18
+2020-12-17,Western Australia,Women,Evening,93.0,5888.76
+2020-12-17,Western Australia,Men,Afternoon,66.0,3061.74
+2020-12-17,Western Australia,Seniors,Night,43.0,2009.82
+2020-12-17,Tasmania,Kids,Night,28.0,1573.32
+2020-12-17,Tasmania,Women,Afternoon,66.0,3777.84
+2020-12-17,Tasmania,Men,Evening,26.0,571.22
+2020-12-17,Tasmania,Seniors,Night,15.0,342.15
+2020-12-17,Northern Territory,Kids,Night,38.0,1586.5
+2020-12-17,Northern Territory,Women,Night,43.0,1025.98
+2020-12-17,Northern Territory,Men,Morning,21.0,1285.41
+2020-12-17,Northern Territory,Seniors,Morning,26.0,899.34
+2020-12-17,Australian Capital Territory,Kids,Night,47.0,2733.99
+2020-12-17,Australian Capital Territory,Women,Evening,54.0,3217.32
+2020-12-17,Australian Capital Territory,Men,Evening,52.0,4216.16
+2020-12-17,Australian Capital Territory,Seniors,Night,13.0,553.28
+2020-12-18,New South Wales,Kids,Night,108.0,5034.96
+2020-12-18,New South Wales,Women,Evening,130.0,7506.2
+2020-12-18,New South Wales,Men,Morning,166.0,15037.94
+2020-12-18,New South Wales,Seniors,Morning,124.0,3454.64
+2020-12-18,Victoria,Kids,Night,86.0,3061.6
+2020-12-18,Victoria,Women,Evening,65.0,3467.75
+2020-12-18,Victoria,Men,Morning,147.0,4803.96
+2020-12-18,Victoria,Seniors,Night,115.0,4678.2
+2020-12-18,Queensland,Kids,Afternoon,63.0,2455.11
+2020-12-18,Queensland,Women,Night,173.0,12099.62
+2020-12-18,Queensland,Men,Afternoon,99.0,4589.64
+2020-12-18,Queensland,Seniors,Night,73.0,2269.57
+2020-12-18,South Australia,Kids,Evening,19.0,1188.64
+2020-12-18,South Australia,Women,Evening,81.0,5241.51
+2020-12-18,South Australia,Men,Evening,64.0,2547.2
+2020-12-18,South Australia,Seniors,Evening,45.0,929.25
+2020-12-18,Western Australia,Kids,Afternoon,113.0,3070.21
+2020-12-18,Western Australia,Women,Night,67.0,3459.21
+2020-12-18,Western Australia,Men,Evening,114.0,5664.66
+2020-12-18,Western Australia,Seniors,Morning,37.0,1777.48
+2020-12-18,Tasmania,Kids,Morning,38.0,1760.16
+2020-12-18,Tasmania,Women,Morning,55.0,5271.75
+2020-12-18,Tasmania,Men,Night,63.0,2547.72
+2020-12-18,Tasmania,Seniors,Morning,41.0,1626.88
+2020-12-18,Northern Territory,Kids,Morning,31.0,688.82
+2020-12-18,Northern Territory,Women,Afternoon,37.0,1695.34
+2020-12-18,Northern Territory,Men,Night,41.0,2609.24
+2020-12-18,Northern Territory,Seniors,Night,9.0,322.11
+2020-12-18,Australian Capital Territory,Kids,Morning,54.0,2077.92
+2020-12-18,Australian Capital Territory,Women,Night,71.0,4542.58
+2020-12-18,Australian Capital Territory,Men,Afternoon,54.0,2479.68
+2020-12-18,Australian Capital Territory,Seniors,Afternoon,22.0,555.06
+2020-12-19,New South Wales,Kids,Evening,136.0,5536.56
+2020-12-19,New South Wales,Women,Afternoon,155.0,8042.95
+2020-12-19,New South Wales,Men,Evening,124.0,7851.68
+2020-12-19,New South Wales,Seniors,Morning,89.0,2058.57
+2020-12-19,Victoria,Kids,Evening,121.0,4633.09
+2020-12-19,Victoria,Women,Evening,144.0,12035.52
+2020-12-19,Victoria,Men,Morning,120.0,6398.4
+2020-12-19,Victoria,Seniors,Evening,56.0,1897.84
+2020-12-19,Queensland,Kids,Afternoon,95.0,2251.5
+2020-12-19,Queensland,Women,Morning,124.0,7448.68
+2020-12-19,Queensland,Men,Night,100.0,6319.0
+2020-12-19,Queensland,Seniors,Evening,79.0,3965.01
+2020-12-19,South Australia,Kids,Afternoon,37.0,1552.89
+2020-12-19,South Australia,Women,Night,79.0,3303.78
+2020-12-19,South Australia,Men,Morning,84.0,6735.96
+2020-12-19,South Australia,Seniors,Morning,47.0,1919.95
+2020-12-19,Western Australia,Kids,Morning,69.0,2262.51
+2020-12-19,Western Australia,Women,Afternoon,44.0,2089.56
+2020-12-19,Western Australia,Men,Night,48.0,3455.52
+2020-12-19,Western Australia,Seniors,Morning,57.0,1862.76
+2020-12-19,Tasmania,Kids,Afternoon,39.0,1107.21
+2020-12-19,Tasmania,Women,Afternoon,35.0,2084.6
+2020-12-19,Tasmania,Men,Night,50.0,2806.0
+2020-12-19,Tasmania,Seniors,Morning,30.0,1102.5
+2020-12-19,Northern Territory,Kids,Morning,30.0,1280.4
+2020-12-19,Northern Territory,Women,Evening,26.0,1539.72
+2020-12-19,Northern Territory,Men,Morning,22.0,1112.54
+2020-12-19,Northern Territory,Seniors,Night,20.0,1207.6
+2020-12-19,Australian Capital Territory,Kids,Afternoon,40.0,1013.2
+2020-12-19,Australian Capital Territory,Women,Night,56.0,3729.6
+2020-12-19,Australian Capital Territory,Men,Morning,74.0,3087.28
+2020-12-19,Australian Capital Territory,Seniors,Afternoon,18.0,789.12
+2020-12-20,New South Wales,Kids,Night,65.0,2326.35
+2020-12-20,New South Wales,Women,Morning,149.0,8554.09
+2020-12-20,New South Wales,Men,Morning,165.0,6679.2
+2020-12-20,New South Wales,Seniors,Morning,91.0,3263.26
+2020-12-20,Victoria,Kids,Evening,103.0,4280.68
+2020-12-20,Victoria,Women,Evening,161.0,11537.26
+2020-12-20,Victoria,Men,Evening,135.0,7491.15
+2020-12-20,Victoria,Seniors,Afternoon,46.0,1678.08
+2020-12-20,Queensland,Kids,Night,92.0,4450.04
+2020-12-20,Queensland,Women,Afternoon,92.0,4436.24
+2020-12-20,Queensland,Men,Afternoon,81.0,4582.98
+2020-12-20,Queensland,Seniors,Morning,94.0,3016.46
+2020-12-20,South Australia,Kids,Morning,68.0,2844.44
+2020-12-20,South Australia,Women,Afternoon,75.0,4140.0
+2020-12-20,South Australia,Men,Night,80.0,4304.0
+2020-12-20,South Australia,Seniors,Evening,80.0,2225.6
+2020-12-20,Western Australia,Kids,Afternoon,77.0,2678.06
+2020-12-20,Western Australia,Women,Afternoon,72.0,4199.76
+2020-12-20,Western Australia,Men,Night,85.0,7481.7
+2020-12-20,Western Australia,Seniors,Night,56.0,1408.4
+2020-12-20,Tasmania,Kids,Afternoon,34.0,615.06
+2020-12-20,Tasmania,Women,Morning,44.0,2585.0
+2020-12-20,Tasmania,Men,Morning,47.0,2930.45
+2020-12-20,Tasmania,Seniors,Afternoon,23.0,794.65
+2020-12-20,Northern Territory,Kids,Morning,20.0,566.4
+2020-12-20,Northern Territory,Women,Night,42.0,1622.46
+2020-12-20,Northern Territory,Men,Evening,28.0,1018.08
+2020-12-20,Northern Territory,Seniors,Night,27.0,1438.83
+2020-12-20,Australian Capital Territory,Kids,Evening,24.0,491.76
+2020-12-20,Australian Capital Territory,Women,Afternoon,56.0,3289.44
+2020-12-20,Australian Capital Territory,Men,Afternoon,52.0,
+2020-12-20,Australian Capital Territory,Seniors,Evening,33.0,1304.49
+2020-12-21,New South Wales,Kids,Morning,147.0,2850.33
+2020-12-21,New South Wales,Women,Afternoon,144.0,8904.96
+2020-12-21,New South Wales,Men,Evening,99.0,7162.65
+2020-12-21,New South Wales,Seniors,Morning,80.0,2848.0
+2020-12-21,Victoria,Kids,Evening,115.0,3922.65
+2020-12-21,Victoria,Women,Afternoon,63.0,3264.03
+2020-12-21,Victoria,Men,Afternoon,158.0,7117.9
+2020-12-21,Victoria,Seniors,Night,65.0,2917.85
+2020-12-21,Queensland,Kids,Evening,72.0,2519.28
+2020-12-21,Queensland,Women,Morning,122.0,8603.44
+2020-12-21,Queensland,Men,Afternoon,169.0,10210.98
+2020-12-21,Queensland,Seniors,Night,97.0,3020.58
+2020-12-21,South Australia,Kids,Night,37.0,1523.29
+2020-12-21,South Australia,Women,Morning,80.0,3334.4
+2020-12-21,South Australia,Men,Afternoon,62.0,3395.74
+2020-12-21,South Australia,Seniors,Night,53.0,2164.52
+2020-12-21,Western Australia,Kids,Morning,73.0,2556.46
+2020-12-21,Western Australia,Women,Morning,82.0,3263.6
+2020-12-21,Western Australia,Men,Evening,126.0,6259.68
+2020-12-21,Western Australia,Seniors,Evening,55.0,1489.4
+2020-12-21,Tasmania,Kids,Afternoon,59.0,1705.69
+2020-12-21,Tasmania,Women,Night,39.0,2534.61
+2020-12-21,Tasmania,Men,Night,45.0,2796.3
+2020-12-21,Tasmania,Seniors,Evening,43.0,1756.98
+2020-12-21,Northern Territory,Kids,Afternoon,18.0,678.96
+2020-12-21,Northern Territory,Women,Night,,3811.92
+2020-12-21,Northern Territory,Men,Morning,19.0,1242.03
+2020-12-21,Northern Territory,Seniors,Morning,25.0,1101.0
+2020-12-21,Australian Capital Territory,Kids,Morning,39.0,1224.6
+2020-12-21,Australian Capital Territory,Women,Morning,71.0,4878.41
+2020-12-21,Australian Capital Territory,Men,Evening,63.0,3107.16
+2020-12-21,Australian Capital Territory,Seniors,Afternoon,29.0,610.16
+2020-12-22,New South Wales,Kids,Morning,140.0,6311.2
+2020-12-22,New South Wales,Women,Morning,115.0,5761.5
+2020-12-22,New South Wales,Men,Night,118.0,3530.56
+2020-12-22,New South Wales,Seniors,Evening,75.0,1884.0
+2020-12-22,Victoria,Kids,Night,86.0,2796.72
+2020-12-22,Victoria,Women,Night,73.0,6573.65
+2020-12-22,Victoria,Men,Night,166.0,6510.52
+2020-12-22,Victoria,Seniors,Morning,95.0,3800.95
+2020-12-22,Queensland,Kids,Afternoon,109.0,3450.94
+2020-12-22,Queensland,Women,Evening,155.0,7742.25
+2020-12-22,Queensland,Men,Morning,59.0,3484.54
+2020-12-22,Queensland,Seniors,Evening,99.0,6023.16
+2020-12-22,South Australia,Kids,Morning,34.0,1633.7
+2020-12-22,South Australia,Women,Afternoon,68.0,4808.96
+2020-12-22,South Australia,Men,Afternoon,36.0,1181.88
+2020-12-22,South Australia,Seniors,Evening,36.0,1323.36
+2020-12-22,Western Australia,Kids,Night,54.0,2571.48
+2020-12-22,Western Australia,Women,Morning,127.0,8616.95
+2020-12-22,Western Australia,Men,Evening,122.0,6708.78
+2020-12-22,Western Australia,Seniors,Night,38.0,1865.42
+2020-12-22,Tasmania,Kids,Afternoon,25.0,1258.25
+2020-12-22,Tasmania,Women,Morning,66.0,4330.92
+2020-12-22,Tasmania,Men,Afternoon,21.0,784.98
+2020-12-22,Tasmania,Seniors,Morning,39.0,1340.82
+2020-12-22,Northern Territory,Kids,Night,27.0,1314.9
+2020-12-22,Northern Territory,Women,Morning,47.0,2953.95
+2020-12-22,Northern Territory,Men,Night,30.0,1361.1
+2020-12-22,Northern Territory,Seniors,Morning,30.0,1239.3
+2020-12-22,Australian Capital Territory,Kids,Evening,37.0,1931.03
+2020-12-22,Australian Capital Territory,Women,Afternoon,56.0,2531.76
+2020-12-22,Australian Capital Territory,Men,Morning,38.0,1390.04
+2020-12-22,Australian Capital Territory,Seniors,Morning,33.0,1578.72
+2020-12-23,New South Wales,Kids,Afternoon,85.0,3615.9
+2020-12-23,New South Wales,Women,Morning,130.0,7077.2
+2020-12-23,New South Wales,Men,Afternoon,75.0,3494.25
+2020-12-23,New South Wales,Seniors,Night,94.0,3871.86
+2020-12-23,Victoria,Kids,Evening,105.0,2893.8
+2020-12-23,Victoria,Women,Evening,189.0,11676.42
+2020-12-23,Victoria,Men,Afternoon,128.0,6320.64
+2020-12-23,Victoria,Seniors,Evening,74.0,2818.66
+2020-12-23,Queensland,Kids,Afternoon,92.0,1989.96
+2020-12-23,Queensland,Women,Evening,98.0,5342.96
+2020-12-23,Queensland,Men,Morning,106.0,6916.5
+2020-12-23,Queensland,Seniors,Morning,55.0,1717.1
+2020-12-23,South Australia,Kids,Evening,45.0,1432.8
+2020-12-23,South Australia,Women,Night,69.0,4865.88
+2020-12-23,South Australia,Men,Evening,45.0,2481.75
+2020-12-23,South Australia,Seniors,Morning,23.0,704.03
+2020-12-23,Western Australia,Kids,Evening,60.0,3515.4
+2020-12-23,Western Australia,Women,Morning,89.0,2150.24
+2020-12-23,Western Australia,Men,Night,33.0,1648.35
+2020-12-23,Western Australia,Seniors,Night,71.0,2811.6
+2020-12-23,Tasmania,Kids,Evening,33.0,1750.65
+2020-12-23,Tasmania,Women,Morning,38.0,2753.48
+2020-12-23,Tasmania,Men,Night,19.0,713.45
+2020-12-23,Tasmania,Seniors,Afternoon,12.0,400.32
+2020-12-23,Northern Territory,Kids,Evening,26.0,1084.98
+2020-12-23,Northern Territory,Women,Afternoon,39.0,1717.17
+2020-12-23,Northern Territory,Men,Evening,31.0,921.63
+2020-12-23,Northern Territory,Seniors,Morning,33.0,1091.97
+2020-12-23,Australian Capital Territory,Kids,Morning,34.0,1960.44
+2020-12-23,Australian Capital Territory,Women,Afternoon,36.0,1473.84
+2020-12-23,Australian Capital Territory,Men,Morning,33.0,1603.8
+2020-12-23,Australian Capital Territory,Seniors,Morning,40.0,1724.0
+2020-12-24,New South Wales,Kids,Morning,199.0,3225.79
+2020-12-24,New South Wales,Women,Afternoon,192.0,9563.52
+2020-12-24,New South Wales,Men,Morning,113.0,4669.16
+2020-12-24,New South Wales,Seniors,Night,72.0,3756.24
+2020-12-24,Victoria,Kids,Evening,124.0,5053.0
+2020-12-24,Victoria,Women,Night,200.0,6980.0
+2020-12-24,Victoria,Men,Afternoon,72.0,1494.0
+2020-12-24,Victoria,Seniors,Afternoon,69.0,2590.95
+2020-12-24,Queensland,Kids,Morning,83.0,3495.13
+2020-12-24,Queensland,Women,Night,67.0,4759.01
+2020-12-24,Queensland,Men,Afternoon,106.0,6273.08
+2020-12-24,Queensland,Seniors,Evening,31.0,1208.69
+2020-12-24,South Australia,Kids,Afternoon,34.0,1231.14
+2020-12-24,South Australia,Women,Night,90.0,5392.8
+2020-12-24,South Australia,Men,Evening,49.0,2429.42
+2020-12-24,South Australia,Seniors,Evening,25.0,1176.0
+2020-12-24,Western Australia,Kids,Morning,63.0,3312.54
+2020-12-24,Western Australia,Women,Evening,82.0,4127.06
+2020-12-24,Western Australia,Men,Morning,63.0,3847.41
+2020-12-24,Western Australia,Seniors,Morning,47.0,1982.93
+2020-12-24,Tasmania,Kids,Afternoon,27.0,517.32
+2020-12-24,Tasmania,Women,Afternoon,37.0,1484.07
+2020-12-24,Tasmania,Men,Morning,38.0,1284.02
+2020-12-24,Tasmania,Seniors,Night,35.0,1229.55
+2020-12-24,Northern Territory,Kids,Morning,25.0,1189.5
+2020-12-24,Northern Territory,Women,Night,50.0,2909.5
+2020-12-24,Northern Territory,Men,Evening,25.0,652.0
+2020-12-24,Northern Territory,Seniors,Evening,19.0,571.33
+2020-12-24,Australian Capital Territory,Kids,Evening,41.0,1507.57
+2020-12-24,Australian Capital Territory,Women,Morning,70.0,3425.8
+2020-12-24,Australian Capital Territory,Men,Night,48.0,3126.24
+2020-12-24,Australian Capital Territory,Seniors,Morning,39.0,1381.38
+2020-12-25,New South Wales,Kids,Evening,92.0,3096.72
+2020-12-25,New South Wales,Women,Afternoon,121.0,6057.26
+2020-12-25,New South Wales,Men,Evening,168.0,7823.76
+2020-12-25,New South Wales,Seniors,Evening,59.0,3125.23
+2020-12-25,Victoria,Kids,Afternoon,108.0,2733.48
+2020-12-25,Victoria,Women,Night,124.0,7468.52
+2020-12-25,Victoria,Men,Evening,182.0,6346.34
+2020-12-25,Victoria,Seniors,Night,113.0,5586.72
+2020-12-25,Queensland,Kids,Afternoon,65.0,2437.5
+2020-12-25,Queensland,Women,Afternoon,80.0,4426.4
+2020-12-25,Queensland,Men,Afternoon,97.0,5646.37
+2020-12-25,Queensland,Seniors,Morning,95.0,2737.9
+2020-12-25,South Australia,Kids,Night,22.0,885.94
+2020-12-25,South Australia,Women,Morning,84.0,5240.76
+2020-12-25,South Australia,Men,Afternoon,59.0,3017.85
+2020-12-25,South Australia,Seniors,Evening,69.0,2736.54
+2020-12-25,Western Australia,Kids,Morning,59.0,2070.9
+2020-12-25,Western Australia,Women,Evening,92.0,7730.76
+2020-12-25,Western Australia,Men,Morning,77.0,3791.48
+2020-12-25,Western Australia,Seniors,Night,51.0,2374.05
+2020-12-25,Tasmania,Kids,Evening,50.0,2268.5
+2020-12-25,Tasmania,Women,Morning,46.0,2717.22
+2020-12-25,Tasmania,Men,Afternoon,,593.4
+2020-12-25,Tasmania,Seniors,Afternoon,29.0,1163.19
+2020-12-25,Northern Territory,Kids,Night,21.0,763.35
+2020-12-25,Northern Territory,Women,Night,34.0,2530.96
+2020-12-25,Northern Territory,Men,Morning,29.0,2232.71
+2020-12-25,Northern Territory,Seniors,Afternoon,27.0,641.25
+2020-12-25,Australian Capital Territory,Kids,Evening,38.0,1271.48
+2020-12-25,Australian Capital Territory,Women,Morning,19.0,1585.55
+2020-12-25,Australian Capital Territory,Men,Morning,59.0,3335.86
+2020-12-25,Australian Capital Territory,Seniors,Afternoon,37.0,841.01
+2020-12-26,New South Wales,Kids,Night,96.0,4760.64
+2020-12-26,New South Wales,Women,Evening,111.0,2109.0
+2020-12-26,New South Wales,Men,Night,128.0,6096.64
+2020-12-26,New South Wales,Seniors,Morning,104.0,4470.96
+2020-12-26,Victoria,Kids,Morning,117.0,5064.93
+2020-12-26,Victoria,Women,Afternoon,194.0,6751.2
+2020-12-26,Victoria,Men,Night,139.0,8030.03
+2020-12-26,Victoria,Seniors,Morning,55.0,1186.35
+2020-12-26,Queensland,Kids,Morning,,2068.32
+2020-12-26,Queensland,Women,Night,143.0,6994.13
+2020-12-26,Queensland,Men,Afternoon,73.0,3024.39
+2020-12-26,Queensland,Seniors,Afternoon,96.0,3468.48
+2020-12-26,South Australia,Kids,Evening,51.0,2004.81
+2020-12-26,South Australia,Women,Evening,108.0,5055.48
+2020-12-26,South Australia,Men,Evening,92.0,4809.76
+2020-12-26,South Australia,Seniors,Night,45.0,2700.45
+2020-12-26,Western Australia,Kids,Evening,46.0,1687.28
+2020-12-26,Western Australia,Women,Evening,61.0,4474.96
+2020-12-26,Western Australia,Men,Night,124.0,8870.96
+2020-12-26,Western Australia,Seniors,Evening,82.0,2796.2
+2020-12-26,Tasmania,Kids,Afternoon,28.0,628.6
+2020-12-26,Tasmania,Women,Morning,73.0,4804.86
+2020-12-26,Tasmania,Men,Afternoon,32.0,2144.96
+2020-12-26,Tasmania,Seniors,Afternoon,19.0,758.1
+2020-12-26,Northern Territory,Kids,Morning,25.0,1185.0
+2020-12-26,Northern Territory,Women,Afternoon,38.0,1363.06
+2020-12-26,Northern Territory,Men,Morning,33.0,2090.55
+2020-12-26,Northern Territory,Seniors,Afternoon,23.0,999.12
+2020-12-26,Australian Capital Territory,Kids,Night,27.0,1085.94
+2020-12-26,Australian Capital Territory,Women,Night,47.0,3297.05
+2020-12-26,Australian Capital Territory,Men,Evening,49.0,2871.89
+2020-12-26,Australian Capital Territory,Seniors,Night,47.0,2004.08
+2020-12-27,New South Wales,Kids,Morning,121.0,3596.12
+2020-12-27,New South Wales,Women,Evening,162.0,8129.16
+2020-12-27,New South Wales,Men,Afternoon,123.0,5480.88
+2020-12-27,New South Wales,Seniors,Night,70.0,1204.7
+2020-12-27,Victoria,Kids,Evening,79.0,3364.61
+2020-12-27,Victoria,Women,Night,85.0,4992.9
+2020-12-27,Victoria,Men,Evening,189.0,11907.0
+2020-12-27,Victoria,Seniors,Morning,131.0,5207.25
+2020-12-27,Queensland,Kids,Morning,109.0,3562.12
+2020-12-27,Queensland,Women,Afternoon,94.0,1482.38
+2020-12-27,Queensland,Men,Evening,134.0,9357.22
+2020-12-27,Queensland,Seniors,Morning,60.0,2013.6
+2020-12-27,South Australia,Kids,Afternoon,41.0,1829.83
+2020-12-27,South Australia,Women,Evening,104.0,3256.24
+2020-12-27,South Australia,Men,Afternoon,74.0,3392.9
+2020-12-27,South Australia,Seniors,Morning,49.0,1980.09
+2020-12-27,Western Australia,Kids,Afternoon,63.0,2480.94
+2020-12-27,Western Australia,Women,Evening,91.0,6701.24
+2020-12-27,Western Australia,Men,Night,92.0,4821.72
+2020-12-27,Western Australia,Seniors,Morning,37.0,1197.69
+2020-12-27,Tasmania,Kids,Evening,39.0,1595.49
+2020-12-27,Tasmania,Women,Evening,54.0,4647.24
+2020-12-27,Tasmania,Men,Afternoon,50.0,2536.5
+2020-12-27,Tasmania,Seniors,Morning,23.0,264.27
+2020-12-27,Northern Territory,Kids,Night,25.0,924.5
+2020-12-27,Northern Territory,Women,Night,43.0,2412.3
+2020-12-27,Northern Territory,Men,Afternoon,29.0,754.29
+2020-12-27,Northern Territory,Seniors,Morning,17.0,689.86
+2020-12-27,Australian Capital Territory,Kids,Night,61.0,2406.45
+2020-12-27,Australian Capital Territory,Women,Morning,64.0,4695.04
+2020-12-27,Australian Capital Territory,Men,Afternoon,37.0,2010.58
+2020-12-27,Australian Capital Territory,Seniors,Morning,28.0,1240.4
+2020-12-28,New South Wales,Kids,Morning,117.0,5115.24
+2020-12-28,New South Wales,Women,Morning,124.0,8621.72
+2020-12-28,New South Wales,Men,Afternoon,223.0,8072.6
+2020-12-28,New South Wales,Seniors,Afternoon,89.0,3401.58
+2020-12-28,Victoria,Kids,Afternoon,122.0,4204.12
+2020-12-28,Victoria,Women,Night,21.0,1673.7
+2020-12-28,Victoria,Men,Evening,148.0,3920.52
+2020-12-28,Victoria,Seniors,Morning,71.0,3624.55
+2020-12-28,Queensland,Kids,Evening,116.0,5874.24
+2020-12-28,Queensland,Women,Morning,110.0,6576.9
+2020-12-28,Queensland,Men,Morning,95.0,6117.05
+2020-12-28,Queensland,Seniors,Morning,53.0,1497.78
+2020-12-28,South Australia,Kids,Afternoon,70.0,2801.4
+2020-12-28,South Australia,Women,Night,110.0,5282.2
+2020-12-28,South Australia,Men,Afternoon,64.0,2388.48
+2020-12-28,South Australia,Seniors,Morning,48.0,1046.88
+2020-12-28,Western Australia,Kids,Evening,57.0,1424.43
+2020-12-28,Western Australia,Women,Morning,117.0,8152.56
+2020-12-28,Western Australia,Men,Morning,39.0,2617.29
+2020-12-28,Western Australia,Seniors,Night,104.0,3789.76
+2020-12-28,Tasmania,Kids,Morning,25.0,1775.0
+2020-12-28,Tasmania,Women,Afternoon,27.0,1587.87
+2020-12-28,Tasmania,Men,Night,40.0,2690.4
+2020-12-28,Tasmania,Seniors,Night,31.0,967.51
+2020-12-28,Northern Territory,Kids,Night,19.0,699.39
+2020-12-28,Northern Territory,Women,Morning,27.0,1599.75
+2020-12-28,Northern Territory,Men,Night,27.0,804.06
+2020-12-28,Northern Territory,Seniors,Night,33.0,1030.26
+2020-12-28,Australian Capital Territory,Kids,Afternoon,25.0,967.0
+2020-12-28,Australian Capital Territory,Women,Evening,59.0,1844.34
+2020-12-28,Australian Capital Territory,Men,Afternoon,54.0,1926.72
+2020-12-28,Australian Capital Territory,Seniors,Afternoon,54.0,2215.62
+2020-12-29,New South Wales,Kids,Evening,99.0,3212.55
+2020-12-29,New South Wales,Women,Evening,157.0,10685.42
+2020-12-29,New South Wales,Men,Night,136.0,6341.68
+2020-12-29,New South Wales,Seniors,Afternoon,101.0,3050.2
+2020-12-29,Victoria,Kids,Morning,88.0,1581.36
+2020-12-29,Victoria,Women,Afternoon,184.0,11621.44
+2020-12-29,Victoria,Men,Evening,92.0,6859.52
+2020-12-29,Victoria,Seniors,Night,90.0,2344.5
+2020-12-29,Queensland,Kids,Night,101.0,4524.8
+2020-12-29,Queensland,Women,Night,130.0,6741.8
+2020-12-29,Queensland,Men,Morning,112.0,5156.48
+2020-12-29,Queensland,Seniors,Morning,84.0,1487.64
+2020-12-29,South Australia,Kids,Evening,46.0,2718.6
+2020-12-29,South Australia,Women,Night,60.0,2944.8
+2020-12-29,South Australia,Men,Afternoon,57.0,1907.22
+2020-12-29,South Australia,Seniors,Night,16.0,540.64
+2020-12-29,Western Australia,Kids,Afternoon,70.0,2795.1
+2020-12-29,Western Australia,Women,Afternoon,93.0,5502.81
+2020-12-29,Western Australia,Men,Morning,107.0,5027.93
+2020-12-29,Western Australia,Seniors,Night,49.0,1631.7
+2020-12-29,Tasmania,Kids,Evening,36.0,2007.0
+2020-12-29,Tasmania,Women,Night,36.0,2161.44
+2020-12-29,Tasmania,Men,Night,42.0,1528.8
+2020-12-29,Tasmania,Seniors,Evening,28.0,614.04
+2020-12-29,Northern Territory,Kids,Evening,12.0,533.52
+2020-12-29,Northern Territory,Women,Night,34.0,2096.44
+2020-12-29,Northern Territory,Men,Evening,32.0,1171.52
+2020-12-29,Northern Territory,Seniors,Afternoon,23.0,555.68
+2020-12-29,Australian Capital Territory,Kids,Morning,57.0,1474.02
+2020-12-29,Australian Capital Territory,Women,Evening,55.0,2323.2
+2020-12-29,Australian Capital Territory,Men,Afternoon,57.0,2572.41
+2020-12-29,Australian Capital Territory,Seniors,Morning,30.0,1325.7
+2020-12-30,New South Wales,Kids,Evening,113.0,5207.04
+2020-12-30,New South Wales,Women,Morning,114.0,4170.12
+2020-12-30,New South Wales,Men,Night,141.0,6385.89
+2020-12-30,New South Wales,Seniors,Evening,118.0,4157.14
+2020-12-30,Victoria,Kids,Afternoon,105.0,2411.85
+2020-12-30,Victoria,Women,Afternoon,224.0,12530.56
+2020-12-30,Victoria,Men,Morning,146.0,5615.16
+2020-12-30,Victoria,Seniors,Afternoon,96.0,2255.04
+2020-12-30,Queensland,Kids,Afternoon,91.0,3336.06
+2020-12-30,Queensland,Women,Evening,118.0,8188.02
+2020-12-30,Queensland,Men,Morning,62.0,2508.52
+2020-12-30,Queensland,Seniors,Afternoon,81.0,4547.34
+2020-12-30,South Australia,Kids,Night,51.0,2390.88
+2020-12-30,South Australia,Women,Evening,75.0,6660.0
+2020-12-30,South Australia,Men,Afternoon,31.0,1573.25
+2020-12-30,South Australia,Seniors,Afternoon,24.0,286.56
+2020-12-30,Western Australia,Kids,Afternoon,73.0,3066.73
+2020-12-30,Western Australia,Women,Evening,89.0,5058.76
+2020-12-30,Western Australia,Men,Evening,159.0,7328.31
+2020-12-30,Western Australia,Seniors,Morning,69.0,2054.13
+2020-12-30,Tasmania,Kids,Evening,34.0,1289.62
+2020-12-30,Tasmania,Women,Afternoon,39.0,3387.93
+2020-12-30,Tasmania,Men,Afternoon,52.0,2668.12
+2020-12-30,Tasmania,Seniors,Night,8.0,260.24
+2020-12-30,Northern Territory,Kids,Evening,48.0,1824.48
+2020-12-30,Northern Territory,Women,Afternoon,51.0,4130.49
+2020-12-30,Northern Territory,Men,Night,35.0,1343.65
+2020-12-30,Northern Territory,Seniors,Morning,6.0,255.42
+2020-12-30,Australian Capital Territory,Kids,Morning,30.0,1272.0
+2020-12-30,Australian Capital Territory,Women,Morning,36.0,1956.96
+2020-12-30,Australian Capital Territory,Men,Afternoon,50.0,2652.5
+2020-12-30,Australian Capital Territory,Seniors,Afternoon,23.0,1092.27
+2020-12-31,New South Wales,Kids,Morning,92.0,2062.64
+2020-12-31,New South Wales,Women,Night,157.0,9269.28
+2020-12-31,New South Wales,Men,Morning,144.0,9717.12
+2020-12-31,New South Wales,Seniors,Evening,92.0,3206.2
+2020-12-31,Victoria,Kids,Afternoon,66.0,3257.76
+2020-12-31,Victoria,Women,Afternoon,150.0,7792.5
+2020-12-31,Victoria,Men,Evening,51.0,3497.07
+2020-12-31,Victoria,Seniors,Afternoon,55.0,1667.6
+2020-12-31,Queensland,Kids,Evening,89.0,2454.62
+2020-12-31,Queensland,Women,Morning,64.0,1623.68
+2020-12-31,Queensland,Men,Morning,120.0,5076.0
+2020-12-31,Queensland,Seniors,Afternoon,135.0,3570.75
+2020-12-31,South Australia,Kids,Afternoon,39.0,1341.21
+2020-12-31,South Australia,Women,Morning,83.0,4246.28
+2020-12-31,South Australia,Men,Evening,78.0,2853.24
+2020-12-31,South Australia,Seniors,Morning,28.0,524.72
+2020-12-31,Western Australia,Kids,Evening,22.0,767.8
+2020-12-31,Western Australia,Women,Night,88.0,4281.2
+2020-12-31,Western Australia,Men,Morning,113.0,7425.23
+2020-12-31,Western Australia,Seniors,Evening,53.0,995.34
+2020-12-31,Tasmania,Kids,Evening,26.0,884.52
+2020-12-31,Tasmania,Women,Evening,36.0,1714.32
+2020-12-31,Tasmania,Men,Afternoon,30.0,1332.0
+2020-12-31,Tasmania,Seniors,Afternoon,22.0,836.0
+2020-12-31,Northern Territory,Kids,Night,29.0,889.43
+2020-12-31,Northern Territory,Women,Night,53.0,2290.13
+2020-12-31,Northern Territory,Men,Evening,16.0,872.48
+2020-12-31,Northern Territory,Seniors,Afternoon,18.0,703.44
+2020-12-31,Australian Capital Territory,Kids,Evening,11.0,610.94
+2020-12-31,Australian Capital Territory,Women,Afternoon,70.0,2456.3
+2020-12-31,Australian Capital Territory,Men,Afternoon,27.0,1932.39
+2020-12-31,Australian Capital Territory,Seniors,Night,28.0,783.72
